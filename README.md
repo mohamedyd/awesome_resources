@@ -20,8 +20,10 @@ A collection of resources in different domains
 * ML system design patterns	Github		https://bit.ly/3rRQe4L					
 * Statistical ML			Youtube		https://bit.ly/2SH6NUz				
 
+* 285+ Machine Learning Projects with Python
+https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265
 
-Github crash course
+* Github crash course
 https://lnkd.in/dCHHf_Ax
 
 Kimia Lab: Machine Intelligence
