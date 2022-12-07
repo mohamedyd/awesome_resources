@@ -1,7 +1,9 @@
 # awesome_resources
 A collection of resources in different domains
 
-
+* Applied Machine Learning (Cornell CS5785): 
+	* Lecture: https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
+	* Notebooks: https://github.com/Machine-Learning-Tokyo/AI_Curriculum#applied-machine-learning 
 * Source code for books published by Apress: https://github.com/Apress
 * End to End ML Overview		https://bit.ly/3xl9kDk
 * Meta-learning and multi-task	Stanford	https://bit.ly/2S8aCBT
