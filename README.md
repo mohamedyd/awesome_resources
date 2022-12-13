@@ -86,6 +86,8 @@ Reading Notes and Slides from Chip Huyen's CS 392S(Machine Learning Systems Desi
 MLOps 8 weeks course
 https://github.com/mohamedyd/MLOps-Basics
 
+* MLOps - tools, best practices, and case studies (Chip Huyen): https://huyenchip.com/mlops/
+
 -------------------------------------------------------------------
 
 Variational autoencoder
