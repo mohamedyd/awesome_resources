@@ -159,8 +159,8 @@ Extra resources about MLOPS:
 
 https://research.aimultiple.com/
 
-
-https://aman.ai/primers/math/
+* Plenty of resources: https://aman.ai/
+	* https://aman.ai/primers/math/
 
 
 𝗠𝗟𝗢𝗽𝘀 𝗖𝗼𝘂𝗿𝘀𝗲 𝘄𝗲𝗯𝘀𝗶𝘁𝗲: https://madewithml.com/#mlops
