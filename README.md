@@ -25,6 +25,32 @@ A collection of resources in different domains
 * 285+ Machine Learning Projects with Python
 https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265
 
+* comprehensive list of MLOps resources
+https://github.com/khuyentran1401/Data-science#mlops
+
+* books recommendation
+	* 𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺𝘀, Chip Huyen: Why does 9/10 models never make it to production? Read this book and compare to how ML is done at most companies, then you know… Highly recommended!
+ 
+	* 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗮𝗹 𝗠𝗟𝗢𝗽𝘀, Noah Gift & Alfredo Deza: The perfect high-level overview of MLOps, buy this book if you do not know where to start or what you want to read about.
+ 
+	* 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗠𝗟𝗢𝗽𝘀, Emmanuel Raj: I can’t put my finger on what this book is about, but there are a lot of golden nuggets on project architecture and software engineering aspects that are needed to create a nice and agile ML lifecycle.
+ 
+	* 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀, Hannes Hapke & Catherine Nelson: I bought this book specifically for the chapters on TensorFlow Serving, well worth it! Other chapters are however also interesting to get some insights to the TFX ecosystem.
+ 
+	* 𝗘𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲, Ville Tuulos: Very nice and easy read suitable for the late nights when sleeping is impossible. Explains the reasoning behind the ML pipelines architectures and is worth reading regardless of if you are interested in Metaflow or not.
+ 
+	* 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗲𝘀𝗶𝗴𝗻 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀, Valliappa Lakshmanan, Sara Robinson, Michael Munn: An excellent introduction to ML modeling and feature representation for all kinds on different data modalities. I regularly use it as inspiration for data preprocessing and feature engineering.
+ 
+	* 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗼𝗻 𝗔𝗪𝗦, Chris Fregly & Antje Barth: Some parts of the book are very nice but some parts feel like it is only code blocks stacked onto code blocks with no explanation of the ”why”. I use it as inspiration on how to use the AWS APIs.
+ 
+	* 𝗟𝗲𝗮𝗿𝗻 𝗔𝗺𝗮𝘇𝗼𝗻 𝗦𝗮𝗴𝗲𝗠𝗮𝗸𝗲𝗿, Julien SIMON: Haven’t gotten to finish this one yet, it will keep me occupied for some more weeks. Well written and much better of explaining why things are done in a specific way and what options there are.
+
+*  Launching Cookiecutter-MLOps 🚀🚨 – An open-source project scaffolding for machine learning and #MLOps, built on top of Cookiecutter Data Science, and inspired by Shreya Shankar’s amazing tweetstorm.
+https://dagshub.com/blog/cookiecutter-mlops-a-production-focused-project-template/
+
+* Efficient Python for Data Scientists
+https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists
+
 * Github crash course
 https://lnkd.in/dCHHf_Ax
 
