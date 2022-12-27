@@ -25,6 +25,9 @@ A collection of resources in different domains
 * 285+ Machine Learning Projects with Python
 https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265
 
+* Awesome Production Machine Learning
+https://github.com/EthicalML/awesome-production-machine-learning
+
 * comprehensive list of MLOps resources
 https://github.com/khuyentran1401/Data-science#mlops
 
