@@ -22,6 +22,35 @@ A collection of resources in different domains
 * ML system design patterns	Github		https://bit.ly/3rRQe4L					
 * Statistical ML			Youtube		https://bit.ly/2SH6NUz				
 
+* The Base Camp for your Ascent in Machine Learning (ML simply explained)
+https://databasecamp.de/en/homepage
+
+
+* 10 𝐅𝐫𝐞𝐞 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂𝐨𝐮𝐫𝐬𝐞𝐬 𝐅𝐫𝐨𝐦 𝐓𝐨𝐩 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐢𝐞𝐬:
+
+	* 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐔𝐂 𝐁𝐞𝐫𝐤𝐞𝐥𝐞𝐲: https://lnkd.in/dChzX6dZ
+
+	* 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐂𝐚𝐫𝐧𝐞𝐠𝐢𝐞 𝐌𝐞𝐥𝐥𝐨𝐧 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲: https://lnkd.in/dH8ktatw
+
+	* 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 —  𝐒𝐭𝐚𝐧𝐟𝐨𝐫𝐝 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲: https://lnkd.in/d4FzSKpJ
+
+	* 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐃𝐚𝐭𝐚 𝐌𝐢𝐧𝐢𝐧𝐠 — 𝐂𝐚𝐥𝐭𝐞𝐜𝐡: https://lnkd.in/dUhbEyBx
+
+	* 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐃𝐚𝐭𝐚 — 𝐂𝐚𝐥𝐭𝐞𝐜𝐡: https://lnkd.in/d4zZZJ5h
+
+	* 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦𝐬  —  𝐂𝐨𝐫𝐧𝐞𝐥𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲: https://lnkd.in/dtSjQ22i
+
+	* 𝐋𝐚𝐫𝐠𝐞 𝐒𝐜𝐚𝐥𝐞 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠  — 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐓𝐨𝐫𝐨𝐧𝐭𝐨: https://lnkd.in/dv8-7EFE
+
+	* 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐋𝐚𝐫𝐠𝐞 𝐃𝐚𝐭𝐚𝐬𝐞𝐭𝐬— 𝐂𝐚𝐫𝐧𝐞𝐠𝐢𝐞 𝐌𝐞𝐥𝐥𝐨𝐧 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲: https://lnkd.in/dGaN3p53
+
+	* 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬 𝐨𝐟 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐈𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞 — 𝐂𝐚𝐥𝐭𝐞𝐜𝐡: https://lnkd.in/d9J9iksZ
+
+	* 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐒𝐭𝐚𝐧𝐟𝐨𝐫𝐝 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲: https://lnkd.in/dKttsi_3
+
+* Your Guide to Data Quality Management
+https://www.scnsoft.com/blog/guide-to-data-quality-management
+
 * A simple solution for monitoring ML systems
 https://www.jeremyjordan.me/ml-monitoring/
 
@@ -50,6 +79,29 @@ https://github.com/khuyentran1401/Data-science#mlops
 	* 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗼𝗻 𝗔𝗪𝗦, Chris Fregly & Antje Barth: Some parts of the book are very nice but some parts feel like it is only code blocks stacked onto code blocks with no explanation of the ”why”. I use it as inspiration on how to use the AWS APIs.
  
 	* 𝗟𝗲𝗮𝗿𝗻 𝗔𝗺𝗮𝘇𝗼𝗻 𝗦𝗮𝗴𝗲𝗠𝗮𝗸𝗲𝗿, Julien SIMON: Haven’t gotten to finish this one yet, it will keep me occupied for some more weeks. Well written and much better of explaining why things are done in a specific way and what options there are.
+
+* 𝐓𝐨𝐩 12 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐁𝐨𝐨𝐤𝐬: https://lnkd.in/dci6g57W
+
+	* 𝑼𝒏𝒅𝒆𝒓𝒔𝒕𝒂𝒏𝒅𝒊𝒏𝒈 𝑩𝒖𝒔𝒔𝒊𝒏𝒆𝒔 𝑷𝒓𝒐𝒃𝒍𝒆𝒎
+		* 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐟𝐨𝐫 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬: https://lnkd.in/dmaY5zwG
+	* 𝑫𝒂𝒕𝒂 𝑪𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏
+		* 𝐖𝐞𝐛 𝐒𝐜𝐫𝐚𝐩𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧: 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐌𝐨𝐝𝐞𝐫𝐧 𝐖𝐞𝐛: https://lnkd.in/d5Mq9ZXC
+		* 𝐒𝐐𝐋 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞: https://lnkd.in/dXnBVhZG
+	* 𝑫𝒂𝒕𝒂 𝑷𝒓𝒆𝒑𝒂𝒓𝒂𝒕𝒊𝒐𝒏
+		* 𝐁𝐚𝐝 𝐃𝐚𝐭𝐚: https://lnkd.in/dgbd-uiJ
+		* 𝐏𝐲𝐭𝐡𝐨𝐧 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐂𝐨𝐨𝐤𝐛𝐨𝐨𝐤: https://lnkd.in/d9XNqMD5
+	* 𝑫𝒂𝒕𝒂 𝑬𝒙𝒑𝒍𝒐𝒓𝒂𝒕𝒊𝒐𝒏
+		* 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬 𝐅𝐨𝐫 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭𝐬: https://lnkd.in/d7bWPst8
+		* 𝐇𝐚𝐧𝐝𝐬-𝐎𝐧 𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐨𝐫𝐲 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧: https://lnkd.in/dY_-WbS2
+ 	* 𝑴𝒐𝒅𝒆𝒍𝒊𝒏𝒈
+		* 𝐇𝐚𝐧𝐝𝐬-𝐎𝐧 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐒𝐜𝐢𝐤𝐢𝐭-𝐋𝐞𝐚𝐫𝐧 𝐚𝐧𝐝 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰: https://lnkd.in/dvnxmj87
+	* 𝑫𝒂𝒕𝒂 𝑺𝒕𝒐𝒓𝒚𝒕𝒆𝒍𝒍𝒊𝒏𝒈
+		* 𝐒𝐭𝐨𝐫𝐲𝐭𝐞𝐥𝐥𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐃𝐚𝐭𝐚: https://lnkd.in/dzrQg7VQ
+ 		* 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝𝐬 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐀𝐩𝐩𝐬 𝐰𝐢𝐭𝐡 𝐏𝐥𝐨𝐭𝐥𝐲 𝐚𝐧𝐝 𝐃𝐚𝐬𝐡: https://lnkd.in/dfVDeVjY
+	* 𝑴𝒐𝒅𝒆𝒍 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕
+		* 𝐁𝐞𝐠𝐢𝐧𝐧𝐢𝐧𝐠 𝐌𝐋𝐎𝐩𝐬 𝐰𝐢𝐭𝐡 𝐌𝐋𝐅𝐥𝐨𝐰: https://lnkd.in/dgiKNgfX
+	* 𝑨𝒑𝒑𝒓𝒐𝒂𝒄𝒉𝒊𝒏𝒈 𝑴𝑳 𝑷𝒓𝒐𝒃𝒍𝒆𝒎𝒔
+		* 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡𝐢𝐧𝐠 (𝐀𝐥𝐦𝐨𝐬𝐭) 𝐀𝐧𝐲 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐏𝐫𝐨𝐛𝐥𝐞𝐦: https://lnkd.in/dYE5Jsn3
 
 *  Launching Cookiecutter-MLOps 🚀🚨 – An open-source project scaffolding for machine learning and #MLOps, built on top of Cookiecutter Data Science, and inspired by Shreya Shankar’s amazing tweetstorm.
 https://dagshub.com/blog/cookiecutter-mlops-a-production-focused-project-template/
