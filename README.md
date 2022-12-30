@@ -51,6 +51,9 @@ https://databasecamp.de/en/homepage
 * Your Guide to Data Quality Management
 https://www.scnsoft.com/blog/guide-to-data-quality-management
 
+* Deep Reinforcement Learning Explained
+https://torres.ai/deep-reinforcement-learning-explained-series/
+
 * A simple solution for monitoring ML systems
 https://www.jeremyjordan.me/ml-monitoring/
 
