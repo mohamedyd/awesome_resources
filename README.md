@@ -48,6 +48,9 @@ https://databasecamp.de/en/homepage
 
 	* 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐒𝐭𝐚𝐧𝐟𝐨𝐫𝐝 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲: https://lnkd.in/dKttsi_3
 
+* 𝗔𝗻 𝗔𝗜 𝗖𝗼𝗱𝗶𝗻𝗴 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁𝘀! 
+https://codesquire.ai/
+
 * Your Guide to Data Quality Management
 https://www.scnsoft.com/blog/guide-to-data-quality-management
 
