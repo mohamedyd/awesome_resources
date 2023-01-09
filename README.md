@@ -25,6 +25,8 @@ A collection of resources in different domains
 * The Base Camp for your Ascent in Machine Learning (ML simply explained)
 https://databasecamp.de/en/homepage
 
+* End to End Machine Learning Pipeline With MLOps Tools (MLFlow+DVC+Flask+Heroku+EvidentlyAI+Github Actions)
+https://medium.com/@shanakachathuranga/end-to-end-machine-learning-pipeline-with-mlops-tools-mlflow-dvc-flask-heroku-evidentlyai-github-c38b5233778c
 
 * 10 𝐅𝐫𝐞𝐞 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂𝐨𝐮𝐫𝐬𝐞𝐬 𝐅𝐫𝐨𝐦 𝐓𝐨𝐩 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐢𝐞𝐬:
 
