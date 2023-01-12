@@ -1,9 +1,6 @@
-# awesome_resources
-A collection of resources in different domains
+# MLOps
 
-## MLOps
-
-### Books
+## Books
 
 * 𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺𝘀, Chip Huyen: Why does 9/10 models never make it to production? Read this book and compare to how ML is done at most companies, then you know… Highly recommended!
 
@@ -26,7 +23,7 @@ A collection of resources in different domains
 * 𝗟𝗲𝗮𝗿𝗻 𝗔𝗺𝗮𝘇𝗼𝗻 𝗦𝗮𝗴𝗲𝗠𝗮𝗸𝗲𝗿, Julien SIMON: Haven’t gotten to finish this one yet, it will keep me occupied for some more weeks. Well written and much better of explaining why things are done in a specific way and what options there are.
 
 
-### Blogs & Articles
+## Blogs & Articles
 
 * [Machine Learning Operations](https://ml-ops.org/): This site is very useful to understand the MLOps principles. It provides several articles about interesting topics, such as MLOps stack canvas, State of MLOps (Tools & Frameworks), End-to-End ML Workflow Lifecycle, and Three Levels of ML-based Software.
 
@@ -40,11 +37,15 @@ A collection of resources in different domains
 
 * [MLOps Community](https://mlops.community/): Learn about feature stores, machine learning monitoring, and metadata storage and management.
 
-* [Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning](https://github.com/mohamedyd/awesome_resources/files/10401885/practitioners_guide_to_mlops_whitepaper.pdf)
+* [Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning, Google Cloud](https://github.com/mohamedyd/awesome_resources/files/10401885/practitioners_guide_to_mlops_whitepaper.pdf)
 
-## Python 
+## Courses
 
-### GitHub Repos
+* [Machine Learning Engineering for Production (MLOps), Andrew Ng, Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK): Through this course, you will learn about the ML lifecycle and how to deploy ML models. 
+
+# Python 
+
+## GitHub Repos
 
 * [9 Best GitHub repositories to learn python.pdf, Himanshu Ramchandani](https://github.com/mohamedyd/awesome_resources/files/10401452/9.Best.GitHub.repos.to.learn.python.pdf)
 
