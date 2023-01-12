@@ -69,6 +69,26 @@
 
 * [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83): Starting from the very basics, the course covers all of the most important ML algorithms and how to apply them in practice. The slides are also Jupyter notebooks with programmatically generated figures (GitHub)[https://github.com/kuleshov/cornell-cs5785-2020-applied-ml]. 
 
+* [𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐔𝐂 𝐁𝐞𝐫𝐤𝐞𝐥𝐞𝐲](https://lnkd.in/dChzX6dZ)
+
+* [𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐂𝐚𝐫𝐧𝐞𝐠𝐢𝐞 𝐌𝐞𝐥𝐥𝐨𝐧 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲](https://lnkd.in/dH8ktatw)
+
+* [𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 —  𝐒𝐭𝐚𝐧𝐟𝐨𝐫𝐝 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲](https://lnkd.in/d4FzSKpJ)
+
+* [𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐃𝐚𝐭𝐚 𝐌𝐢𝐧𝐢𝐧𝐠 — 𝐂𝐚𝐥𝐭𝐞𝐜𝐡](https://lnkd.in/dUhbEyBx)
+
+* [𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐃𝐚𝐭𝐚 — 𝐂𝐚𝐥𝐭𝐞𝐜𝐡](https://lnkd.in/d4zZZJ5h)
+
+* [𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦𝐬  —  𝐂𝐨𝐫𝐧𝐞𝐥𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲](https://lnkd.in/dtSjQ22i)
+
+* [𝐋𝐚𝐫𝐠𝐞 𝐒𝐜𝐚𝐥𝐞 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠  — 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐓𝐨𝐫𝐨𝐧𝐭𝐨](https://lnkd.in/dv8-7EFE)
+
+* [𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐋𝐚𝐫𝐠𝐞 𝐃𝐚𝐭𝐚𝐬𝐞𝐭𝐬— 𝐂𝐚𝐫𝐧𝐞𝐠𝐢𝐞 𝐌𝐞𝐥𝐥𝐨𝐧 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲](https://lnkd.in/dGaN3p53)
+
+* [𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬 𝐨𝐟 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐈𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞 — 𝐂𝐚𝐥𝐭𝐞𝐜𝐡](https://lnkd.in/d9J9iksZ)
+
+* [𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐒𝐭𝐚𝐧𝐟𝐨𝐫𝐝 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲](https://lnkd.in/dKttsi_3)
+
 * [Neural networks for NLP (CMU CS 11-747, Spring 2021), Carnegie Mellon University](https://www.phontron.com/class/nn4nlp2021/schedule.html):  It covers major topics in neural networks modeling and training
 	- Language modeling and training tricks
 	- Neural networks building
@@ -123,28 +143,6 @@ https://databasecamp.de/en/homepage
 
 * End to End Machine Learning Pipeline With MLOps Tools (MLFlow+DVC+Flask+Heroku+EvidentlyAI+Github Actions)
 https://medium.com/@shanakachathuranga/end-to-end-machine-learning-pipeline-with-mlops-tools-mlflow-dvc-flask-heroku-evidentlyai-github-c38b5233778c
-
-* 10 𝐅𝐫𝐞𝐞 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂𝐨𝐮𝐫𝐬𝐞𝐬 𝐅𝐫𝐨𝐦 𝐓𝐨𝐩 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐢𝐞𝐬:
-
-	* 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐔𝐂 𝐁𝐞𝐫𝐤𝐞𝐥𝐞𝐲: https://lnkd.in/dChzX6dZ
-
-	* 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐂𝐚𝐫𝐧𝐞𝐠𝐢𝐞 𝐌𝐞𝐥𝐥𝐨𝐧 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲: https://lnkd.in/dH8ktatw
-
-	* 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 —  𝐒𝐭𝐚𝐧𝐟𝐨𝐫𝐝 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲: https://lnkd.in/d4FzSKpJ
-
-	* 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐃𝐚𝐭𝐚 𝐌𝐢𝐧𝐢𝐧𝐠 — 𝐂𝐚𝐥𝐭𝐞𝐜𝐡: https://lnkd.in/dUhbEyBx
-
-	* 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐃𝐚𝐭𝐚 — 𝐂𝐚𝐥𝐭𝐞𝐜𝐡: https://lnkd.in/d4zZZJ5h
-
-	* 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦𝐬  —  𝐂𝐨𝐫𝐧𝐞𝐥𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲: https://lnkd.in/dtSjQ22i
-
-	* 𝐋𝐚𝐫𝐠𝐞 𝐒𝐜𝐚𝐥𝐞 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠  — 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐓𝐨𝐫𝐨𝐧𝐭𝐨: https://lnkd.in/dv8-7EFE
-
-	* 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐋𝐚𝐫𝐠𝐞 𝐃𝐚𝐭𝐚𝐬𝐞𝐭𝐬— 𝐂𝐚𝐫𝐧𝐞𝐠𝐢𝐞 𝐌𝐞𝐥𝐥𝐨𝐧 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲: https://lnkd.in/dGaN3p53
-
-	* 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬 𝐨𝐟 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐈𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞 — 𝐂𝐚𝐥𝐭𝐞𝐜𝐡: https://lnkd.in/d9J9iksZ
-
-	* 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐒𝐭𝐚𝐧𝐟𝐨𝐫𝐝 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲: https://lnkd.in/dKttsi_3
 
 * 𝗔𝗻 𝗔𝗜 𝗖𝗼𝗱𝗶𝗻𝗴 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁𝘀! 
 https://codesquire.ai/
