@@ -65,6 +65,21 @@
 
 * [labml.ai Annotated PyTorch Paper Implementations](https://nn.labml.ai/): A collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations, and the website renders these as side-by-side formatted notes.
 
+## Courses
+
+* [Neural networks for NLP (CMU CS 11-747, Spring 2021), Carnegie Mellon University](https://www.phontron.com/class/nn4nlp2021/schedule.html):  It covers major topics in neural networks modeling and training
+	- Language modeling and training tricks
+	- Neural networks building
+	- Recurrent neural networks
+	- Attention mechanism and efficiency tricks
+	- Contextual word representations
+	- Debugging neural networks
+	- Model interpretation
+	- Trees and Graphs
+	- Reinforcement learning for structured prediction
+	- Knowledge bases with neural networks
+	- Adversarial methods and advanced search algorithms
+
 ## Datasets, Pretrained Models, & ML Problems
 
 * [32 datasets to uplift your skills in data science](https://datasciencedojo.com/blog/datasets-data-science-skills/): An archive of 32 datasets to use to practice and improve your skills as a data scientist. The data sets are categorized according to varying difficulty levels to be suitable for everyone.
