@@ -36,6 +36,12 @@ A collection of resources in different domains
 
 * [Awesome-mlops](https://github.com/visenger/awesome-mlops#mlops-books): An awesome list of references for MLOps, including books recommendation, scientific papers, blogs, courses, and talks about different MLOps topics.
 
+* [Made With ML](https://madewithml.com/): Learn how to combine machine learning with software engineering to develop, deploy & maintain production ML applications.
+
+* [MLOps Community](https://mlops.community/): Learn about feature stores, machine learning monitoring, and metadata storage and management.
+
+* [Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning](https://github.com/mohamedyd/awesome_resources/files/10401885/practitioners_guide_to_mlops_whitepaper.pdf)
+
 ## Python 
 
 ### GitHub Repos
