@@ -67,6 +67,8 @@
 
 ## Courses
 
+* [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83): Starting from the very basics, the course covers all of the most important ML algorithms and how to apply them in practice. The slides are also Jupyter notebooks with programmatically generated figures (GitHub)[https://github.com/kuleshov/cornell-cs5785-2020-applied-ml]. 
+
 * [Neural networks for NLP (CMU CS 11-747, Spring 2021), Carnegie Mellon University](https://www.phontron.com/class/nn4nlp2021/schedule.html):  It covers major topics in neural networks modeling and training
 	- Language modeling and training tricks
 	- Neural networks building
@@ -88,15 +90,16 @@
 
 * [Hugging Face](https://huggingface.co/): A list of datasets and pretrained-models for different ML applications
 
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets): This repository lists topic-centric public data sources in high quality collected from blogs, answers, and user responses. 
+
+
 ## Large Language Models
 
 * [Rasa Algorithm Whiteboard - Transformers & Attention](https://www.youtube.com/watch?v=yGTUuEx3GkA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=10): This Youtube course provides an explanation of the attention mechanisms.
 
 # Unorganized Resources
 
-* Applied Machine Learning (Cornell CS5785): 
-	* Lecture: https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
-	* Notebooks: https://github.com/Machine-Learning-Tokyo/AI_Curriculum#applied-machine-learning 
+
 * Source code for books published by Apress: https://github.com/Apress
 * End to End ML Overview		https://bit.ly/3xl9kDk
 * Meta-learning and multi-task	Stanford	https://bit.ly/2S8aCBT
