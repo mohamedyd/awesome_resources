@@ -39,6 +39,10 @@
 
 * [Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning, Google Cloud](https://github.com/mohamedyd/awesome_resources/files/10401885/practitioners_guide_to_mlops_whitepaper.pdf)
 
+* [Data Science Topics](https://github.com/khuyentran1401/Data-science): A collection of useful data science topics along with articles and videos. The repo includes articles about the following topics: MLOps, Testing, Machine Learning, Natural Language Processing, Computer Vision, Time Series, Feature Engineering, Visualization, Productive Tools, Python, linear algebra, statistics, VSCode, among others.
+
+* [Ultimate MLOps Learning Roadmap with Free Learning Resources In 2023](https://pub.towardsai.net/ultimate-mlops-learning-roadmap-with-free-learning-resources-in-2023-3ba7664cb1e9): A comprehensive guide to learning about MLOps, including the key concepts and skills that you need to master.
+
 ## Courses
 
 * [Machine Learning Engineering for Production (MLOps), Andrew Ng, Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK): Through this course, you will learn about the ML lifecycle and how to deploy ML models. 
@@ -51,7 +55,29 @@
 
 * [Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes): This repo contains useful notes from Clean Code book that will help with writing quality code. The repo is well summarised that could be used as a refresher or a quick guide for junior engineers.
 
-## Unorganized Resources
+* [LeetCode Questions & Answers](https://github.com/ThinamXx/ML..Interview..Preparation): This repo targets preparing you for the machine learning interviews.
+
+# Machine Learning
+
+## Articles
+
+* [Papers With Code: The latest in Machine Learning](https://paperswithcode.com/): A list of machine learning papers, their datasets, and their source code.
+
+* [labml.ai Annotated PyTorch Paper Implementations](https://nn.labml.ai/): A collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations, and the website renders these as side-by-side formatted notes.
+
+## Datasets, Pretrained Models, & ML Problems
+
+* [32 datasets to uplift your skills in data science](https://datasciencedojo.com/blog/datasets-data-science-skills/): An archive of 32 datasets to use to practice and improve your skills as a data scientist. The data sets are categorized according to varying difficulty levels to be suitable for everyone.
+
+* [Keras Code Example](https://keras.io/examples/): A list of hosted Jupyter notebooks which provide focused demonstrations of vertical deep learning workflows.
+
+* [Hugging Face](https://huggingface.co/): A list of datasets and pretrained-models for different ML applications
+
+## Large Language Models
+
+* [Rasa Algorithm Whiteboard - Transformers & Attention](https://www.youtube.com/watch?v=yGTUuEx3GkA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=10): This Youtube course provides an explanation of the attention mechanisms.
+
+# Unorganized Resources
 
 * Applied Machine Learning (Cornell CS5785): 
 	* Lecture: https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
