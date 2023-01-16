@@ -5,12 +5,12 @@ This repository includes plenty of resources related to different domains.
 
 | Topic         	|               |       |                 |
 | --------------------- |:-------------:| -----:| ---------------:|
-| MLOps     		| [Books](#books) | Blogs & Articles | Courses      |
+| MLOps     		| [Books](#mlops-books) | [Blogs & Articles](#mlops-blogs-&-articles) | [Courses](#mlops-courses)      |
 | Machine Learning      | Books | Blogs & Articles | Courses      |
 
 # MLOps
 
-## Books
+## MLOps Books
 
 * 𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺𝘀, Chip Huyen: Why does 9/10 models never make it to production? Read this book and compare to how ML is done at most companies, then you know… Highly recommended!
 
@@ -35,7 +35,7 @@ This repository includes plenty of resources related to different domains.
 * 𝗟𝗲𝗮𝗿𝗻 𝗔𝗺𝗮𝘇𝗼𝗻 𝗦𝗮𝗴𝗲𝗠𝗮𝗸𝗲𝗿, Julien SIMON: Haven’t gotten to finish this one yet, it will keep me occupied for some more weeks. Well written and much better of explaining why things are done in a specific way and what options there are.
 
 
-## Blogs & Articles
+## MLOps Blogs & Articles
 
 * [Machine Learning Operations](https://ml-ops.org/): This site is very useful to understand the MLOps principles. It provides several articles about interesting topics, such as MLOps stack canvas, State of MLOps (Tools & Frameworks), End-to-End ML Workflow Lifecycle, and Three Levels of ML-based Software.
 
@@ -62,7 +62,7 @@ This repository includes plenty of resources related to different domains.
 * [End to End Machine Learning Pipeline With MLOps Tools (MLFlow+DVC+Flask+Heroku+EvidentlyAI+Github Actions)](https://medium.com/@shanakachathuranga/end-to-end-machine-learning-pipeline-with-mlops-tools-mlflow-dvc-flask-heroku-evidentlyai-github-c38b5233778c): This article will show you how to automate the entire machine learning lifecycle with the MLOps tools.
 
 
-## Courses
+## MLOps Courses
 
 * [Machine Learning Engineering for Production (MLOps), Andrew Ng, Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK): Through this course, you will learn about the ML lifecycle and how to deploy ML models. 
 
