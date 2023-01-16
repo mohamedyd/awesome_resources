@@ -2,8 +2,6 @@
 
 This repository includes plenty of resources related to different domains. 
 
-
-| Topic         	|               |       |                 |
 | --------------------- |:-------------:| -----:| ---------------:|
 | MLOps     		| [Books](#mlops-books) | [Blogs & Articles](#mlops-blogs-and-articles) | [Courses](#mlops-courses)      |
 | Machine Learning      | Books | Blogs & Articles | Courses      |
