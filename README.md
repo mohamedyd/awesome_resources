@@ -2,8 +2,8 @@
 
 This repository includes plenty of resources related to different domains. 
 
-| | | | |
-|-|-|-|-|
+| | | | | |
+|-|-|-|-|-|
 | MLOps     		| [Books](#mlops-books) | [Blogs & Articles](#mlops-blogs-and-articles) | [Courses](#mlops-courses)      | |
 | Machine Learning      | [Books](#ml-books) | [Articles](#ml-articles) | [Courses](#ml-courses)   | [Datasets, Pretrained Models, & ML Problems](#datasets-pretrained-models-and-ml-problems) |
 | Python		| [GitHub Repositories](#github-repos)	  | | | |
