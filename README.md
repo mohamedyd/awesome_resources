@@ -105,6 +105,8 @@ This repository includes plenty of resources related to different domains.
 
 * [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83): Starting from the very basics, the course covers all of the most important ML algorithms and how to apply them in practice. The slides are also Jupyter notebooks with programmatically generated figures (GitHub)[https://github.com/kuleshov/cornell-cs5785-2020-applied-ml]. 
 
+* [Machine Learning Course Notes](https://github.com/dair-ai/ML-Course-Notes): This repository shares videos and lecture notes on several topics related to ML, NLP, Transformers, and Deep Reinforcement Learning.
+
 * [𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐔𝐂 𝐁𝐞𝐫𝐤𝐞𝐥𝐞𝐲](https://lnkd.in/dChzX6dZ)
 
 * [𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐂𝐚𝐫𝐧𝐞𝐠𝐢𝐞 𝐌𝐞𝐥𝐥𝐨𝐧 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲](https://lnkd.in/dH8ktatw)
