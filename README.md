@@ -5,7 +5,7 @@ This repository includes plenty of resources related to different domains.
 
 | Topic         	|               |       |                 |
 | --------------------- |:-------------:| -----:| ---------------:|
-| MLOps     		| [Books](#mlops-books) | [Blogs & Articles](#mlops-blogs-&-articles) | [Courses](#mlops-courses)      |
+| MLOps     		| [Books](#mlops-books) | [Blogs & Articles](#mlops-blogs-and-articles) | [Courses](#mlops-courses)      |
 | Machine Learning      | Books | Blogs & Articles | Courses      |
 
 # MLOps
@@ -35,7 +35,7 @@ This repository includes plenty of resources related to different domains.
 * 𝗟𝗲𝗮𝗿𝗻 𝗔𝗺𝗮𝘇𝗼𝗻 𝗦𝗮𝗴𝗲𝗠𝗮𝗸𝗲𝗿, Julien SIMON: Haven’t gotten to finish this one yet, it will keep me occupied for some more weeks. Well written and much better of explaining why things are done in a specific way and what options there are.
 
 
-## MLOps Blogs & Articles
+## MLOps Blogs and Articles
 
 * [Machine Learning Operations](https://ml-ops.org/): This site is very useful to understand the MLOps principles. It provides several articles about interesting topics, such as MLOps stack canvas, State of MLOps (Tools & Frameworks), End-to-End ML Workflow Lifecycle, and Three Levels of ML-based Software.
 
