@@ -5,7 +5,8 @@ This repository includes plenty of resources related to different domains.
 | | | | |
 |-|-|-|-|
 | MLOps     		| [Books](#mlops-books) | [Blogs & Articles](#mlops-blogs-and-articles) | [Courses](#mlops-courses)      |
-| Machine Learning      | Books | Blogs & Articles | Courses      |
+| Machine Learning      | [Books](#ml-books) | [Articles](#ml-articles) | [Courses](#ml-courses)   |
+| Python		| [GitHub Repositories](#github-repos)	  | [Datasets, Pretrained Models, and ML Problems](#datasets,-pretrained-models,-and-ml-problems) | |
 
 # MLOps
 
@@ -67,20 +68,9 @@ This repository includes plenty of resources related to different domains.
 
 
 
-# Python 
-
-## GitHub Repos
-
-* [9 Best GitHub repositories to learn python.pdf, Himanshu Ramchandani](https://github.com/mohamedyd/awesome_resources/files/10401452/9.Best.GitHub.repos.to.learn.python.pdf)
-
-* [Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes): This repo contains useful notes from Clean Code book that will help with writing quality code. The repo is well summarised that could be used as a refresher or a quick guide for junior engineers.
-
-* [LeetCode Questions & Answers](https://github.com/ThinamXx/ML..Interview..Preparation): This repo targets preparing you for the machine learning interviews.
-
-
 # Machine Learning
 
-## Books
+## ML Books
 
 * 𝑼𝒏𝒅𝒆𝒓𝒔𝒕𝒂𝒏𝒅𝒊𝒏𝒈 𝑩𝒖𝒔𝒔𝒊𝒏𝒆𝒔 𝑷𝒓𝒐𝒃𝒍𝒆𝒎
 	* [𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐟𝐨𝐫 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬](https://lnkd.in/dmaY5zwG): This book walks you through the “data-analytic thinking” necessary for extracting useful knowledge and business value from the data you collect.
@@ -105,13 +95,13 @@ This repository includes plenty of resources related to different domains.
  	* [𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝𝐬 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐀𝐩𝐩𝐬 𝐰𝐢𝐭𝐡 𝐏𝐥𝐨𝐭𝐥𝐲 𝐚𝐧𝐝 𝐃𝐚𝐬𝐡](https://lnkd.in/dfVDeVjY): This book helps you to develop complete data apps and interactive dashboards without JavaScript. Through this book, you will be able to explore the functionalities of Dash for visualizing data in different ways.
 
 
-## Articles
+## ML Articles
 
 * [Papers With Code: The latest in Machine Learning](https://paperswithcode.com/): A list of machine learning papers, their datasets, and their source code.
 
 * [labml.ai Annotated PyTorch Paper Implementations](https://nn.labml.ai/): A collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations, and the website renders these as side-by-side formatted notes.
 
-## Courses
+## ML Courses
 
 * [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83): Starting from the very basics, the course covers all of the most important ML algorithms and how to apply them in practice. The slides are also Jupyter notebooks with programmatically generated figures (GitHub)[https://github.com/kuleshov/cornell-cs5785-2020-applied-ml]. 
 
@@ -135,6 +125,8 @@ This repository includes plenty of resources related to different domains.
 
 * [𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐒𝐭𝐚𝐧𝐟𝐨𝐫𝐝 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲](https://lnkd.in/dKttsi_3)
 
+* [Rasa Algorithm Whiteboard - Transformers & Attention (Large Language Models)](https://www.youtube.com/watch?v=yGTUuEx3GkA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=10): This Youtube course provides an explanation of the attention mechanisms.
+
 * [Neural networks for NLP (CMU CS 11-747, Spring 2021), Carnegie Mellon University](https://www.phontron.com/class/nn4nlp2021/schedule.html):  It covers major topics in neural networks modeling and training
 	- Language modeling and training tricks
 	- Neural networks building
@@ -148,7 +140,7 @@ This repository includes plenty of resources related to different domains.
 	- Knowledge bases with neural networks
 	- Adversarial methods and advanced search algorithms
 
-## Datasets, Pretrained Models, & ML Problems
+## Datasets, Pretrained Models, and ML Problems
 
 * [32 datasets to uplift your skills in data science](https://datasciencedojo.com/blog/datasets-data-science-skills/): An archive of 32 datasets to use to practice and improve your skills as a data scientist. The data sets are categorized according to varying difficulty levels to be suitable for everyone.
 
@@ -159,9 +151,16 @@ This repository includes plenty of resources related to different domains.
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets): This repository lists topic-centric public data sources in high quality collected from blogs, answers, and user responses. 
 
 
-## Large Language Models
 
-* [Rasa Algorithm Whiteboard - Transformers & Attention](https://www.youtube.com/watch?v=yGTUuEx3GkA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=10): This Youtube course provides an explanation of the attention mechanisms.
+# Python 
+
+## GitHub Repos
+
+* [9 Best GitHub repositories to learn python.pdf, Himanshu Ramchandani](https://github.com/mohamedyd/awesome_resources/files/10401452/9.Best.GitHub.repos.to.learn.python.pdf)
+
+* [Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes): This repo contains useful notes from Clean Code book that will help with writing quality code. The repo is well summarised that could be used as a refresher or a quick guide for junior engineers.
+
+* [LeetCode Questions & Answers](https://github.com/ThinamXx/ML..Interview..Preparation): This repo targets preparing you for the machine learning interviews.
 
 
 
