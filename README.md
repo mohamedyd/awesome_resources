@@ -6,6 +6,8 @@
 
 * [𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀, Hannes Hapke & Catherine Nelson](https://www.oreilly.com/library/view/building-machine-learning/9781492053187/?_gl=1*1rzym6j*_ga*MTM4OTgzMTk4MC4xNjczMjEzNzY2*_ga_092EL089CH*MTY3MzQ2NjIyMi4yLjEuMTY3MzQ3MDk0Ni4yOS4wLjA): I bought this book specifically for the chapters on TensorFlow Serving, well worth it! Other chapters are however also interesting to get some insights to the TFX ecosystem.
 
+* [𝐁𝐞𝐠𝐢𝐧𝐧𝐢𝐧𝐠 𝐌𝐋𝐎𝐩𝐬 𝐰𝐢𝐭𝐡 𝐌𝐋𝐅𝐥𝐨𝐰](https://lnkd.in/dgiKNgfX): This book guides you through the process of integrating MLOps principles into existing or future projects using MLFlow, operationalizing your models, and deploying them in AWS SageMaker, Google Cloud, and Microsoft Azure.
+
 * [MLOps Engineering at Scale, Carl Osipov](https://www.oreilly.com/library/view/mlops-engineering-at/9781617297762/): This book teaches you how to implement efficient machine learning systems using pre-built services from AWS and other cloud vendors. This easy-to-follow book guides you step-by-step as you set up your serverless ML infrastructure, even if you’ve never used a cloud platform before.
  
 * [𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗲𝘀𝗶𝗴𝗻 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀, Valliappa Lakshmanan, Sara Robinson, Michael Munn](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/): An excellent introduction to ML modeling and feature representation for all kinds on different data modalities. I regularly use it as inspiration for data preprocessing and feature engineering.
@@ -33,6 +35,8 @@
 
 * [Awesome-mlops](https://github.com/visenger/awesome-mlops#mlops-books): An awesome list of references for MLOps, including books recommendation, scientific papers, blogs, courses, and talks about different MLOps topics.
 
+* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning): This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning.
+
 * [Made With ML](https://madewithml.com/): Learn how to combine machine learning with software engineering to develop, deploy & maintain production ML applications.
 
 * [MLOps Community](https://mlops.community/): Learn about feature stores, machine learning monitoring, and metadata storage and management.
@@ -43,9 +47,16 @@
 
 * [Ultimate MLOps Learning Roadmap with Free Learning Resources In 2023](https://pub.towardsai.net/ultimate-mlops-learning-roadmap-with-free-learning-resources-in-2023-3ba7664cb1e9): A comprehensive guide to learning about MLOps, including the key concepts and skills that you need to master.
 
+* [Launching Cookiecutter-MLOps](https://dagshub.com/blog/cookiecutter-mlops-a-production-focused-project-template/): An open-source project scaffolding for machine learning and #MLOps, built on top of Cookiecutter Data Science, and inspired by Shreya Shankar’s amazing tweetstorm.
+
+* [End to End Machine Learning Pipeline With MLOps Tools (MLFlow+DVC+Flask+Heroku+EvidentlyAI+Github Actions)](https://medium.com/@shanakachathuranga/end-to-end-machine-learning-pipeline-with-mlops-tools-mlflow-dvc-flask-heroku-evidentlyai-github-c38b5233778c): This article will show you how to automate the entire machine learning lifecycle with the MLOps tools.
+
+
 ## Courses
 
 * [Machine Learning Engineering for Production (MLOps), Andrew Ng, Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK): Through this course, you will learn about the ML lifecycle and how to deploy ML models. 
+
+
 
 # Python 
 
@@ -57,7 +68,33 @@
 
 * [LeetCode Questions & Answers](https://github.com/ThinamXx/ML..Interview..Preparation): This repo targets preparing you for the machine learning interviews.
 
+
 # Machine Learning
+
+## Books
+
+* 𝑼𝒏𝒅𝒆𝒓𝒔𝒕𝒂𝒏𝒅𝒊𝒏𝒈 𝑩𝒖𝒔𝒔𝒊𝒏𝒆𝒔 𝑷𝒓𝒐𝒃𝒍𝒆𝒎
+	* [𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐟𝐨𝐫 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬](https://lnkd.in/dmaY5zwG): This book walks you through the “data-analytic thinking” necessary for extracting useful knowledge and business value from the data you collect.
+	* [𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡𝐢𝐧𝐠 (𝐀𝐥𝐦𝐨𝐬𝐭) 𝐀𝐧𝐲 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐏𝐫𝐨𝐛𝐥𝐞𝐦](https://lnkd.in/dYE5Jsn3): This book is for people who have some theoretical knowledge of ML and deep learning and want to dive into applied ML. The book does not explain the algorithms but is more oriented toward how and what should you use to solve ML and deep learning problems.
+
+* 𝑫𝒂𝒕𝒂 𝑪𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏
+	* [𝐖𝐞𝐛 𝐒𝐜𝐫𝐚𝐩𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧: 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐌𝐨𝐝𝐞𝐫𝐧 𝐖𝐞𝐛](https://lnkd.in/d5Mq9ZXC): This practical book not only introduces you to web scraping but also serves as a comprehensive guide to scraping almost every type of data from the modern web.
+	* [𝐒𝐐𝐋 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞](https://lnkd.in/dXnBVhZG): This textbook explains SQL within the context of data science and introduces the different parts of SQL as they are needed for the tasks usually carried out during data analysis, e.g., data loading, cleaning, and pre-processing.
+
+* 𝑫𝒂𝒕𝒂 Exploration & 𝑷𝒓𝒆𝒑𝒂𝒓𝒂𝒕𝒊𝒐𝒏
+	* [𝐁𝐚𝐝 𝐃𝐚𝐭𝐚](https://lnkd.in/dgbd-uiJ): This book is a collection of essays by 19 ML practitioners and is full of useful nuggets on data preparation and management.
+	* [𝐏𝐲𝐭𝐡𝐨𝐧 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐂𝐨𝐨𝐤𝐛𝐨𝐨𝐤](https://lnkd.in/d9XNqMD5): This cookbook takes the struggle out of feature engineering by showing you how to use open-source Python libraries to accelerate the process via a plethora of practical, hands-on recipes.
+	* [𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬 𝐅𝐨𝐫 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭𝐬](https://lnkd.in/d7bWPst8): This book covers a wide variety of statistical procedures used in data science. It dives into more complex statistical concepts with a more mathematical explanation compared to the other books.
+	* [𝐇𝐚𝐧𝐝𝐬-𝐎𝐧 𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐨𝐫𝐲 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧](https://lnkd.in/dY_-WbS2): This book will help you gain practical knowledge of the main pillars of EDA — data cleaning, data preparation, data exploration, and data visualization
+
+* 𝑴𝒐𝒅𝒆𝒍𝒊𝒏𝒈
+	* [𝐇𝐚𝐧𝐝𝐬-𝐎𝐧 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐒𝐜𝐢𝐤𝐢𝐭-𝐋𝐞𝐚𝐫𝐧 𝐚𝐧𝐝 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰, 3rd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/): The book has a unique approach. It usually starts with a high-level description of different ML concepts to give a general idea; then you go through hands-on coding with Python libraries. It breaks down the algorithms in a nice way that balances the needed theory and mathematics, and applied concepts.
+	* [ Deep Learning with TensorFlow and Keras - Third Edition Deep Learning with TensorFlow and Keras - Third Edition](https://www.oreilly.com/library/view/deep-learning-with/9781803232911/): This book teaches you how to build cutting edge machine and deep learning systems for the lab, production, and mobile devices.
+
+* 𝑫𝒂𝒕𝒂 𝑺𝒕𝒐𝒓𝒚𝒕𝒆𝒍𝒍𝒊𝒏𝒈
+	* [𝐒𝐭𝐨𝐫𝐲𝐭𝐞𝐥𝐥𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐃𝐚𝐭𝐚](https://lnkd.in/dzrQg7VQ): This book teaches you the fundamentals of data visualization and how to communicate effectively with data.
+ 	* [𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝𝐬 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐀𝐩𝐩𝐬 𝐰𝐢𝐭𝐡 𝐏𝐥𝐨𝐭𝐥𝐲 𝐚𝐧𝐝 𝐃𝐚𝐬𝐡](https://lnkd.in/dfVDeVjY): This book helps you to develop complete data apps and interactive dashboards without JavaScript. Through this book, you will be able to explore the functionalities of Dash for visualizing data in different ways.
+
 
 ## Articles
 
@@ -117,8 +154,9 @@
 
 * [Rasa Algorithm Whiteboard - Transformers & Attention](https://www.youtube.com/watch?v=yGTUuEx3GkA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=10): This Youtube course provides an explanation of the attention mechanisms.
 
-# Unorganized Resources
 
+
+# Unorganized Resources
 
 * Source code for books published by Apress: https://github.com/Apress
 * End to End ML Overview		https://bit.ly/3xl9kDk
@@ -141,8 +179,6 @@
 * The Base Camp for your Ascent in Machine Learning (ML simply explained)
 https://databasecamp.de/en/homepage
 
-* End to End Machine Learning Pipeline With MLOps Tools (MLFlow+DVC+Flask+Heroku+EvidentlyAI+Github Actions)
-https://medium.com/@shanakachathuranga/end-to-end-machine-learning-pipeline-with-mlops-tools-mlflow-dvc-flask-heroku-evidentlyai-github-c38b5233778c
 
 * 𝗔𝗻 𝗔𝗜 𝗖𝗼𝗱𝗶𝗻𝗴 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁𝘀! 
 https://codesquire.ai/
@@ -159,39 +195,10 @@ https://www.jeremyjordan.me/ml-monitoring/
 * 285+ Machine Learning Projects with Python
 https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265
 
-* Awesome Production Machine Learning
-https://github.com/EthicalML/awesome-production-machine-learning
 
 * comprehensive list of MLOps resources
 https://github.com/khuyentran1401/Data-science#mlops
 
-
-
-* 𝐓𝐨𝐩 12 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐁𝐨𝐨𝐤𝐬: https://lnkd.in/dci6g57W
-
-	* 𝑼𝒏𝒅𝒆𝒓𝒔𝒕𝒂𝒏𝒅𝒊𝒏𝒈 𝑩𝒖𝒔𝒔𝒊𝒏𝒆𝒔 𝑷𝒓𝒐𝒃𝒍𝒆𝒎
-		* 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐟𝐨𝐫 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬: https://lnkd.in/dmaY5zwG
-	* 𝑫𝒂𝒕𝒂 𝑪𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏
-		* 𝐖𝐞𝐛 𝐒𝐜𝐫𝐚𝐩𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧: 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐌𝐨𝐝𝐞𝐫𝐧 𝐖𝐞𝐛: https://lnkd.in/d5Mq9ZXC
-		* 𝐒𝐐𝐋 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞: https://lnkd.in/dXnBVhZG
-	* 𝑫𝒂𝒕𝒂 𝑷𝒓𝒆𝒑𝒂𝒓𝒂𝒕𝒊𝒐𝒏
-		* 𝐁𝐚𝐝 𝐃𝐚𝐭𝐚: https://lnkd.in/dgbd-uiJ
-		* 𝐏𝐲𝐭𝐡𝐨𝐧 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐂𝐨𝐨𝐤𝐛𝐨𝐨𝐤: https://lnkd.in/d9XNqMD5
-	* 𝑫𝒂𝒕𝒂 𝑬𝒙𝒑𝒍𝒐𝒓𝒂𝒕𝒊𝒐𝒏
-		* 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬 𝐅𝐨𝐫 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭𝐬: https://lnkd.in/d7bWPst8
-		* 𝐇𝐚𝐧𝐝𝐬-𝐎𝐧 𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐨𝐫𝐲 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧: https://lnkd.in/dY_-WbS2
- 	* 𝑴𝒐𝒅𝒆𝒍𝒊𝒏𝒈
-		* 𝐇𝐚𝐧𝐝𝐬-𝐎𝐧 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐒𝐜𝐢𝐤𝐢𝐭-𝐋𝐞𝐚𝐫𝐧 𝐚𝐧𝐝 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰: https://lnkd.in/dvnxmj87
-	* 𝑫𝒂𝒕𝒂 𝑺𝒕𝒐𝒓𝒚𝒕𝒆𝒍𝒍𝒊𝒏𝒈
-		* 𝐒𝐭𝐨𝐫𝐲𝐭𝐞𝐥𝐥𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐃𝐚𝐭𝐚: https://lnkd.in/dzrQg7VQ
- 		* 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝𝐬 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐀𝐩𝐩𝐬 𝐰𝐢𝐭𝐡 𝐏𝐥𝐨𝐭𝐥𝐲 𝐚𝐧𝐝 𝐃𝐚𝐬𝐡: https://lnkd.in/dfVDeVjY
-	* 𝑴𝒐𝒅𝒆𝒍 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕
-		* 𝐁𝐞𝐠𝐢𝐧𝐧𝐢𝐧𝐠 𝐌𝐋𝐎𝐩𝐬 𝐰𝐢𝐭𝐡 𝐌𝐋𝐅𝐥𝐨𝐰: https://lnkd.in/dgiKNgfX
-	* 𝑨𝒑𝒑𝒓𝒐𝒂𝒄𝒉𝒊𝒏𝒈 𝑴𝑳 𝑷𝒓𝒐𝒃𝒍𝒆𝒎𝒔
-		* 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡𝐢𝐧𝐠 (𝐀𝐥𝐦𝐨𝐬𝐭) 𝐀𝐧𝐲 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐏𝐫𝐨𝐛𝐥𝐞𝐦: https://lnkd.in/dYE5Jsn3
-
-*  Launching Cookiecutter-MLOps 🚀🚨 – An open-source project scaffolding for machine learning and #MLOps, built on top of Cookiecutter Data Science, and inspired by Shreya Shankar’s amazing tweetstorm.
-https://dagshub.com/blog/cookiecutter-mlops-a-production-focused-project-template/
 
 * Efficient Python for Data Scientists
 https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists
@@ -333,8 +340,6 @@ https://research.aimultiple.com/
 * Plenty of resources: https://aman.ai/
 	* https://aman.ai/primers/math/
 
-
-𝗠𝗟𝗢𝗽𝘀 𝗖𝗼𝘂𝗿𝘀𝗲 𝘄𝗲𝗯𝘀𝗶𝘁𝗲: https://madewithml.com/#mlops
 
 ITI Matreial in Arabic
 https://drive.google.com/drive/folders/1B5ELjvlDSq4hvghOcaV2ssAv5pokECTA
