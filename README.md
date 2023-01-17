@@ -8,6 +8,13 @@ This repository includes plenty of resources related to different domains.
 | Machine Learning      | [Books](#ml-books) | [Articles](#ml-articles) | [Courses](#ml-courses)   | [Datasets, Pretrained Models, & ML Problems](#datasets-pretrained-models-and-ml-problems) |
 | Python		| [GitHub Repositories](#github-repos)	  | | | |
 
+# General Resources
+Each of these resources include plenty of books, courses, articles, and other learning materials in different AI topics. 
+
+* [Data-Science-Educational-Resoruces, Youssef Hosni](https://github.com/youssefHosni/Data-Science-Educational-Resoruces): The repository covers all the data science theoretical and practical skills, e.g., data collection, data prepration, computer vision, MLOps, etc.
+
+* [Exploring the art of AI one concept at a time, Aman Chadha](https://aman.ai/): The website covers Distilled AI (courses), Research, Primers, coding, and recommendation lists. 
+
 # MLOps
 
 ## MLOps Books
@@ -353,8 +360,7 @@ Extra resources about MLOPS:
 
 https://research.aimultiple.com/
 
-* Plenty of resources: https://aman.ai/
-	* https://aman.ai/primers/math/
+
 
 
 ITI Matreial in Arabic
