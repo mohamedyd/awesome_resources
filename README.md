@@ -4,6 +4,8 @@ This repository includes plenty of resources related to different domains.
 
 | | | | | |
 |-|-|-|-|-|
+| General Resources | | | | |
+| Explainable AI | [Books](#xai-books) | | | |
 | MLOps     		| [Books](#mlops-books) | [Blogs & Articles](#mlops-blogs-and-articles) | [Courses](#mlops-courses)      | |
 | Machine Learning      | [Books](#ml-books) | [Articles](#ml-articles) | [Courses](#ml-courses)   | [Datasets, Pretrained Models, & ML Problems](#datasets-pretrained-models-and-ml-problems) |
 | Python		| [GitHub Repositories](#github-repos)	  | | | |
@@ -14,6 +16,12 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [Data-Science-Educational-Resoruces, Youssef Hosni](https://github.com/youssefHosni/Data-Science-Educational-Resoruces): The repository covers all the data science theoretical and practical skills, e.g., data collection, data prepration, computer vision, MLOps, etc.
 
 * [Exploring the art of AI one concept at a time, Aman Chadha](https://aman.ai/): The website covers Distilled AI (courses), Research, Primers, coding, and recommendation lists. 
+
+# Explainable AI
+
+## XAI Books
+
+* [A Guide for Making Black Box Models Explainable (Free ebook)](https://christophm.github.io/interpretable-ml-book/): he focus of the book is on model-agnostic methods for interpreting black box models such as feature importance and accumulated local effects, and explaining individual predictions with Shapley values and LIME. In addition, the book presents methods specific to deep neural networks.
 
 # MLOps
 
