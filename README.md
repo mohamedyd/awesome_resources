@@ -61,6 +61,8 @@ This repository includes plenty of resources related to different domains.
 
 * [End to End Machine Learning Pipeline With MLOps Tools (MLFlow+DVC+Flask+Heroku+EvidentlyAI+Github Actions)](https://medium.com/@shanakachathuranga/end-to-end-machine-learning-pipeline-with-mlops-tools-mlflow-dvc-flask-heroku-evidentlyai-github-c38b5233778c): This article will show you how to automate the entire machine learning lifecycle with the MLOps tools.
 
+* [A simple solution for monitoring ML systems](https://www.jeremyjordan.me/ml-monitoring/): This blog post aims to provide a simple, open-source solution for monitoring ML systems. 
+
 
 ## MLOps Courses
 
@@ -101,7 +103,12 @@ This repository includes plenty of resources related to different domains.
 
 * [labml.ai Annotated PyTorch Paper Implementations](https://nn.labml.ai/): A collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations, and the website renders these as side-by-side formatted notes.
 
+* [Your Guide to Data Quality Management](https://www.scnsoft.com/blog/guide-to-data-quality-management): tips on how a company can measure and improve the quality of their data.
+
+
 ## ML Courses
+
+* [openHPI Self-paced Courses](https://open.hpi.de/courses?q=&channel=&lang=&topic=Big+Data+and+AI&level=): plenty of courses in English and German related to ML, knowledge graphs, big data management, operating systems, and programming. 
 
 * [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83): Starting from the very basics, the course covers all of the most important ML algorithms and how to apply them in practice. The slides are also Jupyter notebooks with programmatically generated figures (GitHub)[https://github.com/kuleshov/cornell-cs5785-2020-applied-ml]. 
 
@@ -152,6 +159,8 @@ This repository includes plenty of resources related to different domains.
 
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets): This repository lists topic-centric public data sources in high quality collected from blogs, answers, and user responses. 
 
+* [285+ Machine Learning Projects with Python](https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265): This article will introduce you to over 290 ML projects solved and explained using Python.
+
 
 
 # Python 
@@ -193,17 +202,14 @@ https://databasecamp.de/en/homepage
 * 𝗔𝗻 𝗔𝗜 𝗖𝗼𝗱𝗶𝗻𝗴 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁𝘀! 
 https://codesquire.ai/
 
-* Your Guide to Data Quality Management
-https://www.scnsoft.com/blog/guide-to-data-quality-management
+
 
 * Deep Reinforcement Learning Explained
 https://torres.ai/deep-reinforcement-learning-explained-series/
 
-* A simple solution for monitoring ML systems
-https://www.jeremyjordan.me/ml-monitoring/
 
-* 285+ Machine Learning Projects with Python
-https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265
+
+
 
 
 * comprehensive list of MLOps resources
