@@ -78,6 +78,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [A simple solution for monitoring ML systems](https://www.jeremyjordan.me/ml-monitoring/): This blog post aims to provide a simple, open-source solution for monitoring ML systems. 
 
+* [Applied ML](https://github.com/eugeneyan/applied-ml#data-quality): A curated papers, articles, and blogs on data science & ML in production
+
 
 ## MLOps Courses
 
@@ -175,6 +177,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets): This repository lists topic-centric public data sources in high quality collected from blogs, answers, and user responses. 
 
 * [285+ Machine Learning Projects with Python](https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265): This article will introduce you to over 290 ML projects solved and explained using Python.
+
+* [AWS Free Datasets](https://aws.amazon.com/marketplace/search/results?trk=8384929b-0eb1-4af3-8996-07aa409646bc&sc_channel=el&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&CONTRACT_TYPE=OPEN_DATA_LICENSES&filters=FULFILLMENT_OPTION_TYPE%2CCONTRACT_TYPE): A list of dataset provided by Amazon AWS.
 
 
 
