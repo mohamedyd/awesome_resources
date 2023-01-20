@@ -13,6 +13,12 @@ This repository includes plenty of resources related to different domains.
 # General Resources
 Each of these resources include plenty of books, courses, articles, and other learning materials in different AI topics. 
 
+## Courses
+
+* [Computer Science courses with video lectures](https://github.com/youssefHosni/cs-video-courses): This repo includes plenty of courses in different CS areas.
+
+## Learning Platforms
+
 * [Data-Science-Educational-Resoruces, Youssef Hosni](https://github.com/youssefHosni/Data-Science-Educational-Resoruces): The repository covers all the data science theoretical and practical skills, e.g., data collection, data prepration, computer vision, MLOps, etc.
 
 * [Exploring the art of AI one concept at a time, Aman Chadha](https://aman.ai/): The website covers Distilled AI (courses), Research, Primers, coding, and recommendation lists. 
@@ -122,6 +128,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Your Guide to Data Quality Management](https://www.scnsoft.com/blog/guide-to-data-quality-management): tips on how a company can measure and improve the quality of their data.
 
+* [Deep Learning Tuning Playbook, Google & Harvard](https://github.com/google-research/tuning_playbook): If you have ever wondered about the process of hyperparameter tuning, this guide is for you. 
+
+* [Transformer models: an introduction and catalog — 2023 Edition](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/): A Catalog of Transformer AI models.
 
 ## ML Courses
 
@@ -166,6 +175,11 @@ Each of these resources include plenty of books, courses, articles, and other le
 	- Knowledge bases with neural networks
 	- Adversarial methods and advanced search algorithms
 
+* [Learn Computer Vision From Top Universities](https://medium.com/mlearning-ai/learn-computer-vision-from-top-universities-bb6019be74d2): the article provides courses in several domains, including image and signal processing, computer vision, machine learning and deep learning for computer vision, programming for Computer Vision, and Photogrammetry.
+
+* [Learn AI from Top Universities Through these 10 Courses](https://pub.towardsai.net/learn-ai-from-top-universities-through-these-10-courses-13e7a8d3957b): This article introduces ten courses from top universities that will help you to have a better understanding of different concepts in AI and ML.
+
+
 ## Datasets, Pretrained Models, and ML Problems
 
 * [32 datasets to uplift your skills in data science](https://datasciencedojo.com/blog/datasets-data-science-skills/): An archive of 32 datasets to use to practice and improve your skills as a data scientist. The data sets are categorized according to varying difficulty levels to be suitable for everyone.
@@ -182,9 +196,15 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 
 
+# Reinforcement Learning
+
+## Courses
+
+* [Learn Reinforcement Learning from Top Universities](https://pub.towardsai.net/learn-reinforcement-learning-from-top-universities-54f4fb1eab57): This article provides an overview of some of the best RL programs available, including what you can expect to learn and how you can get started.
+
 # Python 
 
-## GitHub Repos
+## Language-related Repos
 
 * [9 Best GitHub repositories to learn python.pdf, Himanshu Ramchandani](https://github.com/mohamedyd/awesome_resources/files/10401452/9.Best.GitHub.repos.to.learn.python.pdf)
 
@@ -192,7 +212,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [LeetCode Questions & Answers](https://github.com/ThinamXx/ML..Interview..Preparation): This repo targets preparing you for the machine learning interviews.
 
-## Visualization
+## AI-related Repos
+
+* [the incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch): This repo is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible PyTorch.
 
 
 
