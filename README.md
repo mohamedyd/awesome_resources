@@ -23,6 +23,10 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Exploring the art of AI one concept at a time, Aman Chadha](https://aman.ai/): The website covers Distilled AI (courses), Research, Primers, coding, and recommendation lists. 
 
+## Books
+
+[Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html): This book is about the engineering practices utilized at Google to make their codebase sustainable and healthy.
+
 # Explainable AI
 
 ## XAI Books
