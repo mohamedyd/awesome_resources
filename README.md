@@ -4,11 +4,12 @@ This repository includes plenty of resources related to different domains.
 
 | | | | | |
 |-|-|-|-|-|
-| General Resources | | | | |
+| General Resources | [Courses](#courses) | [Learning Platforms](#learning-platforms) | [Books](#books) | |
+| Reinforcement Learning | [courses](#rl-courses) | | | |
 | Explainable AI | [Books](#xai-books) | | | |
 | MLOps     		| [Books](#mlops-books) | [Blogs & Articles](#mlops-blogs-and-articles) | [Courses](#mlops-courses)      | |
 | Machine Learning      | [Books](#ml-books) | [Articles](#ml-articles) | [Courses](#ml-courses)   | [Datasets, Pretrained Models, & ML Problems](#datasets-pretrained-models-and-ml-problems) |
-| Python		| [GitHub Repositories](#github-repos)	  | | | |
+| Python		| [Language-related Repos](#language-related-repos) | [AI-related Repos](#ai-related-repos) | | |
 
 # General Resources
 Each of these resources include plenty of books, courses, articles, and other learning materials in different AI topics. 
@@ -27,11 +28,13 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html): This book is about the engineering practices utilized at Google to make their codebase sustainable and healthy.
 
+
 # Explainable AI
 
 ## XAI Books
 
 * [A Guide for Making Black Box Models Explainable (Free ebook)](https://christophm.github.io/interpretable-ml-book/): he focus of the book is on model-agnostic methods for interpreting black box models such as feature importance and accumulated local effects, and explaining individual predictions with Shapley values and LIME. In addition, the book presents methods specific to deep neural networks.
+
 
 # MLOps
 
@@ -202,7 +205,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 # Reinforcement Learning
 
-## Courses
+## RL Courses
 
 * [Learn Reinforcement Learning from Top Universities](https://pub.towardsai.net/learn-reinforcement-learning-from-top-universities-54f4fb1eab57): This article provides an overview of some of the best RL programs available, including what you can expect to learn and how you can get started.
 
