@@ -98,6 +98,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Machine Learning Engineering for Production (MLOps), Andrew Ng, Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK): Through this course, you will learn about the ML lifecycle and how to deploy ML models. 
 
+* (CS 329S: Machine Learning Systems Design)[https://stanford-cs329s.github.io/syllabus.html?r=152co]:  This course aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable.
+
 
 
 # Machine Learning
@@ -120,7 +122,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * 𝑴𝒐𝒅𝒆𝒍𝒊𝒏𝒈
 	* [𝐇𝐚𝐧𝐝𝐬-𝐎𝐧 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐒𝐜𝐢𝐤𝐢𝐭-𝐋𝐞𝐚𝐫𝐧 𝐚𝐧𝐝 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰, 3rd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/): The book has a unique approach. It usually starts with a high-level description of different ML concepts to give a general idea; then you go through hands-on coding with Python libraries. It breaks down the algorithms in a nice way that balances the needed theory and mathematics, and applied concepts.
-	* [ Deep Learning with TensorFlow and Keras - Third Edition Deep Learning with TensorFlow and Keras - Third Edition](https://www.oreilly.com/library/view/deep-learning-with/9781803232911/): This book teaches you how to build cutting edge machine and deep learning systems for the lab, production, and mobile devices.
+	* [Deep Learning with TensorFlow and Keras - Third Edition Deep Learning with TensorFlow and Keras - Third Edition](https://www.oreilly.com/library/view/deep-learning-with/9781803232911/): This book teaches you how to build cutting edge machine and deep learning systems for the lab, production, and mobile devices.
+	* [Neural Networks and Deep Learning, Free online Deep Learning](http://neuralnetworksanddeeplearning.com/index.html): The book is to help you master the core concepts of neural networks, including modern techniques for deep learning. After working through the book you will have written code that uses neural networks and deep learning to solve complex pattern recognition problems. And you will have a foundation to use neural networks and deep learning to attack problems of your own devising.
+	* [Probabilistic Machine Learning: An Introduction, Free ebook](https://probml.github.io/pml-book/book1.html): This book offers a detailed and up-to-date introduction to ML (including deep learning) through the unifying lens of probabilistic modeling and Bayesian decision theory. The book covers mathematical background (including linear algebra and optimization), basic supervised learning (including linear and logistic regression and deep neural networks), as well as more advanced topics (including transfer learning and unsupervised learning). 
 
 * 𝑫𝒂𝒕𝒂 𝑺𝒕𝒐𝒓𝒚𝒕𝒆𝒍𝒍𝒊𝒏𝒈
 	* [𝐒𝐭𝐨𝐫𝐲𝐭𝐞𝐥𝐥𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐃𝐚𝐭𝐚](https://lnkd.in/dzrQg7VQ): This book teaches you the fundamentals of data visualization and how to communicate effectively with data.
@@ -205,9 +209,20 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 # Reinforcement Learning
 
+## RL Books
+
+* (Introduction to Reinforcement Learning, Free-ebook)[http://incompleteideas.net/book/the-book-2nd.html]: The book is divided into three parts. Part I defines the reinforcement learning problem in terms of Markov decision processes. Part II provides basic solution methods: dynamic programming, Monte Carlo methods, and temporal-difference learning. Part III presents a unified view of the solution methods and incorporates artificial neural networks, eligibility traces, and planning; the two final chapters present case studies and consider the future of reinforcement learning.
+
 ## RL Courses
 
 * [Learn Reinforcement Learning from Top Universities](https://pub.towardsai.net/learn-reinforcement-learning-from-top-universities-54f4fb1eab57): This article provides an overview of some of the best RL programs available, including what you can expect to learn and how you can get started.
+
+## RL Articles
+
+* [Deep Reinforcement Learning Explained](https://torres.ai/deep-reinforcement-learning-explained-series/): This is a relaxed introductory series with a practical approach that tries to cover the basic concepts in Reinforcement Learning and Deep Learning to begin in the area of Deep Reinforcement Learning.
+
+
+
 
 # Python 
 
@@ -253,15 +268,6 @@ https://databasecamp.de/en/homepage
 https://codesquire.ai/
 
 
-
-* Deep Reinforcement Learning Explained
-https://torres.ai/deep-reinforcement-learning-explained-series/
-
-
-
-
-
-
 * comprehensive list of MLOps resources
 https://github.com/khuyentran1401/Data-science#mlops
 
@@ -275,8 +281,7 @@ https://lnkd.in/dCHHf_Ax
 Kimia Lab: Machine Intelligence
 https://www.youtube.com/playlist?list=PLZWvneBOrhoEWyByqPli18AScodr_MzEK
 
-CS 329S: Machine Learning Systems Design
-https://stanford-cs329s.github.io/syllabus.html?r=152co
+
 
 Deep Learning Drizzle
 https://deep-learning-drizzle.github.io/?fbclid=IwAR0I_rx1toiamVdLpveDSaTOVUrb8zi0RjbBhGcslObwTrflR-ajDtoa7vs
@@ -293,8 +298,7 @@ https://dlvu.github.io/
 TowardsAI tutorials:
 https://github.com/towardsai/tutorials
 
-Book: Introduction to reinforcement learning
-http://incompleteideas.net/book/the-book-2nd.html
+
 
 Machine learning Harvard Free Course
 https://cs50.harvard.edu/ai/2020/
@@ -302,13 +306,6 @@ https://cs50.harvard.edu/ai/2020/
 stanford course on ML:
 https://cs229.stanford.edu/syllabus-summer2020.html
 
-Free online Deep Learning book: Neural Networks and Deep Learning
-http://neuralnetworksanddeeplearning.com/index.html
-
-The incredible PyTorch
-https://github.com/Learn-Zone/the-incredible-pytorch
-
-Book: Probabilistic Machine Learning: An Introduction (https://probml.github.io/pml-book/book1.html)
 
 Stanford CS330: Multi-Task and Meta-Learning, 2019
 https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=1
