@@ -73,6 +73,10 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Awesome-mlops](https://github.com/visenger/awesome-mlops#mlops-books): An awesome list of references for MLOps, including books recommendation, scientific papers, blogs, courses, and talks about different MLOps topics.
 
+* [Awesome-mlops-tools](https://github.com/kelvins/awesome-mlops#data-processing): A curated list of awesome MLOps tools 
+
+* [MLOps.toys](https://mlops.toys/): A curated list of MLOps projects, tools and resources.
+
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning): This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning.
 
 * [Made With ML](https://madewithml.com/): Learn how to combine machine learning with software engineering to develop, deploy & maintain production ML applications.
