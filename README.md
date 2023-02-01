@@ -137,6 +137,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## ML Articles
 
+* [From Zero to AI Research Scientist Full Resources Guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide): A guide for anyone with basic programming knowledge or a computer science background interested in becoming a Research Scientist with 🎯 on Deep Learning and NLP.
+
 * [Papers With Code: The latest in Machine Learning](https://paperswithcode.com/): A list of machine learning papers, their datasets, and their source code.
 
 * [labml.ai Annotated PyTorch Paper Implementations](https://nn.labml.ai/): A collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations, and the website renders these as side-by-side formatted notes.
