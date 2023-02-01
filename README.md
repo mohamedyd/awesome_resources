@@ -135,9 +135,13 @@ Each of these resources include plenty of books, courses, articles, and other le
  	* [𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝𝐬 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐀𝐩𝐩𝐬 𝐰𝐢𝐭𝐡 𝐏𝐥𝐨𝐭𝐥𝐲 𝐚𝐧𝐝 𝐃𝐚𝐬𝐡](https://lnkd.in/dfVDeVjY): This book helps you to develop complete data apps and interactive dashboards without JavaScript. Through this book, you will be able to explore the functionalities of Dash for visualizing data in different ways.
 
 
+
 ## ML Articles
 
+
 * [From Zero to AI Research Scientist Full Resources Guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide): A guide for anyone with basic programming knowledge or a computer science background interested in becoming a Research Scientist with 🎯 on Deep Learning and NLP.
+
+* [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines): This repository maps the ecosystem of guidelines, principles, codes of ethics, standards and regulation being put in place around artificial intelligence.
 
 * [Papers With Code: The latest in Machine Learning](https://paperswithcode.com/): A list of machine learning papers, their datasets, and their source code.
 
