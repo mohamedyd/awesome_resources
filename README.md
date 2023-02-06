@@ -153,7 +153,10 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Transformer models: an introduction and catalog — 2023 Edition](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/): A Catalog of Transformer AI models.
 
+
 ## ML Courses
+
+* [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/): A website rich of courses on ML, AI, Graph neural network, reinforcement learning, natural language processing, etc. 
 
 * [openHPI Self-paced Courses](https://open.hpi.de/courses?q=&channel=&lang=&topic=Big+Data+and+AI&level=): plenty of courses in English and German related to ML, knowledge graphs, big data management, operating systems, and programming. 
 
@@ -200,8 +203,11 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Learn AI from Top Universities Through these 10 Courses](https://pub.towardsai.net/learn-ai-from-top-universities-through-these-10-courses-13e7a8d3957b): This article introduces ten courses from top universities that will help you to have a better understanding of different concepts in AI and ML.
 
+* [CS324 lecture notes (Winter 2022)](https://stanford-cs324.github.io/winter2022/lectures/): This is a course on understanding and developing large language models. 
+
 
 ## Datasets, Pretrained Models, and ML Problems
+
 
 * [32 datasets to uplift your skills in data science](https://datasciencedojo.com/blog/datasets-data-science-skills/): An archive of 32 datasets to use to practice and improve your skills as a data scientist. The data sets are categorized according to varying difficulty levels to be suitable for everyone.
 
