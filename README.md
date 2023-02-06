@@ -104,6 +104,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * (CS 329S: Machine Learning Systems Design)[https://stanford-cs329s.github.io/syllabus.html?r=152co]:  This course aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable.
 
+* [Deep Reinforcement Learning: CS 285 Fall 2020](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc): Lectures for UC Berkeley CS 285: Deep Reinforcement Learning.
 
 
 # Machine Learning
@@ -128,7 +129,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 	* [𝐇𝐚𝐧𝐝𝐬-𝐎𝐧 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐒𝐜𝐢𝐤𝐢𝐭-𝐋𝐞𝐚𝐫𝐧 𝐚𝐧𝐝 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰, 3rd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/): The book has a unique approach. It usually starts with a high-level description of different ML concepts to give a general idea; then you go through hands-on coding with Python libraries. It breaks down the algorithms in a nice way that balances the needed theory and mathematics, and applied concepts.
 	* [Deep Learning with TensorFlow and Keras - Third Edition Deep Learning with TensorFlow and Keras - Third Edition](https://www.oreilly.com/library/view/deep-learning-with/9781803232911/): This book teaches you how to build cutting edge machine and deep learning systems for the lab, production, and mobile devices.
 	* [Neural Networks and Deep Learning, Free online Deep Learning](http://neuralnetworksanddeeplearning.com/index.html): The book is to help you master the core concepts of neural networks, including modern techniques for deep learning. After working through the book you will have written code that uses neural networks and deep learning to solve complex pattern recognition problems. And you will have a foundation to use neural networks and deep learning to attack problems of your own devising.
-	* [Probabilistic Machine Learning: An Introduction, Free ebook](https://probml.github.io/pml-book/book1.html): This book offers a detailed and up-to-date introduction to ML (including deep learning) through the unifying lens of probabilistic modeling and Bayesian decision theory. The book covers mathematical background (including linear algebra and optimization), basic supervised learning (including linear and logistic regression and deep neural networks), as well as more advanced topics (including transfer learning and unsupervised learning). 
+	* [Probabilistic Machine Learning: An Introduction, Free ebook](https://probml.github.io/pml-book/book1.html): This book offers a detailed and up-to-date introduction to ML (including deep learning) through the unifying lens of probabilistic modeling and Bayesian decision theory. The book covers mathematical background (including linear algebra and optimization), basic supervised learning (including linear and logistic regression and deep neural networks), as well as more advanced topics (including transfer learning and unsupervised learning).
+	* [Practical Deep Learning for Coders](https://fastai.github.io/fastbook2e/): A book that covers all important concepts, as well as practical applications based on the aforementioned Python libraries. This book is friendly to beginners without oversimplifying, hence making it a significantly valuable resource.
+	* [Simplifying Machine Learning with PyCaret](https://leanpub.com/pycaretbook): A beginner-friendly introduction to machine learning with Python, that is based on the PyCaret and Streamlit libraries. Readers will delve into the fascinating world of artificial intelligence, by easily training and deploying their ML models!  
 
 * 𝑫𝒂𝒕𝒂 𝑺𝒕𝒐𝒓𝒚𝒕𝒆𝒍𝒍𝒊𝒏𝒈
 	* [𝐒𝐭𝐨𝐫𝐲𝐭𝐞𝐥𝐥𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐃𝐚𝐭𝐚](https://lnkd.in/dzrQg7VQ): This book teaches you the fundamentals of data visualization and how to communicate effectively with data.
@@ -138,6 +141,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## ML Articles
 
+* [ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained): Explanations to key concepts in ML.
+
+* [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650): This reference is a home to hundreds of fully-solved problems, from a wide range of key topics in AI.
 
 * [From Zero to AI Research Scientist Full Resources Guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide): A guide for anyone with basic programming knowledge or a computer science background interested in becoming a Research Scientist with 🎯 on Deep Learning and NLP.
 
@@ -153,6 +159,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Transformer models: an introduction and catalog — 2023 Edition](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/): A Catalog of Transformer AI models.
 
+* [Python Projects with Source Code](https://thecleverprogrammer.com/2021/01/14/python-projects-with-source-code/): If you’re a newbie to Python where you’ve just learned lists, tuples, dictionaries, and some basic Python modules like the random module, here are some Python projects with source code for beginners.
 
 ## ML Courses
 
@@ -163,6 +170,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83): Starting from the very basics, the course covers all of the most important ML algorithms and how to apply them in practice. The slides are also Jupyter notebooks with programmatically generated figures (GitHub)[https://github.com/kuleshov/cornell-cs5785-2020-applied-ml]. 
 
 * [Machine Learning Course Notes](https://github.com/dair-ai/ML-Course-Notes): This repository shares videos and lecture notes on several topics related to ML, NLP, Transformers, and Deep Reinforcement Learning.
+
+* [Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM): In this seminar, we examine the details of how transformers work, and dive deep into the different kinds of transformers and how they're applied in different fields.
 
 * [𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐔𝐂 𝐁𝐞𝐫𝐤𝐞𝐥𝐞𝐲](https://lnkd.in/dChzX6dZ)
 
@@ -244,6 +253,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## Language-related Repos
 
+* [Python-For-Data-Professionals](https://github.com/hemansnation/Python-For-Data-Professionals): This course is for Data Professionals so that they can learn Python in 12 days for starting their data journey.
+
 * [9 Best GitHub repositories to learn python.pdf, Himanshu Ramchandani](https://github.com/mohamedyd/awesome_resources/files/10401452/9.Best.GitHub.repos.to.learn.python.pdf)
 
 * [Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes): This repo contains useful notes from Clean Code book that will help with writing quality code. The repo is well summarised that could be used as a refresher or a quick guide for junior engineers.
@@ -253,6 +264,13 @@ Each of these resources include plenty of books, courses, articles, and other le
 ## AI-related Repos
 
 * [the incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch): This repo is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible PyTorch.
+
+
+# Miscellaneous
+
+## Articles
+
+* [What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html): A set of tips for creating a professional resume and cover letter.
 
 
 
