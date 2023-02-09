@@ -221,6 +221,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## Datasets, Pretrained Models, and ML Problems
 
+* [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor): Tensor2Tensor is a library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 
 * [32 datasets to uplift your skills in data science](https://datasciencedojo.com/blog/datasets-data-science-skills/): An archive of 32 datasets to use to practice and improve your skills as a data scientist. The data sets are categorized according to varying difficulty levels to be suitable for everyone.
 
