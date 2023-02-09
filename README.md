@@ -161,7 +161,11 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Python Projects with Source Code](https://thecleverprogrammer.com/2021/01/14/python-projects-with-source-code/): If you’re a newbie to Python where you’ve just learned lists, tuples, dictionaries, and some basic Python modules like the random module, here are some Python projects with source code for beginners.
 
+* [FloydHub Blog](https://blog.floydhub.com/): A list of articles about all topics in AI, books recommendation, datasets, etc.
+
+
 ## ML Courses
+
 
 * [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/): A website rich of courses on ML, AI, Graph neural network, reinforcement learning, natural language processing, etc. 
 
@@ -230,6 +234,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [AWS Free Datasets](https://aws.amazon.com/marketplace/search/results?trk=8384929b-0eb1-4af3-8996-07aa409646bc&sc_channel=el&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&CONTRACT_TYPE=OPEN_DATA_LICENSES&filters=FULFILLMENT_OPTION_TYPE%2CCONTRACT_TYPE): A list of dataset provided by Amazon AWS.
 
+* [Workspaces on FloydHub](https://blog.floydhub.com/workspaces/): A new cloud IDE for deep learning, powered by FloydHub GPUs
 
 
 # Reinforcement Learning
