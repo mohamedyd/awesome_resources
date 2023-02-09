@@ -219,7 +219,10 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [CS324 lecture notes (Winter 2022)](https://stanford-cs324.github.io/winter2022/lectures/): This is a course on understanding and developing large language models. 
 
 
+
 ## Datasets, Pretrained Models, and ML Problems
+
+
 
 * [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor): Tensor2Tensor is a library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 
@@ -237,10 +240,15 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Workspaces on FloydHub](https://blog.floydhub.com/workspaces/): A new cloud IDE for deep learning, powered by FloydHub GPUs
 
+* [OpenML Data Repositories](https://openml.github.io/OpenML/Data-Repositories/): This is a list of public dataset repositories
+
+
 
 # Reinforcement Learning
 
+
 ## RL Books
+
 
 * (Introduction to Reinforcement Learning, Free-ebook)[http://incompleteideas.net/book/the-book-2nd.html]: The book is divided into three parts. Part I defines the reinforcement learning problem in terms of Markov decision processes. Part II provides basic solution methods: dynamic programming, Monte Carlo methods, and temporal-difference learning. Part III presents a unified view of the solution methods and incorporates artificial neural networks, eligibility traces, and planning; the two final chapters present case studies and consider the future of reinforcement learning.
 
