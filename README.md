@@ -100,6 +100,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## MLOps Courses
 
+* [End to End ML Lifecycle walkthrough by Srivatsan Srinivasan](https://www.youtube.com/watch?v=gc1DGuzJPDA&list=PL3N9eeOlCrP6Y73-dOA5Meso7Dv7qYiUU): The course covers ML lifecycle End-to-EndML, starting from problem identification till model deployment and model monitoring. It provides high level overview of different phases within ML lifecycle while Srivatsan has other video in this channel detailing out individual component.
+
 * [Machine Learning Engineering for Production (MLOps), Andrew Ng, Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK): Through this course, you will learn about the ML lifecycle and how to deploy ML models. 
 
 * (CS 329S: Machine Learning Systems Design)[https://stanford-cs329s.github.io/syllabus.html?r=152co]:  This course aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable.
@@ -290,8 +292,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 # Unorganized Resources
 
+
 * Source code for books published by Apress: https://github.com/Apress
-* End to End ML Overview		https://bit.ly/3xl9kDk
 * Meta-learning and multi-task	Stanford	https://bit.ly/2S8aCBT
 * RL 	https://bit.ly/3ve28ry
 * Data Engineering Specialization Coursera	https://bit.ly/3v9FxMf				
