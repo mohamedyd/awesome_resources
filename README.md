@@ -83,6 +83,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## MLOps Blogs and Articles
 
+* [Machine learning in production by Chip Huyen](https://huyenchip.com/archive/): A set of tutorials, interviews, and courses.
+
 * [Machine Learning Operations](https://ml-ops.org/): This site is very useful to understand the MLOps principles. It provides several articles about interesting topics, such as MLOps stack canvas, State of MLOps (Tools & Frameworks), End-to-End ML Workflow Lifecycle, and Three Levels of ML-based Software.
 
 * [MLOps Guide](https://mlops-guide.github.io/): This site is intended to be a MLOps Guide to help projects and companies to build more reliable MLOps environment. This guide should contemplate the theory behind MLOps and an implementation that should fit for most use cases. 
@@ -97,7 +99,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning): This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning.
 
-* [Made With ML](https://madewithml.com/): Learn how to combine machine learning with software engineering to develop, deploy & maintain production ML applications.
+* [Made With ML](https://madewithml.com/): Learn how to combine machine learning with software engineering to develop, deploy & maintain production ML applications. It includes an MLOps course which focuses on both theory and hands-on, It includes a hands-on explanation of concepts and tools such as Testing Data, Code and Model, Optuna's Hyperparameter Tuning, REST API, CI/CD using Github Actions, Feature Store and Monitoring.
 
 * [MLOps Community](https://mlops.community/): Learn about feature stores, machine learning monitoring, and metadata storage and management.
 
@@ -125,13 +127,15 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## MLOps Courses
 
+* [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/):  This course aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable.
+
 * [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/): This course helps you bridge the gap from training machine learning models to deploying AI systems in the real world. An updated version of the course can be found (here)[https://fullstackdeeplearning.com/course/2022/].
 
 * [End to End ML Lifecycle walkthrough by Srivatsan Srinivasan](https://www.youtube.com/watch?v=gc1DGuzJPDA&list=PL3N9eeOlCrP6Y73-dOA5Meso7Dv7qYiUU): The course covers ML lifecycle End-to-EndML, starting from problem identification till model deployment and model monitoring. It provides high level overview of different phases within ML lifecycle while Srivatsan has other video in this channel detailing out individual component.
 
 * [Machine Learning Engineering for Production (MLOps), Andrew Ng, Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK): Through this course, you will learn about the ML lifecycle and how to deploy ML models. 
 
-* (CS 329S: Machine Learning Systems Design)[https://stanford-cs329s.github.io/syllabus.html?r=152co]:  This course aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable.
+* [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html?r=152co):  This course aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable.
 
 * [Deep Reinforcement Learning: CS 285 Fall 2020](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc): Lectures for UC Berkeley CS 285: Deep Reinforcement Learning.
 
