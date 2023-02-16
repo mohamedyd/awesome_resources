@@ -18,15 +18,30 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Computer Science courses with video lectures](https://github.com/youssefHosni/cs-video-courses): This repo includes plenty of courses in different CS areas.
 
+* [FCIH OCW](https://www.youtube.com/user/FCIHOCW): Aset of courses, by Dr Waleed Yousef, about different topics in Computer Science.
+
+
 ## Learning Platforms
 
 * [Data-Science-Educational-Resoruces, Youssef Hosni](https://github.com/youssefHosni/Data-Science-Educational-Resoruces): The repository covers all the data science theoretical and practical skills, e.g., data collection, data prepration, computer vision, MLOps, etc.
 
 * [Exploring the art of AI one concept at a time, Aman Chadha](https://aman.ai/): The website covers Distilled AI (courses), Research, Primers, coding, and recommendation lists. 
 
+* [AIMultiple: AI Use Cases & Tools to Grow Your Business](https://research.aimultiple.com/): Plenty of articles about AI use cases and tools. 
+
+* [https://learngitbranching.js.org/](https://learngitbranching.js.org/): An interactive website for teaching how to deal with Git repositories. 
+
+
+
 ## Books
 
 [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html): This book is about the engineering practices utilized at Google to make their codebase sustainable and healthy.
+
+## Repos & Tools
+
+* [Source code for books published by Apress](https://github.com/Apress)
+
+* [𝗔𝗻 𝗔𝗜 𝗖𝗼𝗱𝗶𝗻𝗴 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁𝘀](https://codesquire.ai/):  AI code writing assistant for data scientists, engineers, and analysts. Get code completions and suggestions as you type (Chrome extension). 
 
 
 # Explainable AI
@@ -44,13 +59,15 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀, Hannes Hapke & Catherine Nelson](https://www.oreilly.com/library/view/building-machine-learning/9781492053187/?_gl=1*1rzym6j*_ga*MTM4OTgzMTk4MC4xNjczMjEzNzY2*_ga_092EL089CH*MTY3MzQ2NjIyMi4yLjEuMTY3MzQ3MDk0Ni4yOS4wLjA): I bought this book specifically for the chapters on TensorFlow Serving, well worth it! Other chapters are however also interesting to get some insights to the TFX ecosystem.
 
+* [Deep Learning in Production](https://www.amazon.com/gp/product/6180033773/ref=as_li_tl?ie=UTF8&tag=aisummer-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=6180033773&linkId=fb7484e19fc03923fa2ec3012e5629cd): Build, train, deploy, scale and maintain deep learning models. Understand ML infrastructure and MLOps using hands-on examples.
+
 * [𝐁𝐞𝐠𝐢𝐧𝐧𝐢𝐧𝐠 𝐌𝐋𝐎𝐩𝐬 𝐰𝐢𝐭𝐡 𝐌𝐋𝐅𝐥𝐨𝐰](https://lnkd.in/dgiKNgfX): This book guides you through the process of integrating MLOps principles into existing or future projects using MLFlow, operationalizing your models, and deploying them in AWS SageMaker, Google Cloud, and Microsoft Azure.
 
 * [MLOps Engineering at Scale, Carl Osipov](https://www.oreilly.com/library/view/mlops-engineering-at/9781617297762/): This book teaches you how to implement efficient machine learning systems using pre-built services from AWS and other cloud vendors. This easy-to-follow book guides you step-by-step as you set up your serverless ML infrastructure, even if you’ve never used a cloud platform before.
  
 * [𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗲𝘀𝗶𝗴𝗻 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀, Valliappa Lakshmanan, Sara Robinson, Michael Munn](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/): An excellent introduction to ML modeling and feature representation for all kinds on different data modalities. I regularly use it as inspiration for data preprocessing and feature engineering.
  
-*  [Practical Deep Learning at Scale with MLflow, Yong Liu, Dr. Matei Zaharia](https://www.oreilly.com/library/view/practical-deep-learning/9781803241333/): This book focuses on deep learning models and MLflow to develop practical business AI solutions at scale. It also ship deep learning pipelines from experimentation to production with provenance tracking.
+* [Practical Deep Learning at Scale with MLflow, Yong Liu, Dr. Matei Zaharia](https://www.oreilly.com/library/view/practical-deep-learning/9781803241333/): This book focuses on deep learning models and MLflow to develop practical business AI solutions at scale. It also ship deep learning pipelines from experimentation to production with provenance tracking.
  
 * 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗮𝗹 𝗠𝗟𝗢𝗽𝘀, Noah Gift & Alfredo Deza: The perfect high-level overview of MLOps, buy this book if you do not know where to start or what you want to read about.
  
@@ -61,6 +78,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 * 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗼𝗻 𝗔𝗪𝗦, Chris Fregly & Antje Barth: Some parts of the book are very nice but some parts feel like it is only code blocks stacked onto code blocks with no explanation of the ”why”. I use it as inspiration on how to use the AWS APIs.
  
 * 𝗟𝗲𝗮𝗿𝗻 𝗔𝗺𝗮𝘇𝗼𝗻 𝗦𝗮𝗴𝗲𝗠𝗮𝗸𝗲𝗿, Julien SIMON: Haven’t gotten to finish this one yet, it will keep me occupied for some more weeks. Well written and much better of explaining why things are done in a specific way and what options there are.
+
 
 
 ## MLOps Blogs and Articles
@@ -97,8 +115,17 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Applied ML](https://github.com/eugeneyan/applied-ml#data-quality): A curated papers, articles, and blogs on data science & ML in production
 
+* [What is a Feature Store? by Feast](https://feast.dev/blog/what-is-a-feature-store/): An article introducing feature stores and their role in MLOps pipelines. 
+
+* [The Base Camp for your Ascent in ML](https://databasecamp.de/en/homepage): In this blog, you will find all the topics to help you master the expedition into the world of Artificial Intelligence.
+
+* [Deep Learning Blogs: 10 Weeks MLOps course](https://www.ravirajag.dev/blog): The goal of the series is to understand the basics of MLOps (model building, monitoring, configurations, testing, packaging, deployment, cicd).
+
+
 
 ## MLOps Courses
+
+* [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/): This course helps you bridge the gap from training machine learning models to deploying AI systems in the real world. An updated version of the course can be found (here)[https://fullstackdeeplearning.com/course/2022/].
 
 * [End to End ML Lifecycle walkthrough by Srivatsan Srinivasan](https://www.youtube.com/watch?v=gc1DGuzJPDA&list=PL3N9eeOlCrP6Y73-dOA5Meso7Dv7qYiUU): The course covers ML lifecycle End-to-EndML, starting from problem identification till model deployment and model monitoring. It provides high level overview of different phases within ML lifecycle while Srivatsan has other video in this channel detailing out individual component.
 
@@ -107,6 +134,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 * (CS 329S: Machine Learning Systems Design)[https://stanford-cs329s.github.io/syllabus.html?r=152co]:  This course aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable.
 
 * [Deep Reinforcement Learning: CS 285 Fall 2020](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc): Lectures for UC Berkeley CS 285: Deep Reinforcement Learning.
+
+* [MLOps 8 weeks course](https://github.com/mohamedyd/MLOps-Basics): The goal of the series is to understand the basics of MLOps like model building, monitoring, configurations, testing, packaging, deployment, cicd, etc.
+ 
 
 
 # Machine Learning
@@ -220,6 +250,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [CS324 lecture notes (Winter 2022)](https://stanford-cs324.github.io/winter2022/lectures/): This is a course on understanding and developing large language models. 
 
+* (Stanford CS330: Deep Multi-Task and Meta Learning)[https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5]: 
 
 
 ## Datasets, Pretrained Models, and ML Problems
@@ -258,6 +289,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Learn Reinforcement Learning from Top Universities](https://pub.towardsai.net/learn-reinforcement-learning-from-top-universities-54f4fb1eab57): This article provides an overview of some of the best RL programs available, including what you can expect to learn and how you can get started.
 
+* (Reinforcement Learning Course at ASU, Spring, 2021)[https://www.youtube.com/playlist?list=PLmH30BG15SIp79JRJ-MVF12uvB1qPtPzn] 
+
+
 ## RL Articles
 
 * [Deep Reinforcement Learning Explained](https://torres.ai/deep-reinforcement-learning-explained-series/): This is a relaxed introductory series with a practical approach that tries to cover the basic concepts in Reinforcement Learning and Deep Learning to begin in the area of Deep Reinforcement Learning.
@@ -281,6 +315,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [the incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch): This repo is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible PyTorch.
 
+* [* Efficient Python for Data Scientists](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists): Learn how to write efficient python code as a data scientist
+
+
 
 # Miscellaneous
 
@@ -293,9 +330,6 @@ Each of these resources include plenty of books, courses, articles, and other le
 # Unorganized Resources
 
 
-* Source code for books published by Apress: https://github.com/Apress
-* Meta-learning and multi-task	Stanford	https://bit.ly/2S8aCBT
-* RL 	https://bit.ly/3ve28ry
 * Data Engineering Specialization Coursera	https://bit.ly/3v9FxMf				
 * MLOps Fundamentals		Coursera	https://bit.ly/2QokZ3G				
 * ML Deployment	https://bit.ly/319mOmV				
@@ -314,16 +348,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 https://databasecamp.de/en/homepage
 
 
-* 𝗔𝗻 𝗔𝗜 𝗖𝗼𝗱𝗶𝗻𝗴 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁𝘀! 
-https://codesquire.ai/
 
-
-* comprehensive list of MLOps resources
-https://github.com/khuyentran1401/Data-science#mlops
-
-
-* Efficient Python for Data Scientists
-https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists
 
 * Github crash course
 https://lnkd.in/dCHHf_Ax
@@ -357,12 +382,8 @@ stanford course on ML:
 https://cs229.stanford.edu/syllabus-summer2020.html
 
 
-Stanford CS330: Multi-Task and Meta-Learning, 2019
-https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=1
-
 MLOps resources:
 
-https://www.ravirajag.dev/blog (10 Weeks course)
 
 https://ml-ops.org/ (articles)
 
@@ -372,10 +393,7 @@ Reading Notes and Slides from Chip Huyen's CS 392S(Machine Learning Systems Desi
 
 💹Last but Important - Learning about any Cloud system and deploying a project with Docker on Cloud. It is more important since, in most real-world systems, you will be deploying projects in the cloud, and having beforehand experience will give you an edge when you work on a real-time project for the first time
 
-📍Full Stack Deep Learning Course (https://fullstackdeeplearning.com/)
 
-MLOps 8 weeks course
-https://github.com/mohamedyd/MLOps-Basics
 
 * MLOps - tools, best practices, and case studies (Chip Huyen): https://huyenchip.com/mlops/
 
@@ -421,9 +439,7 @@ Tubingen Machine Learning https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhE
 https://thodrek.github.io/CS839_spring18/
 
 
-Dr Waleed Yousef
-Computer science basics
-https://www.youtube.com/user/FCIHOCW
+
 
 lots of interesting topics: https://www.youtube.com/channel/UCUcpVoi5KkJmnE3bvEhHR0Q
 
@@ -434,24 +450,3 @@ https://christophm.github.io/interpretable-ml-book/
 PythonDataScienceHandbook: https://github.com/jakevdp/PythonDataScienceHandbook
 
 Introduction to Probability for Data Science: https://probability4datascience.com/
-
-Git
-https://learngitbranching.js.org/
-
-Feature store: https://feast.dev/blog/what-is-a-feature-store/
-
-
-Extra resources about MLOPS:
-- Deep Learning in Production (https://amzn.to/3oa50Vj)
-- Made With ML (https://madewithml.com/)
-- Full Stack Deep Learning (https://lnkd.in/eaRwfjXT)
-- Awesome MLOPs repo (https://lnkd.in/eUPvz-2)
-
-
-https://research.aimultiple.com/
-
-
-
-
-ITI Matreial in Arabic
-https://drive.google.com/drive/folders/1B5ELjvlDSq4hvghOcaV2ssAv5pokECTA
