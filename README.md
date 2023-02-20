@@ -177,6 +177,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## ML Articles
 
+* [𝗛𝘂𝗻𝗱𝗿𝗲𝗱𝘀 𝗼𝗳 𝗡𝗟𝗣 𝗣𝗮𝗽𝗲𝗿𝘀 𝘄𝗶𝘁𝗵 𝗖𝗼𝗱𝗲](https://index.quantumstat.com/): The NLP Index lets you keep track of the NLP advancements, by offering an updated list of the latest NLP research papers! Furthermore, the website provides a link for the Github repository of each paper, making it a valuable resource for ML researchers and practitioners.
+
 * [ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained): Explanations to key concepts in ML.
 
 * [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650): This reference is a home to hundreds of fully-solved problems, from a wide range of key topics in AI.
