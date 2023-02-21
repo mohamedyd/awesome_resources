@@ -83,6 +83,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## MLOps Blogs and Articles
 
+* [MLOps 101: The Foundation for Your AI Strategy](https://www.datarobot.com/mlops-101/): This articile nicely introduces the concept of MLOps and its main pillars, including model deployment, model monitoring, model lifecycle management, and production model governance.
+
 * [Machine learning in production by Chip Huyen](https://huyenchip.com/archive/): A set of tutorials, interviews, and courses.
 
 * [Machine Learning Operations](https://ml-ops.org/): This site is very useful to understand the MLOps principles. It provides several articles about interesting topics, such as MLOps stack canvas, State of MLOps (Tools & Frameworks), End-to-End ML Workflow Lifecycle, and Three Levels of ML-based Software.
@@ -201,6 +203,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [FloydHub Blog](https://blog.floydhub.com/): A list of articles about all topics in AI, books recommendation, datasets, etc.
 
+* [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/): An in-depth explanation of how ChatGPT works and what really lets ChatGPT work?
+
+
 
 ## ML Courses
 
@@ -259,6 +264,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 * (Stanford CS330: Deep Multi-Task and Meta Learning)[https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5]: 
 
 
+
 ## Datasets, Pretrained Models, and ML Problems
 
 * [Sktime](https://github.com/sktime/sktime): it is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks. Currently, this includes time series classification, regression, clustering, annotation and forecasting. It comes with time series algorithms and scikit-learn compatible tools to build, tune and validate time series models.
@@ -280,6 +286,11 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [Workspaces on FloydHub](https://blog.floydhub.com/workspaces/): A new cloud IDE for deep learning, powered by FloydHub GPUs
 
 * [OpenML Data Repositories](https://openml.github.io/OpenML/Data-Repositories/): This is a list of public dataset repositories
+
+* [AI Use Cases by DataRobot](https://pathfinder.datarobot.com/use-cases?industry=manufacturing): Hundreds of AI use cases captured by DataRobost's experts from real-world experiences with customers.
+
+* [Computer Vision Templates](https://roboflow.com/templates): Connect computer vision models to your business logic with our pre-made templates.
+
 
 
 
