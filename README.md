@@ -51,6 +51,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [A Guide for Making Black Box Models Explainable (Free ebook)](https://christophm.github.io/interpretable-ml-book/): he focus of the book is on model-agnostic methods for interpreting black box models such as feature importance and accumulated local effects, and explaining individual predictions with Shapley values and LIME. In addition, the book presents methods specific to deep neural networks.
 
 
+
 # MLOps
 
 ## MLOps Books
@@ -143,6 +144,12 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [MLOps 8 weeks course](https://github.com/mohamedyd/MLOps-Basics): The goal of the series is to understand the basics of MLOps like model building, monitoring, configurations, testing, packaging, deployment, cicd, etc.
  
+ 
+## MLOps Open Source Tools
+
+* [ClearML](https://clear.ml/): with ClearML, you can easily develop, orchestrate, and automate ML workflows at scale. The free plan enables the following tools: experiment management, model repository, artifacts, dataset versioning, pipelines, agent orchestration, CI/CD automation, reports.
+ 
+
 
 
 # Machine Learning
@@ -209,6 +216,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## ML Courses
 
+* [Introduction to Data-Centric AI, IAP 2023](https://dcai.csail.mit.edu/): This class covers algorithms to find and fix common issues in ML data and to construct better datasets, concentrating on data used in supervised learning tasks like classification. Video recordings of the lectures are available on [YouTube](https://www.youtube.com/playlist?list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5).
 
 * [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/): A website rich of courses on ML, AI, Graph neural network, reinforcement learning, natural language processing, etc. 
 
