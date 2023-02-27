@@ -220,6 +220,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction): The most comprehensive professionally curated resource on Conformal Prediction including the best tutorials, videos, books, papers, articles, courses, websites, conferences and open-source libraries code in Python, R and Julia.
 
+* [Harvard CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/): This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation.
+
 
 
 ## ML Courses
@@ -280,6 +282,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5): This is a graduate-level course. By the end of the course, students will be able to understand and implement the state-of-the-art multi-task learning and meta-learning algorithms and be ready to conduct research on these topics.
 
 * [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners): In this curriculum, you will learn about what is sometimes called classic ML, using primarily Scikit-learn as a library and avoiding deep learning.
+
+* [Stanford CS229: Machine Learning](https://cs229.stanford.edu/syllabus-summer2020.html): The course a broad introduction to statistical machine learning (at an intermediate / advanced level) and covers supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical ); and reinforcement learning among other topics.
 
 
 ## Datasets, Pretrained Models, and ML Problems
@@ -364,128 +368,3 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html): A set of tips for creating a professional resume and cover letter.
 
-
-
-# Unorganized Resources
-
-
-* Data Engineering Specialization Coursera	https://bit.ly/3v9FxMf				
-* MLOps Fundamentals		Coursera	https://bit.ly/2QokZ3G				
-* ML Deployment	https://bit.ly/319mOmV				
-* Production ML Systems		Google		https://bit.ly/3liWOP6				
-* MLOps Fundamentals		Google		https://bit.ly/30RqGbZ				
-* AI Workflow: AI in Production	IBM		https://bit.ly/30QFlnU				
-* Software engineering		Youtube		CS106A - Stanford			
-* Smart Data Discovery Lux	Online		https://cutt.ly/IcO7Ijx
-* ML		https://machinelearningmastery.com/start-here/  
-* Matplotlib			Online 		https://bit.ly/3rS9pLY				
-* From-0-to-Research-Scientist	Github		https://bit.ly/3sQZZ3E				
-* ML system design patterns	Github		https://bit.ly/3rRQe4L					
-* Statistical ML			Youtube		https://bit.ly/2SH6NUz				
-
-* The Base Camp for your Ascent in Machine Learning (ML simply explained)
-https://databasecamp.de/en/homepage
-
-
-
-
-* Github crash course
-https://lnkd.in/dCHHf_Ax
-
-Kimia Lab: Machine Intelligence
-https://www.youtube.com/playlist?list=PLZWvneBOrhoEWyByqPli18AScodr_MzEK
-
-
-
-Deep Learning Drizzle
-https://deep-learning-drizzle.github.io/?fbclid=IwAR0I_rx1toiamVdLpveDSaTOVUrb8zi0RjbBhGcslObwTrflR-ajDtoa7vs
-
-ML Course
-http://ciml.info 
-
-Introduction to Machine Learning, Deep learning using Pytorch
-https://sebastianraschka.com/blog/2021/ml-course.html, https://www.youtube.com/c/SebastianRaschka/playlists
-
-Deep Learning course at VU university of Amsterdam
-https://dlvu.github.io/
-
-TowardsAI tutorials:
-https://github.com/towardsai/tutorials
-
-
-
-Machine learning Harvard Free Course
-https://cs50.harvard.edu/ai/2020/
-
-stanford course on ML:
-https://cs229.stanford.edu/syllabus-summer2020.html
-
-
-MLOps resources:
-
-
-https://ml-ops.org/ (articles)
-
-Reading Notes and Slides from Chip Huyen's CS 392S(Machine Learning Systems Design) (https://stanford-cs329s.github.io/)
-
-💹Taking Made with ML course by Goku Mohandas - the course focuses on both theory and hands-on, It includes a hands-on explanation of concepts and tools such as Testing Data, Code and Model, Optuna's Hyperparameter Tuning, REST API, CI/CD using Github Actions, Feature Store and Monitoring (https://madewithml.com/#mlops)
-
-💹Last but Important - Learning about any Cloud system and deploying a project with Docker on Cloud. It is more important since, in most real-world systems, you will be deploying projects in the cloud, and having beforehand experience will give you an edge when you work on a real-time project for the first time
-
-
-
-* MLOps - tools, best practices, and case studies (Chip Huyen): https://huyenchip.com/mlops/
-
--------------------------------------------------------------------
-
-Variational autoencoder
-
-https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73
-https://medium.com/mlearning-ai/generating-artificial-tabular-data-with-an-encoder-decoder-5e4de9b4d02e
-https://colab.research.google.com/github/lschmiddey/fastpages_/blob/master/_notebooks/2021-03-14-tabular-data-variational-autoencoder.ipynb#scrollTo=a5HpJEuuZLf5
-
-Deep Learning online book (free):
-http://neuralnetworksanddeeplearning.com/
-
-Microsoft ML for beginners:
-https://github.com/microsoft/ML-For-Beginners
-
-Knowledge Graphs:
-	- https://web.stanford.edu/class/cs520/
-Web semantics: https://www.youtube.com/user/xhakil26/playlists
-other courses: https://www.tele-task.de/
-
-Intro to database systems: https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
-
-ML interview book: https://huyenchip.com/ml-interviews-book/
-
-Knowledge graph course: https://web.stanford.edu/class/cs520/ 
-
-
-
-https://www.youtube.com/watch?v=5DCS9LE-8rE
-
-https://github.com/RDFLib/rdflib
-
-https://www.youtube.com/watch?v=p9ZE4tzQn70
-
-
-https://christophm.github.io/interpretable-ml-book/
-
-
-Tubingen Machine Learning https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA
-
-https://thodrek.github.io/CS839_spring18/
-
-
-
-
-lots of interesting topics: https://www.youtube.com/channel/UCUcpVoi5KkJmnE3bvEhHR0Q
-
-https://stanford.edu/~shervine/teaching/cs-229/
-
-https://christophm.github.io/interpretable-ml-book/
-
-PythonDataScienceHandbook: https://github.com/jakevdp/PythonDataScienceHandbook
-
-Introduction to Probability for Data Science: https://probability4datascience.com/
