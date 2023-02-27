@@ -277,7 +277,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [CS324 lecture notes (Winter 2022)](https://stanford-cs324.github.io/winter2022/lectures/): This is a course on understanding and developing large language models. 
 
-* [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5): 
+* [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5): This is a graduate-level course. By the end of the course, students will be able to understand and implement the state-of-the-art multi-task learning and meta-learning algorithms and be ready to conduct research on these topics.
 
 * [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners): In this curriculum, you will learn about what is sometimes called classic ML, using primarily Scikit-learn as a library and avoiding deep learning.
 
