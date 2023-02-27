@@ -29,8 +29,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [AIMultiple: AI Use Cases & Tools to Grow Your Business](https://research.aimultiple.com/): Plenty of articles about AI use cases and tools. 
 
-* [https://learngitbranching.js.org/](https://learngitbranching.js.org/): An interactive website for teaching how to deal with Git repositories. 
+* [Learn GIT branching](https://learngitbranching.js.org/): An interactive website for teaching how to deal with Git repositories. 
 
+* [The Algorithms - Python](https://github.com/TheAlgorithms/Python): All algorithms implemented in Python - for education
 
 
 ## Books
@@ -49,6 +50,10 @@ Each of these resources include plenty of books, courses, articles, and other le
 ## XAI Books
 
 * [A Guide for Making Black Box Models Explainable (Free ebook)](https://christophm.github.io/interpretable-ml-book/): he focus of the book is on model-agnostic methods for interpreting black box models such as feature importance and accumulated local effects, and explaining individual predictions with Shapley values and LIME. In addition, the book presents methods specific to deep neural networks.
+
+## Repos and Tools
+
+* [ PiML-Toolbox](https://github.com/SelfExplainML/PiML-Toolbox): PiML is a new Python toolbox for interpretable ML model development and validation. Through low-code interface and high-code APIs, PiML supports a growing list of inherently interpretable ML models.
 
 
 
@@ -177,6 +182,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 	* [Probabilistic Machine Learning: An Introduction, Free ebook](https://probml.github.io/pml-book/book1.html): This book offers a detailed and up-to-date introduction to ML (including deep learning) through the unifying lens of probabilistic modeling and Bayesian decision theory. The book covers mathematical background (including linear algebra and optimization), basic supervised learning (including linear and logistic regression and deep neural networks), as well as more advanced topics (including transfer learning and unsupervised learning).
 	* [Practical Deep Learning for Coders](https://fastai.github.io/fastbook2e/): A book that covers all important concepts, as well as practical applications based on the aforementioned Python libraries. This book is friendly to beginners without oversimplifying, hence making it a significantly valuable resource.
 	* [Simplifying Machine Learning with PyCaret](https://leanpub.com/pycaretbook): A beginner-friendly introduction to machine learning with Python, that is based on the PyCaret and Streamlit libraries. Readers will delve into the fascinating world of artificial intelligence, by easily training and deploying their ML models!  
+	* [Understanding Deep Learning](https://udlbook.github.io/udlbook/): An interesting free book on various aspects of deep learning.
 
 * 𝑫𝒂𝒕𝒂 𝑺𝒕𝒐𝒓𝒚𝒕𝒆𝒍𝒍𝒊𝒏𝒈
 	* [𝐒𝐭𝐨𝐫𝐲𝐭𝐞𝐥𝐥𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐃𝐚𝐭𝐚](https://lnkd.in/dzrQg7VQ): This book teaches you the fundamentals of data visualization and how to communicate effectively with data.
@@ -211,6 +217,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [FloydHub Blog](https://blog.floydhub.com/): A list of articles about all topics in AI, books recommendation, datasets, etc.
 
 * [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/): An in-depth explanation of how ChatGPT works and what really lets ChatGPT work?
+
+* [Awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction): The most comprehensive professionally curated resource on Conformal Prediction including the best tutorials, videos, books, papers, articles, courses, websites, conferences and open-source libraries code in Python, R and Julia.
 
 
 
@@ -275,6 +283,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## Datasets, Pretrained Models, and ML Problems
 
+* [LLaMA](https://github.com/facebookresearch/llama): LLaMA is a collection of foundation language models ranging from 7B to 65B parameters. The models have been trained on trillions of tokens, and show that it is possible to train state-of-the-art models using publicly available datasets exclusively, without resorting to proprietary and inaccessible datasets. More details can be found in this [blog post](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/).
+
 * [Sktime](https://github.com/sktime/sktime): it is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks. Currently, this includes time series classification, regression, clustering, annotation and forecasting. It comes with time series algorithms and scikit-learn compatible tools to build, tune and validate time series models.
 
 * [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor): Tensor2Tensor is a library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
@@ -299,6 +309,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Computer Vision Templates](https://roboflow.com/templates): Connect computer vision models to your business logic with our pre-made templates.
 
+* [Darts -- Time Series Made Easy in Python](https://github.com/unit8co/darts): Darts is a Python library for user-friendly forecasting and anomaly detection on time series. It contains a variety of models, from classics such as ARIMA to deep neural networks. 
+
+* [OpenMMLab](https://github.com/open-mmlab): OpenMMLab builds the most influential open-source computer vision algorithm system in the deep learning era. Based on PyTorch, OpenMMLab develops MMEngine to provide universal training and evaluation engine, and MMCV to provide neural network operators and data transforms, which serves as a foundation of the whole project. 
 
 
 
