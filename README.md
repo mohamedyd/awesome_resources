@@ -183,6 +183,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 	* [Practical Deep Learning for Coders](https://fastai.github.io/fastbook2e/): A book that covers all important concepts, as well as practical applications based on the aforementioned Python libraries. This book is friendly to beginners without oversimplifying, hence making it a significantly valuable resource.
 	* [Simplifying Machine Learning with PyCaret](https://leanpub.com/pycaretbook): A beginner-friendly introduction to machine learning with Python, that is based on the PyCaret and Streamlit libraries. Readers will delve into the fascinating world of artificial intelligence, by easily training and deploying their ML models!  
 	* [Understanding Deep Learning](https://udlbook.github.io/udlbook/): An interesting free book on various aspects of deep learning.
+	* [CIML: A Course in Machine Learning by Hal Daumé III](http://ciml.info): CIML is a set of introductory materials that covers most major aspects of modern machine learning (supervised learning, unsupervised learning, large margin methods, probabilistic modeling, learning theory, etc.).
 
 * 𝑫𝒂𝒕𝒂 𝑺𝒕𝒐𝒓𝒚𝒕𝒆𝒍𝒍𝒊𝒏𝒈
 	* [𝐒𝐭𝐨𝐫𝐲𝐭𝐞𝐥𝐥𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐃𝐚𝐭𝐚](https://lnkd.in/dzrQg7VQ): This book teaches you the fundamentals of data visualization and how to communicate effectively with data.
@@ -227,6 +228,12 @@ Each of these resources include plenty of books, courses, articles, and other le
 ## ML Courses
 
 * [Introduction to Data-Centric AI, IAP 2023](https://dcai.csail.mit.edu/): This class covers algorithms to find and fix common issues in ML data and to construct better datasets, concentrating on data used in supervised learning tasks like classification. Video recordings of the lectures are available on [YouTube](https://www.youtube.com/playlist?list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5).
+
+* [Introduction to Machine Learning by Sebastian Raschka](https://sebastianraschka.com/blog/2021/ml-course.html): Video Lectures about Python Basics, Tree-based Methods, Model Evaluation, and Feature Selection. 
+
+* [Introduction to Deep Learning and Generative Modeling by Sebastian Raschka](https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
+
+* [Introduction to machine learning and statistical pattern classification by Sebastian Raschka](https://www.youtube.com/watch?v=OgK8JFjkSto&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3)
 
 * [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/): A website rich of courses on ML, AI, Graph neural network, reinforcement learning, natural language processing, etc. 
 
