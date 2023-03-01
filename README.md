@@ -325,6 +325,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [OpenMMLab](https://github.com/open-mmlab): OpenMMLab builds the most influential open-source computer vision algorithm system in the deep learning era. Based on PyTorch, OpenMMLab develops MMEngine to provide universal training and evaluation engine, and MMCV to provide neural network operators and data transforms, which serves as a foundation of the whole project. 
 
+* [Roboflow/Notebooks](https://github.com/roboflow/notebooks): This repository contains Jupyter Notebooks that have been featured in their blog posts and YouTube videos.
+
 
 
 # Reinforcement Learning
