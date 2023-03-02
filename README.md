@@ -151,6 +151,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [Deep Reinforcement Learning: CS 285 Fall 2020](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc): Lectures for UC Berkeley CS 285: Deep Reinforcement Learning.
 
 * [MLOps 8 weeks course](https://github.com/mohamedyd/MLOps-Basics): The goal of the series is to understand the basics of MLOps like model building, monitoring, configurations, testing, packaging, deployment, cicd, etc.
+
+* [Airflow Tutorial for Beginners](https://www.youtube.com/watch?v=K9AnJ9_ZAXE&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT): This 2-hour Airflow Tutorial for Beginners course combines theory explanation and practical demos to help you get started quickly as an absolute beginner. You don’t need any prerequisite to start this course, but basic python knowledge is recommended. 
+
  
  
 ## MLOps Open Source Tools
