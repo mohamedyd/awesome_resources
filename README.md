@@ -64,7 +64,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## MLOps Books
 
-* 𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺𝘀, Chip Huyen: Why does 9/10 models never make it to production? Read this book and compare to how ML is done at most companies, then you know… Highly recommended!
+* [Designing Machine Learning Systems, Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/): Why does 9/10 models never make it to production? Read this book and compare to how ML is done at most companies, then you know… Highly recommended!
+
+* [Machine Learning Engineering by Andriy Burkov](http://www.mlebook.com/wiki/doku.php?id=start): This book is available as a read-first-buy-later principle.
 
 * [𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀, Hannes Hapke & Catherine Nelson](https://www.oreilly.com/library/view/building-machine-learning/9781492053187/?_gl=1*1rzym6j*_ga*MTM4OTgzMTk4MC4xNjczMjEzNzY2*_ga_092EL089CH*MTY3MzQ2NjIyMi4yLjEuMTY3MzQ3MDk0Ni4yOS4wLjA): I bought this book specifically for the chapters on TensorFlow Serving, well worth it! Other chapters are however also interesting to get some insights to the TFX ecosystem.
 
@@ -78,7 +80,7 @@ Each of these resources include plenty of books, courses, articles, and other le
  
 * [Practical Deep Learning at Scale with MLflow, Yong Liu, Dr. Matei Zaharia](https://www.oreilly.com/library/view/practical-deep-learning/9781803241333/): This book focuses on deep learning models and MLflow to develop practical business AI solutions at scale. It also ship deep learning pipelines from experimentation to production with provenance tracking.
  
-* 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗮𝗹 𝗠𝗟𝗢𝗽𝘀, Noah Gift & Alfredo Deza: The perfect high-level overview of MLOps, buy this book if you do not know where to start or what you want to read about.
+* [Practical MLOps, Noah Gift & Alfredo Deza](https://www.oreilly.com/library/view/practical-mlops/9781098103002/): The perfect high-level overview of MLOps, buy this book if you do not know where to start or what you want to read about.
  
 * 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗠𝗟𝗢𝗽𝘀, Emmanuel Raj: I can’t put my finger on what this book is about, but there are a lot of golden nuggets on project architecture and software engineering aspects that are needed to create a nice and agile ML lifecycle.
  
