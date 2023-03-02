@@ -44,6 +44,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [𝗔𝗻 𝗔𝗜 𝗖𝗼𝗱𝗶𝗻𝗴 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁𝘀](https://codesquire.ai/):  AI code writing assistant for data scientists, engineers, and analysts. Get code completions and suggestions as you type (Chrome extension). 
 
+* [Awesome Open Source](https://awesomeopensource.com/): Find And compare open source projects in different fields and programming languages, e.g., python, machine learning, datasets, deployment, data preprocessing, user interfance, operating systems, and blockchain.   
+
+
 
 # Explainable AI
 
