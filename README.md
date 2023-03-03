@@ -34,7 +34,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [The Algorithms - Python](https://github.com/TheAlgorithms/Python): All algorithms implemented in Python - for education
 
 
-## Books
+## Useful Books
 
 [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html): This book is about the engineering practices utilized at Google to make their codebase sustainable and healthy.
 
