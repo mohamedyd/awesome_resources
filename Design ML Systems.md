@@ -1,4 +1,4 @@
-In this document, a summary of the main ideas in the Desiging ML Systems book by Chip Huyen is provided.
+In this document, a summary of the main ideas in the [Desiging ML Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) book by Chip Huyen is provided. I highly recommend buying this interesting book. 
 
 | | | 
 |-|-|
