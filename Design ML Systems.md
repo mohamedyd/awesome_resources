@@ -16,19 +16,34 @@ In this document, a summary of the main ideas in the [Desiging ML Systems](https
 | 11 |  [The Human Side of Machine Learning](#the-human-side-of-machine-learning) |
 
 
-# Overview of Machine Learning Systems
+# 1 Overview of Machine Learning Systems
 
 * ML: learn complex patterns from existing data and use these patterns to make predictions on unseen data
 * Zero-shot and continual learning are two approaches to learn with small data or no data
 * ML shine if: the problem is repetitive, cost of wrong prediction is cheap, it's at scale, patterns constantly changing
-*  key differences between ML in research and in production ML Systems versus traditional Software
+* Key differences between ML in research and in production
+||||
+|| Research | Production |
+| Requiremetns | State-of-the-art model performance on benchmark datasets | Different stakeholders have different requirements |
+| Computational priority | Fast training, high throughput | Fast inference, low latency |
+| Data | Static | Constantly shifting |
+| Fairness | Often not a focus | Must be considered |
+| Interppretability | Often not a focus| Must be considered | 
+* Typical stakeholders involve ML engineers, sales team, product team, infrastructure engineers, and managers
+* ML Systems versus traditional Software
+||||
+||Traditional Software| ML Systems|
+| System development | Code and data are separated | The system is part code, part data, and part artifacts |
+| Data | Constant | continously changing leading to faster development and deployment cycles |
+| Testing | Focus on testing and code versioning | testing and versioning code and data (challenging task) |
 
-# Introduction to Machine Learning Systems Design
+
+# 2 Introduction to Machine Learning Systems Design
 
 * Most ML systems should have characteristics: reliability, scalability, maintainability, adaptability
 * It's good practice to decouple objectives to simplify the model development & maintenance (p. 41-43) 
 
-# Data Engineering Fundamentals
+# 3 Data Engineering Fundamentals
 
 * First-party data: data that your company collects about your customers. Second-party data: data collected by another company about their own customers, and made this data available to you. Third-party data: companies collect data on the public who are not their direct customers. 
 * Data formats: JSON, row-Major (CSV), column-major (Parquet)  
@@ -44,7 +59,7 @@ In this document, a summary of the main ideas in the [Desiging ML Systems](https
 * ETL: extract data from multiple sources, transform it into desired format, load it into the target destination, e.g., data warehouse, database, or ML model. 
 * Modes of data flow: data passing through databases, data passing through services, data passing through real-time transport, e.g., Kafka. 
 
-# Training Data
+# 4 Training Data
 
 * Understanding sampling methods (non-probability, random sampling) --> avoid potential sampling biases
 * Non-probability sampling: convenience, snowball, judgement, quota sampling (biases typically occur)
@@ -59,10 +74,6 @@ Probability sampling: simple random sampling, stratified sampling, weighted samp
 * Active learning: label the samples most helpful to the model selected based on some metrics or heuristics
 	* Such as uncertainty measurement, query by committee (disagreement among multiple candidate models)
 * Comment: it could be interesting to compare between Active learning and Data Valuation for active data acquisition
-
-
-# Feature Engineering
-
 * Class imbalance: caused by biases in the sampling process or labeling errors
 * Sensitivity to class imbalance increases with the complexity of the predictive task
 	* Linearly-separable problems are unaffected by all levels of class imbalance
@@ -81,7 +92,7 @@ Probability sampling: simple random sampling, stratified sampling, weighted samp
     * In NLP, templates is a cheap way to synthesis training data
     * In computer vision, the mixup method synthesis data via combining existing examples 
 
-# Model Development and Offline Evaluation
+# 5 Feature Engineering
 
 * missing values: Missing at random (MAR), missing completely at random (MCAR), missing not at random (MNAR)
     * MNAR: reason is because of the true value itself (e.g., respondants do not like to disclose their income)
@@ -99,7 +110,7 @@ Probability sampling: simple random sampling, stratified sampling, weighted samp
 * Addressing data leakage: ablation study, measuring predictive power of each feature, monitor new features added
 More features does not mean better model performance, reasons: more opportunities for data leakage, may cause overfitting, increase memory required, increase inference latency, technical debts (updating data becomes a cumbersome task)
 
-# Model Deployment and Prediction Service
+# 6 Model Development and Offline Evaluation
 
 * Classical ML models are still used in various applications, e.g., recommender systems & classification tasks with strict latency requirements.
 * Six tips for model selection: avoid the state-of-the-art trap, start with the simplest model, avoid human biases in selecting models, evaluate good performance now versus good performance later, evaluate trade-offs (false positive vs. false negatives, compute requirement vs. accuracy, etc.), understand model's assumptions.
@@ -130,7 +141,7 @@ More features does not mean better model performance, reasons: more opportunitie
 	* confidence measurement: measuring confidence about each prediction (certainty threshold)
     * slice-based evaluation: useful to detect Simpson's paradox 
 
-# Data Distribution Shifts and Monitoring
+# 7 Model Deployment and Prediction Service
 
 * The hard parts of deploying ML models:
 	* Make them available to millions of users with a latency of milliseconds and 99% uptime
@@ -161,11 +172,16 @@ More features does not mean better model performance, reasons: more opportunitie
 * AutoTVM is a ML-based compiler stack used to automatically optimize ML models 
 * WebAssembly is an open standard that allows you to run executable programs in browsers. After building ML models, we can compile them to WebAssembly to get an executable file used with JavaScript (it is slower than running models natively on devices, e.g., Android or iOS apps).
 
-# Continual Learning and Test in Production (TBD)
+# 8 Data Distribution Shifts and Monitoring
 
-# Infrastructure and Tooling for MLOps (TBD)
+* Software system failure (failures that would have happened to non-ML systems): dependency failures, deployment failures, hardware failures, downtime or craching. 
+* ML-specific failures: 
 
-#  The Human Side of Machine Learning
+# 9 Continual Learning and Test in Production (TBD)
+
+# 10 Infrastructure and Tooling for MLOps (TBD)
+
+# 11  The Human Side of Machine Learning
 
 * It is difficult for data scientists to equally focus on model development and on model deployment. 
 * However, there are several drawbacks for splitting the team into ML engineers and DevOps engineers
