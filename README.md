@@ -38,7 +38,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [100+ Best Free Data Science Books for Beginners and Experts](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html): All the books listed are open sourced and are in a mixed order.
 
-[Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html): This book is about the engineering practices utilized at Google to make their codebase sustainable and healthy.
+* [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html): This book is about the engineering practices utilized at Google to make their codebase sustainable and healthy.
+
 
 ## Repos & Tools
 
@@ -362,6 +363,14 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 
 # Python 
+
+## Books
+
+* [Python Crash Course](https://www.amazon.de/-/en/Eric-Matthes-dp-1718502702/dp/1718502702/ref=dp_ob_title_bk):  A Hands-On, Project-Based Introduction to Programming Book by Eric Matthes. This is a comprehensive introduction to Python programming that emphasizes hands-on learning and project-based approach.
+
+* [Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin](https://www.amazon.de/-/en/Robert-Martin/dp/0132350882): The book emphasizes the importance of writing code that is easy to read, understand, and modify, and provides practical guidelines and best practices for achieving this goal. The book covers topics such as naming, functions, comments, formatting, error handling, testing, and refactoring, as well as higher-level concepts such as software design and architecture.
+
+* [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists): The book covers topics such as project planning, version control, testing, documentation, and collaboration, as well as specific tools and techniques for data analysis and modeling.
 
 ## Language-related Repos
 
