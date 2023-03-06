@@ -20,6 +20,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [FCIH OCW](https://www.youtube.com/user/FCIHOCW): Aset of courses, by Dr Waleed Yousef, about different topics in Computer Science.
 
+* [Software engineering Youtube CS106A - Stanford](https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PL84A56BC7F4A1F852): CS106A is an Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Uses the Java programming language. Emphasis is on good programming style and the built-in facilities of the Java language.  
+
 
 ## Learning Platforms
 
@@ -32,6 +34,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [Learn GIT branching](https://learngitbranching.js.org/): An interactive website for teaching how to deal with Git repositories. 
 
 * [The Algorithms - Python](https://github.com/TheAlgorithms/Python): All algorithms implemented in Python - for education
+
+* [HPI tele-TASK](https://www.tele-task.de/): Plenty of unseful courses on different domains provided by Hasso-Plattner Institute. You can also find OpenHPI tutorials on [Youtube](https://www.youtube.com/user/xhakil26/playlists).   
 
 
 ## Useful Books
@@ -56,6 +60,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 ## XAI Books
 
 * [A Guide for Making Black Box Models Explainable (Free ebook)](https://christophm.github.io/interpretable-ml-book/): he focus of the book is on model-agnostic methods for interpreting black box models such as feature importance and accumulated local effects, and explaining individual predictions with Shapley values and LIME. In addition, the book presents methods specific to deep neural networks.
+
 
 ## Repos and Tools
 
@@ -147,6 +152,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/): This course helps you bridge the gap from training machine learning models to deploying AI systems in the real world. An updated version of the course can be found (here)[https://fullstackdeeplearning.com/course/2022/].
 
+* [Machine Learning Model Deployment by Srivatsan Srinivasan](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5PlN1jwOB3jVZE6nYTVswk): This playlist covers techniques and approaches for model deployment on to production. This playlist has right theory and hands on methods required to build production ready models 
+
 * [End to End ML Lifecycle walkthrough by Srivatsan Srinivasan](https://www.youtube.com/watch?v=gc1DGuzJPDA&list=PL3N9eeOlCrP6Y73-dOA5Meso7Dv7qYiUU): The course covers ML lifecycle End-to-EndML, starting from problem identification till model deployment and model monitoring. It provides high level overview of different phases within ML lifecycle while Srivatsan has other video in this channel detailing out individual component.
 
 * [Machine Learning Engineering for Production (MLOps), Andrew Ng, Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK): Through this course, you will learn about the ML lifecycle and how to deploy ML models. 
@@ -159,8 +166,11 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Airflow Tutorial for Beginners](https://www.youtube.com/watch?v=K9AnJ9_ZAXE&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT): This 2-hour Airflow Tutorial for Beginners course combines theory explanation and practical demos to help you get started quickly as an absolute beginner. You don’t need any prerequisite to start this course, but basic python knowledge is recommended. 
 
- 
- 
+* [MLOps (Machine Learning Operations) Fundamentals -- Google Cloud (Free)](https://www.coursera.org/lecture/mlops-fundamentals/data-scientists-pain-points-ePAtg): This course introduces participants to MLOps tools and best practices for deploying, evaluating, monitoring and operating production ML systems on Google Cloud.  
+
+* [AI Workflow: AI in Production](https://www.coursera.org/learn/ibm-ai-workflow-ai-production): This course focuses on models in production at a hypothetical streaming media company.  There is an introduction to IBM Watson Machine Learning.  You will build your own API in a Docker container and learn how to manage containers with Kubernetes. 
+
+
 ## MLOps Open Source Tools
 
 * [ClearML](https://clear.ml/): with ClearML, you can easily develop, orchestrate, and automate ML workflows at scale. The free plan enables the following tools: experiment management, model repository, artifacts, dataset versioning, pipelines, agent orchestration, CI/CD automation, reports.
@@ -184,6 +194,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 	* [𝐁𝐚𝐝 𝐃𝐚𝐭𝐚](https://lnkd.in/dgbd-uiJ): This book is a collection of essays by 19 ML practitioners and is full of useful nuggets on data preparation and management.
 	* [𝐏𝐲𝐭𝐡𝐨𝐧 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐂𝐨𝐨𝐤𝐛𝐨𝐨𝐤](https://lnkd.in/d9XNqMD5): This cookbook takes the struggle out of feature engineering by showing you how to use open-source Python libraries to accelerate the process via a plethora of practical, hands-on recipes.
 	* [𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬 𝐅𝐨𝐫 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭𝐬](https://lnkd.in/d7bWPst8): This book covers a wide variety of statistical procedures used in data science. It dives into more complex statistical concepts with a more mathematical explanation compared to the other books.
+	* [Introduction to Probability for Data Science Stanley H. Chan](https://probability4datascience.com/):  An undergraduate textbook on probability for data science.
 	* [𝐇𝐚𝐧𝐝𝐬-𝐎𝐧 𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐨𝐫𝐲 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧](https://lnkd.in/dY_-WbS2): This book will help you gain practical knowledge of the main pillars of EDA — data cleaning, data preparation, data exploration, and data visualization
 
 * 𝑴𝒐𝒅𝒆𝒍𝒊𝒏𝒈
@@ -200,6 +211,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 	* [𝐒𝐭𝐨𝐫𝐲𝐭𝐞𝐥𝐥𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐃𝐚𝐭𝐚](https://lnkd.in/dzrQg7VQ): This book teaches you the fundamentals of data visualization and how to communicate effectively with data.
  	* [𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝𝐬 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐀𝐩𝐩𝐬 𝐰𝐢𝐭𝐡 𝐏𝐥𝐨𝐭𝐥𝐲 𝐚𝐧𝐝 𝐃𝐚𝐬𝐡](https://lnkd.in/dfVDeVjY): This book helps you to develop complete data apps and interactive dashboards without JavaScript. Through this book, you will be able to explore the functionalities of Dash for visualizing data in different ways.
 
+* Interviews
+	* [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/): The book consists of two parts. The first part provides an overview of the machine learning interview process, what types of machine learning roles are available, what skills each role requires, what kinds of questions are often asked, and how to prepare for them. This part also explains the interviewers’ mindset and what kind of signals they look for. The second part consists of over 200 knowledge questions, each noted with its level of difficulty -- interviews for more senior roles should expect harder questions -- that cover important concepts and common misconceptions in machine learning.
 
 
 ## ML Articles
@@ -207,6 +220,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [𝗛𝘂𝗻𝗱𝗿𝗲𝗱𝘀 𝗼𝗳 𝗡𝗟𝗣 𝗣𝗮𝗽𝗲𝗿𝘀 𝘄𝗶𝘁𝗵 𝗖𝗼𝗱𝗲](https://index.quantumstat.com/): The NLP Index lets you keep track of the NLP advancements, by offering an updated list of the latest NLP research papers! Furthermore, the website provides a link for the Github repository of each paper, making it a valuable resource for ML researchers and practitioners.
 
 * [ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained): Explanations to key concepts in ML.
+
+* [Machine Learning Mastery](https://machinelearningmastery.com/start-here/):  Step-by-step guides for getting started with applied ML. 
 
 * [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650): This reference is a home to hundreds of fully-solved problems, from a wide range of key topics in AI.
 
@@ -232,11 +247,16 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction): The most comprehensive professionally curated resource on Conformal Prediction including the best tutorials, videos, books, papers, articles, courses, websites, conferences and open-source libraries code in Python, R and Julia.
 
-* [Harvard CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/): This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation.
+* [The Base Camp for your Ascent in Machine Learning](https://databasecamp.de/en/homepage): In this blog, you will find all the topics to help you master the expedition into the world of Artificial Intelligence. 
 
+* [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/): A set of illustrated ML cheatsheets covering the content of the CS 229 class at Stanford.
 
 
 ## ML Courses
+
+* [CS839 Data Management for Machine Learning Applications](https://thodrek.github.io/CS839_spring18/): The goal of this seminar course is to study data management challenges that arise in the context of machine learning pipelines. The focus will be on cutting-edge problems in the context of ML pipelines, related to (1) data exploration and understanding, (2) data integration, cleaning, and validation, and (3) data preparation for ML models and serving of production ML applications. 
+
+* [Harvard CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/): This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation.
 
 * [Introduction to Data-Centric AI, IAP 2023](https://dcai.csail.mit.edu/): This class covers algorithms to find and fix common issues in ML data and to construct better datasets, concentrating on data used in supervised learning tasks like classification. Video recordings of the lectures are available on [YouTube](https://www.youtube.com/playlist?list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5).
 
@@ -303,6 +323,18 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Stanford CS229: Machine Learning](https://cs229.stanford.edu/syllabus-summer2020.html): The course a broad introduction to statistical machine learning (at an intermediate / advanced level) and covers supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical ); and reinforcement learning among other topics.
 
+*[Data Engineering Foundations Specialization -- Enroll for Free](https://www.coursera.org/specializations/data-engineering-foundations#courses): The Specialization consists of 5 self-paced online courses covering skills required for data engineering, including the data engineering ecosystem and lifecycle, Python, SQL, and Relational Databases.  You will learn these data engineering prerequisites through engaging videos and hands-on practice using real tools and real-world databases. 
+
+* [Statistical Machine Learning — Ulrike von Luxburg, 2020](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC): The course covers the standard paradigms and algorithms in statistical machine learning, simply browse through the titles of the individual lectures to get an impression of the contents. The target audience consists of master students in computer science and related fields. 
+
+* [Kimia Lab: Machine Intelligence](https://www.youtube.com/playlist?list=PLZWvneBOrhoEWyByqPli18AScodr_MzEK): An overview of different learning schemes will be provided: Decision Tree, Bayesian, Inductive, Analytical, and Rule-based learning. 
+
+* [Deep Learning at VU University Amsterdam](https://dlvu.github.io/): This page contains all public information about the course Deep Learning at the Vrije Universiteit Amsterdam.
+
+* [Tübingen Machine Learning](https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA): A series of wonderful ML courses delivered at Tübingen University.
+
+* [15-445/645 Intro to Database Systems (Spring 2023)](https://15445.courses.cs.cmu.edu/spring2023/): This course is on the design and implementation of database management systems. Topics include data models (relational, document, key/value), storage models (n-ary, decomposition), query languages (SQL, stored procedures), storage architectures (heaps, log-structured), indexing (order preserving trees, hash tables), transaction processing (ACID, concurrency control), recovery (logging, checkpoints), query processing (joins, sorting, aggregation, optimization), and parallel architectures (multi-core, distributed).  
+
 
 ## Datasets, Pretrained Models, and ML Problems
 
@@ -338,6 +370,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Roboflow/Notebooks](https://github.com/roboflow/notebooks): This repository contains Jupyter Notebooks that have been featured in their blog posts and YouTube videos.
 
+* [Machine learning system design pattern](https://mercari.github.io/ml-system-design-pattern/): This repository contains system design patterns for training, serving and operation of machine learning systems in production. 
+
+* [TowardsAI tutorials](https://github.com/towardsai/tutorials): All tutorials, articles, and books listed in this repository are property of Towards AI, Inc.
 
 
 # Reinforcement Learning
@@ -371,6 +406,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin](https://www.amazon.de/-/en/Robert-Martin/dp/0132350882): The book emphasizes the importance of writing code that is easy to read, understand, and modify, and provides practical guidelines and best practices for achieving this goal. The book covers topics such as naming, functions, comments, formatting, error handling, testing, and refactoring, as well as higher-level concepts such as software design and architecture.
 
 * [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists): The book covers topics such as project planning, version control, testing, documentation, and collaboration, as well as specific tools and techniques for data analysis and modeling.
+
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook): This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks. The book introduces the core libraries essential for working with data in Python: particularly IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and related packages. 
+
 
 ## Language-related Repos
 
