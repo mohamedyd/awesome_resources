@@ -22,7 +22,8 @@ In this document, a summary of the main ideas in the [Desiging ML Systems](https
 * Zero-shot and continual learning are two approaches to learn with small data or no data
 * ML shine if: the problem is repetitive, cost of wrong prediction is cheap, it's at scale, patterns constantly changing
 * Key differences between ML in research and in production
-||||
+
+| | | |
 |-|-|-|
 || Research | Production |
 | Requiremetns | State-of-the-art model performance on benchmark datasets | Different stakeholders have different requirements |
@@ -32,7 +33,8 @@ In this document, a summary of the main ideas in the [Desiging ML Systems](https
 | Interppretability | Often not a focus| Must be considered | 
 * Typical stakeholders involve ML engineers, sales team, product team, infrastructure engineers, and managers
 * ML Systems versus traditional Software
-||||
+
+| | | |
 |-|-|-|
 ||Traditional Software| ML Systems|
 | System development | Code and data are separated | The system is part code, part data, and part artifacts |
