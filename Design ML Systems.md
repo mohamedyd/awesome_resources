@@ -23,6 +23,7 @@ In this document, a summary of the main ideas in the [Desiging ML Systems](https
 * ML shine if: the problem is repetitive, cost of wrong prediction is cheap, it's at scale, patterns constantly changing
 * Key differences between ML in research and in production
 ||||
+|-|-|-|
 || Research | Production |
 | Requiremetns | State-of-the-art model performance on benchmark datasets | Different stakeholders have different requirements |
 | Computational priority | Fast training, high throughput | Fast inference, low latency |
@@ -32,6 +33,7 @@ In this document, a summary of the main ideas in the [Desiging ML Systems](https
 * Typical stakeholders involve ML engineers, sales team, product team, infrastructure engineers, and managers
 * ML Systems versus traditional Software
 ||||
+|-|-|-|
 ||Traditional Software| ML Systems|
 | System development | Code and data are separated | The system is part code, part data, and part artifacts |
 | Data | Constant | continously changing leading to faster development and deployment cycles |
