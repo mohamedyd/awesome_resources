@@ -36,6 +36,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## Useful Books
 
+* [100+ Best Free Data Science Books for Beginners and Experts](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html): All the books listed are open sourced and are in a mixed order.
+
 [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html): This book is about the engineering practices utilized at Google to make their codebase sustainable and healthy.
 
 ## Repos & Tools
