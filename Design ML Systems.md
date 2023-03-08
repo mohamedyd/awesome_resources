@@ -72,7 +72,7 @@ Probability sampling: simple random sampling, stratified sampling, weighted samp
 * Label multiplicity (disagreement among annotators), data lineage (keep track of origin of data sample & labels)
 * Natural labels (ground truth labels): labels from the user feedback
 * Feedback loop length: time it takes from when a prediction is served until when the feedback on it is received.
-* Handling lack of labels: Weak-supervision, semi-supervision, transfer learning, active learning, data augmentation
+* Handling lack of labels: Weak-supervision (e.g., Snorkel), semi-supervision, transfer learning, active learning, data augmentation
 * Self-training: use predictions on small labeled data as new labels to enhance the training data
 * Perturbation-based method (data augmentation): small perturbations to a sample shouldn't change its label
 * Active learning: label the samples most helpful to the model selected based on some metrics or heuristics
@@ -92,7 +92,7 @@ Probability sampling: simple random sampling, stratified sampling, weighted samp
 	* Class-balanced loss: assign weight of each class proportional to the number of samples in that class
     * Focal loss: higher weight assigned to samples with low probability of being right
 * Data Augmentation (DA)
-    * Types of DA: label-preserving transformation, perturbation (adding random noise), data synthesis
+    * Types of DA: label-preserving transformation (e.g., rotating images), perturbation (adding random noise), data synthesis
     * In NLP, templates is a cheap way to synthesis training data
     * In computer vision, the mixup method synthesis data via combining existing examples 
 
@@ -180,6 +180,26 @@ More features does not mean better model performance, reasons: more opportunitie
 
 * Software system failure (failures that would have happened to non-ML systems): dependency failures, deployment failures, hardware failures, downtime or craching. 
 * ML-specific failures: 
+	* data collection and processing problems, e.g., sampling biases and class imbalance (covered in Chapter 4)
+	* poor hyperparameters (Chapter 6)
+	* production data differing from training data
+		* if the training and production data come from different distributions, the model can not generalize well.
+		* data distribution shifts happen all the time, suddenly, gradually, or seasonally 
+		* Due to complexity of ML systems and poor deployment practices, a large percentage of data shifts are caused by internal (human) errors
+			* bugs in the data pipeline
+			* missing values incorrectly imputed
+			* inconsistencies between the features extracted during training and inference
+			* features standardized using statistics from the wrong subset of data
+			* wrong model version
+			* bugs in the app interface that force users to change their behaviors  
+	* edge cases
+		* they are data samples so extreme that they can cause the model to make catastrophic mistakes, e.g., [self-driving cars](https://rodneybrooks.com/edge-cases-for-self-driving-cars/)
+	* degenerate feedback loop
+		* it happens when the predictions themselves influence the next iterations of the model
+		* at best, it can cause a model to perform sub-optimally. At worest, it can magnify biases embedded in data
+		* Two techniques can be used to correct degenerate feedback loop, including: randomization and the use of positional features
+* Data distribution shifts
+
 
 # 9 Continual Learning and Test in Production (TBD)
 
