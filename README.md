@@ -40,6 +40,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## Useful Books
 
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md): A comperhensive list of free books to learn all programming languages.
+
 * [100+ Best Free Data Science Books for Beginners and Experts](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html): All the books listed are open sourced and are in a mixed order.
 
 * [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html): This book is about the engineering practices utilized at Google to make their codebase sustainable and healthy.
@@ -52,6 +54,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [𝗔𝗻 𝗔𝗜 𝗖𝗼𝗱𝗶𝗻𝗴 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁𝘀](https://codesquire.ai/):  AI code writing assistant for data scientists, engineers, and analysts. Get code completions and suggestions as you type (Chrome extension). 
 
 * [Awesome Open Source](https://awesomeopensource.com/): Find And compare open source projects in different fields and programming languages, e.g., python, machine learning, datasets, deployment, data preprocessing, user interfance, operating systems, and blockchain.   
+
+* [Project-based-learning](https://github.com/practical-tutorials/project-based-learning#python): A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
 
 
 
@@ -147,6 +151,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 
 ## MLOps Courses
+
+* [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp): Teach practical aspects of productionizing ML services — from collecting requirements to model deployment and monitoring.
 
 * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/):  This course aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable.
 
@@ -253,6 +259,10 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 
 ## ML Courses
+
+* [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp): Week 1: Introduction & Prerequisites, Week 2: Workflow Orchestration, Week 3: Data Warehouse, Week 4: Analytics Engineering, Week 5: Batch processing, Week 6: Streaming, and Week 7, 8 & 9: Project
+
+* [ 100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding for beginners. 
 
 * [CS839 Data Management for Machine Learning Applications](https://thodrek.github.io/CS839_spring18/): The goal of this seminar course is to study data management challenges that arise in the context of machine learning pipelines. The focus will be on cutting-edge problems in the context of ML pipelines, related to (1) data exploration and understanding, (2) data integration, cleaning, and validation, and (3) data preparation for ML models and serving of production ML applications. 
 
@@ -411,6 +421,10 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 
 ## Language-related Repos
+
+* [Complete Python 3 Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp): Course Files for Complete Python 3 Bootcamp Course on Udemy
+
+* [python-patterns](https://github.com/faif/python-patterns): A collection of design patterns and idioms in Python.
 
 * [Python-For-Data-Professionals](https://github.com/hemansnation/Python-For-Data-Professionals): This course is for Data Professionals so that they can learn Python in 12 days for starting their data journey.
 
