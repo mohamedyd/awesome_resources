@@ -444,6 +444,11 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [Python_reference](https://github.com/rasbt/python_reference): The content of this repo covers: Python tips and tutorials, Algorithms and Data Structures, Plotting and Visualization, Data Science, and more. 
 
 
+## Articles
+
+* [12 Python Decorators to Take Your Code to the Next Level](https://towardsdatascience.com/12-python-decorators-to-take-your-code-to-the-next-level-a910a1ab3e99): This post is a documented list of 12 helpful decorators I regularly use in my projects to extend my code with extra functionalities.
+
+
 ## AI-related Repos
 
 * [the incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch): This repo is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible PyTorch.
