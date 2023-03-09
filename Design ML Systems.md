@@ -199,7 +199,21 @@ More features does not mean better model performance, reasons: more opportunitie
 		* at best, it can cause a model to perform sub-optimally. At worest, it can magnify biases embedded in data
 		* Two techniques can be used to correct degenerate feedback loop, including: randomization and the use of positional features
 * Data distribution shifts
-
+	* A phenomenon is supervised learning when the data a model works with changes over time, causing the model performance to deteriorate.
+	* Features can be seen as a set of samples from the joint distribution P(X, Y) and the ML usually models P(Y|X).
+	* The joint distribution P(X, Y) can be decomposed into P(Y|X)P(X) or into P(X|Y)P(Y)
+	* Types of data distribution shifts:
+		* Covariate shift: when P(X) changes, but P(Y|X) remains the same
+			* Can be caused by biases during the data selection process or becuase the training data is artificially altered to make it easier for the ML model to learn (e.g., addressing class imbalance). 
+			* In production, covariate shifts typically occur becuase of major changes in the environment or in the way your application us used. 
+		* Label shift (aka prior shift and target shift): when P(Y) changes, but P(X|Y) remains the same
+			* The prior probability of the classes changes between the training and test data
+			* If the training data has a different class balance than the test data, this can cause a shift in the prior probabilities.
+		* Concept drift (aka posterior shift): when P(Y|X) changes, but P(X) remains the same
+			* You can think of this as "same input, different output". They are cyclic or seasonal, e.g., ride sharing or flight tickets.
+		* Other types of changes in the real world
+			* feature change: new features added, older features are removed, or the set of all possible values of a feature changes
+			* label scheme change: the set of possible values for Y change (both P(Y) and P(X|Y) change), e.g., new classes added.  
 
 # 9 Continual Learning and Test in Production (TBD)
 
