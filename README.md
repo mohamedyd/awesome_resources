@@ -33,8 +33,6 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Learn GIT branching](https://learngitbranching.js.org/): An interactive website for teaching how to deal with Git repositories. 
 
-* [The Algorithms - Python](https://github.com/TheAlgorithms/Python): All algorithms implemented in Python - for education
-
 * [HPI tele-TASK](https://www.tele-task.de/): Plenty of unseful courses on different domains provided by Hasso-Plattner Institute. You can also find OpenHPI tutorials on [Youtube](https://www.youtube.com/user/xhakil26/playlists).   
 
 
@@ -55,8 +53,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Awesome Open Source](https://awesomeopensource.com/): Find And compare open source projects in different fields and programming languages, e.g., python, machine learning, datasets, deployment, data preprocessing, user interfance, operating systems, and blockchain.   
 
-* [Project-based-learning](https://github.com/practical-tutorials/project-based-learning#python): A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
-
+* [Connected Papers](https://www.connectedpapers.com/): Connected Papers allows you to easily navigate the landscape of papers on a given theme. It also ranks the papers that are most relevant to a given input paper. It's excellent for compiling a 'reading list' when researching a particular topic. 
 
 
 # Explainable AI
@@ -419,6 +416,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook): This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks. The book introduces the core libraries essential for working with data in Python: particularly IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and related packages. 
 
+* [Full Speed Python](https://github.com/joaoventura/full-speed-python): This repo contains a book for self-learners and aims to teach Python using a practical approach. Includes exercises that play a crucial role in bringing Python learners up to speed with Python’s syntax in a short period.
+
 
 ## Language-related Repos
 
@@ -433,6 +432,17 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes): This repo contains useful notes from Clean Code book that will help with writing quality code. The repo is well summarised that could be used as a refresher or a quick guide for junior engineers.
 
 * [LeetCode Questions & Answers](https://github.com/ThinamXx/ML..Interview..Preparation): This repo targets preparing you for the machine learning interviews.
+
+* [Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python): This is a collection of Python scripts that are split by topics and contain code examples with explanations, different use cases and links to further readings.
+
+* [The Algorithms - Python](https://github.com/TheAlgorithms/Python): All algorithms implemented in Python - for education
+
+* [Awesome Python](https://github.com/vinta/awesome-python): Collection of Python frameworks, libraries, tools, books, newsletters, podcasts, and web series dedicated to making Python easier for everyone. The repo has listed over 90 different categories for individual projects or topics including admin panels, data validations, computer vision, algorithms and design patterns, ChatOps tools, and so much more.
+
+* [Project-based-learning](https://github.com/practical-tutorials/project-based-learning#python): A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
+
+* [Python_reference](https://github.com/rasbt/python_reference): The content of this repo covers: Python tips and tutorials, Algorithms and Data Structures, Plotting and Visualization, Data Science, and more. 
+
 
 ## AI-related Repos
 
