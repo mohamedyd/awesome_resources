@@ -214,6 +214,47 @@ More features does not mean better model performance, reasons: more opportunitie
 		* Other types of changes in the real world
 			* feature change: new features added, older features are removed, or the set of all possible values of a feature changes
 			* label scheme change: the set of possible values for Y change (both P(Y) and P(X|Y) change), e.g., new classes added.  
+	* Detecting data distribution shifts:
+		* The easiest way is to monitor the performance of the ML models, however this solution assumes the availability of ground truth of the model's predictions, which is not often the case. 
+		* Recently, there have been research to detect label shifts without knowing the ground truth e.g., [Black Box Shift Estimation (BBSE)](https://arxiv.org/abs/1802.03916). However, in industry, drift detection efforts focus on detecting changes in the input distributions. 
+		* Statistical methods
+			*  [TensorFlow Extended's built-in data validation tools](https://www.tensorflow.org/tfx/data_validation/get_started) (Mean, median, variance)
+				* There is no guarantee that there's no shift, if those metrics are similar
+			* Two-sample hypothesis test: check whether the difference between two populations is statistically significant (If this is the case, the probability that the difference is a random fluctuation due to sampling variability is very low, and the difference is caused by the fact that the two populations comes from two different distributions).
+				* If you are able to detect the difference from a relatively small sample, then it is a serious difference. If you need a huge number of samples to detect, then the difference is probably not worth worrying about. 
+				* Examples: 
+					* The Kolmogorov-Smirnov (KS) test: nonparametric test (no parameters & assumptions about the distribution, can be used with only one-dimensional data). It can be computationally expensive and produce too many false positives ([Reference](https://www.tensorflow.org/tfx/data_validation/get_started)).
+					* Kullback-Leibler (KL) divergence (It quantifies the amount of information lost when approximating one distribution with another)
+					* Chi-Squared test for categorical features
+					* Least-squares density difference (LSDD)
+					* Maximum Mean Discrepancy (MMD)
+				* Shifts can be either spatial (shifts happen across access points, e.g., app is used on a different type of devices) or temporal (shifts that happen over time; we should treat input data as time-series data).
+				* For temporal shifts, the time scale window of the data we look at affects the shifts we can detect.
+					* the shorter the window, the faster you will be able to detect changes. However, too short windows can lead to false positives. 
+			* Other techniques to detect shifts:
+				* [Subset scanning](https://arxiv.org/pdf/2111.14938v2.pdf) (fast and efficient, unsupervised, batch data)
+				* Causal forests (supervised, detect concept drift in real-time)
+				* [Failing Loudly](https://github.com/steverab/failing-loudly/blob/master/shift_detector.py): An Empirical Study of Methods for Detecting Dataset Shift (link)
+				* XAI methods (e.g., [clustering SAPH values](https://openreview.net/pdf?id=P_ImdNqo7S), [explanations and two-sample test](https://github.com/DFKI-NLP/xai-shift-detection))
+				* Bayesian Changepoint Detection (probabilistic) 
+				* Kernel Changepoint Detection (KSWIN (Kernel-based Sliding Window) & KED (Kernel-based Estimation of Drift))
+				* Unsupervised Change Detection algorithm (difference-based, clustering)
+				* ECD (Ensemble Changepoint Detection) algorithm and the E-Divisive algorithm
+	* Addressing Data Distribution Shifts
+		* Training ML models with massive datasets
+		* Adapting trained models to a target distribution (domain adaptation)
+		* Retraining models using labeled data from the target distribution
+			* Stateless retraining (Everytime training the entire model from scratch)
+			* Stateful training (continual learning)
+				* Example: river (open source) library for detecting drifts and continual learning (GitHub link)
+				* Awesome online ML resources (GitHub link)
+		* Ensemble learning with model weighting
+* Monitoring and observability
+
+
+  
+
+
 
 # 9 Continual Learning and Test in Production (TBD)
 
