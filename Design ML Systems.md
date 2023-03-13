@@ -250,11 +250,26 @@ More features does not mean better model performance, reasons: more opportunitie
 				* Awesome online ML resources (GitHub link)
 		* Ensemble learning with model weighting
 * Monitoring and observability
-
-
-  
-
-
+	* Monitoring refers to the act of tracking, measuring, and loggin different metrics that can help us determine when someting goes wrong.
+	* Observability (instrumentation) means setting up our system in a way that gives us visibility into our system to help us investigate what went wrong, e.g., adding timers to your functions, counting NaNs, tracking how features are transformed. 
+	* Metrics to be monitored:
+		* operational metrics, e.g., availability, latency, throughput, CPU/GPU utilization, memory utilization, etc.
+		* ML-specific metrics
+			* Model's accuracy related metrics (requires user feedback or an oracle for labeling)
+			* Prediction, e.g., using two-sample test
+			* Features (validation using open-source libraries: Deequ and Great Expectations) or two-sample tests
+			* Minor changes might not harm the model performance / changes might be caused by the preparation pipeline
+			* Raw inputs (can be difficult due to collecting data from different sources)
+	* Monitoring toolbox: logs, dashboards, and alerts
+		* logs: recording events produced at runtime. To make it easy to search the logs, distributed tracing is used.
+			* distributed tracing: giveing each process an ID, when something goes wrong, the error message shows that ID. It is also important to record the necessary metadata: time when the event happens, the ervices where it happens, the function that is called, the user associated with the process, etc. 
+			* the number of logs can grow very large quickly. Therefore, there have been tools to help companies manage and analyze their logs. ML has also being used to detect anomalistic events in the logs. 
+		* dashboards: useful for revealing relationships between metrics, making monitoring accessible to nonengineers. 
+			* dashboard rot: a phenomenon where execssive metrics on a dashboard can be counterproductive. 
+			* alters: it consists of:
+				* an alert policy: this describes the condition for an alert
+				* a notification channels: who is to be notified when the condition is met (it is important to direct the alerts to the right persons to mitigate the alert fatigue)
+				* a description of the alert: detailed description will help the notified person understand the problem.
 
 # 9 Continual Learning and Test in Production (TBD)
 
