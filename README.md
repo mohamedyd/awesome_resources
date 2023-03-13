@@ -305,18 +305,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Rasa Algorithm Whiteboard - Transformers & Attention (Large Language Models)](https://www.youtube.com/watch?v=yGTUuEx3GkA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=10): This Youtube course provides an explanation of the attention mechanisms.
 
-* [Neural networks for NLP (CMU CS 11-747, Spring 2021), Carnegie Mellon University](https://www.phontron.com/class/nn4nlp2021/schedule.html):  It covers major topics in neural networks modeling and training
-	- Language modeling and training tricks
-	- Neural networks building
-	- Recurrent neural networks
-	- Attention mechanism and efficiency tricks
-	- Contextual word representations
-	- Debugging neural networks
-	- Model interpretation
-	- Trees and Graphs
-	- Reinforcement learning for structured prediction
-	- Knowledge bases with neural networks
-	- Adversarial methods and advanced search algorithms
+* [Neural networks for NLP (CMU CS 11-747, Spring 2021), Carnegie Mellon University](https://www.phontron.com/class/nn4nlp2021/schedule.html):  It covers major topics in neural networks modeling and training, e.g., Language modeling and training tricks,  Neural networks building, Recurrent neural networks, Attention mechanism and efficiency tricks, Contextual word representations, Debugging neural networks, Model interpretation, Trees and Graphs, Reinforcement learning for structured prediction, Knowledge bases with neural networks, and Adversarial methods and advanced search algorithms.
 
 * [Learn Computer Vision From Top Universities](https://medium.com/mlearning-ai/learn-computer-vision-from-top-universities-bb6019be74d2): the article provides courses in several domains, including image and signal processing, computer vision, machine learning and deep learning for computer vision, programming for Computer Vision, and Photogrammetry.
 
@@ -341,6 +330,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [Tübingen Machine Learning](https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA): A series of wonderful ML courses delivered at Tübingen University.
 
 * [15-445/645 Intro to Database Systems (Spring 2023)](https://15445.courses.cs.cmu.edu/spring2023/): This course is on the design and implementation of database management systems. Topics include data models (relational, document, key/value), storage models (n-ary, decomposition), query languages (SQL, stored procedures), storage architectures (heaps, log-structured), indexing (order preserving trees, hash tables), transaction processing (ACID, concurrency control), recovery (logging, checkpoints), query processing (joins, sorting, aggregation, optimization), and parallel architectures (multi-core, distributed).  
+
+* [Natural Language Processing with Hugging Face](https://www.youtube.com/playlist?app=desktop&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N): Various topics and models to deal with NLP problems. 
 
 
 ## Datasets, Pretrained Models, and ML Problems
