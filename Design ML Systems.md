@@ -245,9 +245,8 @@ More features does not mean better model performance, reasons: more opportunitie
 		* Adapting trained models to a target distribution (domain adaptation)
 		* Retraining models using labeled data from the target distribution
 			* Stateless retraining (Everytime training the entire model from scratch)
-			* Stateful training (continual learning)
+			* Stateful training (continual learning): the model continues training on new data
 				* Example: river (open source) library for detecting drifts and continual learning (GitHub link)
-				* Awesome online ML resources (GitHub link)
 		* Ensemble learning with model weighting
 * Monitoring and observability
 	* Monitoring refers to the act of tracking, measuring, and loggin different metrics that can help us determine when someting goes wrong.
@@ -271,7 +270,34 @@ More features does not mean better model performance, reasons: more opportunitie
 				* a notification channels: who is to be notified when the condition is met (it is important to direct the alerts to the right persons to mitigate the alert fatigue)
 				* a description of the alert: detailed description will help the notified person understand the problem.
 
-# 9 Continual Learning and Test in Production (TBD)
+# 9 Continual Learning and Test in Production
+
+* Companies that employ continual learning in production update their models in micro-batches. The updated model should not be deployed until it is been evaluated.
+* stateful training requires less data, less compute power, and faster convergence time than stateless retraining. With stateful training, it is possible to avoid storing data (save costs and eliminate privacy concerns).
+* Some companies tend to use both stateful training and stateless retraining (occasionally).
+* Continual learning is about setting up infrastrcture in a way that allows data scientists to update ML models whenever needed. 
+* Why Continual learning? 
+	* Combat data distribution shifts, adapt to rare events, overcome the cold start problem (dealing with new users/situations, where historical data does not represent those users/situations). 
+* Continual learning challenges:
+	* fresh data access challenge
+		* getting fresh data can be slow if the data is pulled from a warehouse, comes from multiple sources. Getting data directly from real-time transports, e.g., Kafka and Kinesis, can be much faster. 
+		* best candidates for continual learning are tasks where you can get natual labels with short feedback loops (e.g., dynamic pricing).
+		* Label computation: the process of searching the logs to extract labels (can be costly when delaing with large number of logs, much faster to leverage stream processing to extract labels from the real-time transports directly).
+	* evaluation challenge (ensuring that the updates are good enough (performance and safety) to be deployed)
+		* evaluation is necessary: with continual learning, the models more susceptible to coordinated manipulation and adversarial attacks.
+		* evaluation takes time, which might be bottleneck for model update frequency. 
+	* algorithm challenge
+		* tree-based and matrix-based models (e.g., collaborative filtering model) require the entire dataset to be updated.
+		* Scaling features require statistics computed over the entire dataset, which can be challenging in continal learning.
+			* solution is to rely on running statistics: incrementally compute these statistics as new data arrives.
+* Four stages of continual learning
+	* Stage 1: Maunal, stateless retraining
+	* Stage 2: Automated retraining
+	* Stage 3: Automated stateful training
+	* Stage 4: continual learning 
+
+
+
 
 # 10 Infrastructure and Tooling for MLOps (TBD)
 
