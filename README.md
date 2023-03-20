@@ -334,6 +334,11 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Natural Language Processing with Hugging Face](https://www.youtube.com/playlist?app=desktop&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N): Various topics and models to deal with NLP problems. 
 
+* [CMU Multimodal Machine Learning course by LP Morency (Carnegie Mellon, 2022)](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA): The course presents the fundamental mathematical concepts in machine learning and deep learning relevant to the six main challenges in multimodal research: (1) representation, (2) alignment, (3) reasoning, (4) generation, (5) transference and (6) quantification.
+
+* [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/):  In this course, students will learn the fundamentals about the modeling, theory, ethics, and systems aspects of large language models, as well as gain hands-on experience working with them.
+
+
 
 ## Datasets, Pretrained Models, and ML Problems
 
