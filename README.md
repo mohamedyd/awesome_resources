@@ -145,6 +145,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Deep Learning Blogs: 10 Weeks MLOps course](https://www.ravirajag.dev/blog): The goal of the series is to understand the basics of MLOps (model building, monitoring, configurations, testing, packaging, deployment, cicd).
 
+* [A tutorial on building ML and data monitoring dashboards with Evidently and Streamlit](https://www.evidentlyai.com/blog/ml-model-monitoring-dashboard-tutorial): In this tutorial, you will go through an example of creating and customizing an ML monitoring dashboard using the two open-source libraries. 
+
 
 
 ## MLOps Courses
