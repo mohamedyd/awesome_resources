@@ -291,10 +291,28 @@ More features does not mean better model performance, reasons: more opportunitie
 		* Scaling features require statistics computed over the entire dataset, which can be challenging in continal learning.
 			* solution is to rely on running statistics: incrementally compute these statistics as new data arrives.
 * Four stages of continual learning
-	* Stage 1: Maunal, stateless retraining
-	* Stage 2: Automated retraining
+	* Stage 1: Maunal, stateless retraining (Your priority is to develop ML models to solve as many business problems as possible)
+	* Stage 2: Automated retraining (Your priority is to maintain and improve existing models)
+		* three factors define the feasibility of writing scripts to automate the workflow
+			* scheduler: tool that handles task scheduling. 
+			* data availablility and accessibility (most people's time might be spent here)
+			* model store: automatically version and store all artifacts needed to reproduce the ML models (e.g., MLflow).
+		* feature reuse (log and wait): using the features extracted by the prediction service to retrain the models (save computation & allows for consistency between prediction and training)
 	* Stage 3: Automated stateful training
-	* Stage 4: continual learning 
+		* the main thing needed here is a way to track data and model lineage (no existing model store has this model lineage capacity)
+		* model is updated based on fixed schedule set out by developers (this task is not straightforward)
+	* Stage 4: continual learning
+		* model is updated automatically whenever data distributions shift and the model's performance plummets.
+		* in this stage, you need a mechanism to trigger model updates, where the trigger can be:
+			* time-based, performance-based, volume-based (i.e., size of labeled data), drift-based
+		* Monitoring is needed in this stage, where it is not hard to detect changes, but to determine which of these changes matter.
+* How often to update your ML models
+	* to answer this question, we need first to figure out how much gain your model will get from being updated with fresh data.
+	* the more gain your model can get, the more frequently it should be retrained.
+	* To measure value of data freshness, train your model on data from different time windows in the past and evaluate it on the data from today to see how the performace changes. 
+	* Model iteration (adding new features or changing model architecture) versus data iteration. Currently, there is no theoritical foundation which tell which approach is better for a certain situation. Hence, you have to do experiments to find out. 
+* Test in production
+
 
 
 
