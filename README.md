@@ -35,6 +35,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [HPI tele-TASK](https://www.tele-task.de/): Plenty of unseful courses on different domains provided by Hasso-Plattner Institute. You can also find OpenHPI tutorials on [Youtube](https://www.youtube.com/user/xhakil26/playlists).   
 
+* [Reviews learning free](https://www.reviewslearningfree.com/): This website offers a collection of valuable and valuable courses and books on the science of artificial intelligence, especially machine learning.
+
 
 ## Useful Books
 
@@ -60,7 +62,7 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## XAI Books
 
-* [A Guide for Making Black Box Models Explainable (Free ebook)](https://christophm.github.io/interpretable-ml-book/): he focus of the book is on model-agnostic methods for interpreting black box models such as feature importance and accumulated local effects, and explaining individual predictions with Shapley values and LIME. In addition, the book presents methods specific to deep neural networks.
+* [A Guide for Making Black Box Models Explainable (Free ebook)](https://christophm.github.io/interpretable-ml-book/): the focus of the book is on model-agnostic methods for interpreting black box models such as feature importance and accumulated local effects, and explaining individual predictions with Shapley values and LIME. In addition, the book presents methods specific to deep neural networks.
 
 
 ## Repos and Tools
@@ -212,10 +214,11 @@ Each of these resources include plenty of books, courses, articles, and other le
 	* [Simplifying Machine Learning with PyCaret](https://leanpub.com/pycaretbook): A beginner-friendly introduction to machine learning with Python, that is based on the PyCaret and Streamlit libraries. Readers will delve into the fascinating world of artificial intelligence, by easily training and deploying their ML models!  
 	* [Understanding Deep Learning](https://udlbook.github.io/udlbook/): An interesting free book on various aspects of deep learning.
 	* [CIML: A Course in Machine Learning by Hal Daumé III](http://ciml.info): CIML is a set of introductory materials that covers most major aspects of modern machine learning (supervised learning, unsupervised learning, large margin methods, probabilistic modeling, learning theory, etc.).
+	* [Modern Time Series Forecasting with Python by Manu Joseph](https://github.com/PacktPublishing/Modern-Time-Series-Forecasting-with-Python): This massive book will help you to make your first step in this area. It goes from the basics of Time Series to sophisticated DL-based models.  
 
 * 𝑫𝒂𝒕𝒂 𝑺𝒕𝒐𝒓𝒚𝒕𝒆𝒍𝒍𝒊𝒏𝒈
 	* [𝐒𝐭𝐨𝐫𝐲𝐭𝐞𝐥𝐥𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐃𝐚𝐭𝐚](https://lnkd.in/dzrQg7VQ): This book teaches you the fundamentals of data visualization and how to communicate effectively with data.
- 	* [𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝𝐬 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐀𝐩𝐩𝐬 𝐰𝐢𝐭𝐡 𝐏𝐥𝐨𝐭𝐥𝐲 𝐚𝐧𝐝 𝐃𝐚𝐬𝐡](https://lnkd.in/dfVDeVjY): This book helps you to develop complete data apps and interactive dashboards without JavaScript. Through this book, you will be able to explore the functionalities of Dash for visualizing data in different ways.
+	* [Interactive Dashboards and data apps with Plotly and Dash](https://lnkd.in/dfVDeVjY): This book helps you to develop complete data apps and interactive dashboards without JavaScript. Through this book, you will be able to explore the functionalities of Dash for visualizing data in different ways.
 
 * Interviews
 	* [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/): The book consists of two parts. The first part provides an overview of the machine learning interview process, what types of machine learning roles are available, what skills each role requires, what kinds of questions are often asked, and how to prepare for them. This part also explains the interviewers’ mindset and what kind of signals they look for. The second part consists of over 200 knowledge questions, each noted with its level of difficulty -- interviews for more senior roles should expect harder questions -- that cover important concepts and common misconceptions in machine learning.
@@ -260,9 +263,11 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## ML Courses
 
+* [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI): Through this course,  students will gain foundational knowledge of deep learning algorithms.
+
 * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp): Week 1: Introduction & Prerequisites, Week 2: Workflow Orchestration, Week 3: Data Warehouse, Week 4: Analytics Engineering, Week 5: Batch processing, Week 6: Streaming, and Week 7, 8 & 9: Project
 
-* [ 100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding for beginners. 
+* [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding for beginners. 
 
 * [CS839 Data Management for Machine Learning Applications](https://thodrek.github.io/CS839_spring18/): The goal of this seminar course is to study data management challenges that arise in the context of machine learning pipelines. The focus will be on cutting-edge problems in the context of ML pipelines, related to (1) data exploration and understanding, (2) data integration, cleaning, and validation, and (3) data preparation for ML models and serving of production ML applications. 
 
@@ -344,6 +349,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## Datasets, Pretrained Models, and ML Problems
 
+* [Auctus: A Dataset Search Engine for Data Discovery and Augmentation](https://auctus.vida-nyu.org/): open-source dataset search engine that
+has been designed to support data discovery and augmentation. It supports a rich set of discovery queries: in addition to keyword-based search,users can specify spatial and temporal queries, data integration queries (i.e., searching for datasets that can be concatenated to or joined with a query dataset), and they can also pose complex queries that combine multiple constraints.
+
 * [LLaMA](https://github.com/facebookresearch/llama): LLaMA is a collection of foundation language models ranging from 7B to 65B parameters. The models have been trained on trillions of tokens, and show that it is possible to train state-of-the-art models using publicly available datasets exclusively, without resorting to proprietary and inaccessible datasets. More details can be found in this [blog post](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/).
 
 * [Sktime](https://github.com/sktime/sktime): it is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks. Currently, this includes time series classification, regression, clustering, annotation and forecasting. It comes with time series algorithms and scikit-learn compatible tools to build, tune and validate time series models.
@@ -379,6 +387,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [Machine learning system design pattern](https://mercari.github.io/ml-system-design-pattern/): This repository contains system design patterns for training, serving and operation of machine learning systems in production. 
 
 * [TowardsAI tutorials](https://github.com/towardsai/tutorials): All tutorials, articles, and books listed in this repository are property of Towards AI, Inc.
+
+* [roboflow/notebooks](https://github.com/roboflow/notebooks): This repository contains Jupyter Notebooks about computer vision models that roboflow has featured in their blog posts and YouTube videos.
 
 
 # Reinforcement Learning
@@ -417,6 +427,9 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Full Speed Python](https://github.com/joaoventura/full-speed-python): This repo contains a book for self-learners and aims to teach Python using a practical approach. Includes exercises that play a crucial role in bringing Python learners up to speed with Python’s syntax in a short period.
 
+* [Clean Code in Python by Mariano Anaya](https://www.oreilly.com/library/view/clean-code-in/9781788835831/): This book will help you to become a better Python programmer by covering topics like Design Patterns, Software Architecture, Decorators, and more.
+
+* [Python for Data Science: The Ultimate Step-by-Step Guide to Python Programming DF 2023](https://www.reviewslearningfree.com/2023/03/python-for-data-science-ultimate-step.html): This book is here to guide you through the field of data science from the very beginning. You will learn the fundamental skills and tools to support your learning process. If you’re a beginner, this is the book to help you easily understand the basics of data science.
 
 ## Language-related Repos
 
