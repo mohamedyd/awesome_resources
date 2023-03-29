@@ -312,6 +312,30 @@ More features does not mean better model performance, reasons: more opportunitie
 	* To measure value of data freshness, train your model on data from different time windows in the past and evaluate it on the data from today to see how the performace changes. 
 	* Model iteration (adding new features or changing model architecture) versus data iteration. Currently, there is no theoritical foundation which tell which approach is better for a certain situation. Hence, you have to do experiments to find out. 
 * Test in production
+	* Shadow deployment (safest way, but expensive since it relies on two co-existing prediction services)
+		* deploy the candidate model in parallel with the existing model
+		* Use both models to serve the incoming requests, but only supply the users with predictions from the existing model
+		* log the predictions from the candidate model for analysis purposes 
+		* replace the existing model with the candidate model, only if the candidate model's predictions are satisfactory
+	* A/B testing (requires randomness and sufficient number of samples)
+		* deploy the candidate model alongside the existing model.
+		* divide the incoming traffic between these two models
+		* monitor and analyze the predictions and user feedback to determine whether the difference in the two models' performance is statistically significant (hypothesis testing, e.g., two-sample tests, are used). 
+	* Canary release
+		* deploy the candidate model (canary) alongside the existing model.
+		* a portion of the traffic routed to the candidate model
+		* if its performance is satisfactory, increase the traffic to the canndidat model. If not, abort the canary and route all traffic back to the existing model.
+		* stop when either the canary serves all traffic or when the canary is aborted
+	* Interleaving experiments 
+		* serve users with predictions from the candidate and the exiting models.
+		* interleaving identifies the best model with smaller sample size compared to traditional A/B testing.
+	* Bandit (more data-efficient than A/B testing, but more difficult to implement than A/B testing)
+		* multi-armed bandits are algorithms that balance between exploration and exploitation in reinforcement learning problems.
+		* Bandits allow you to determine how to route traffic to each model for prediction to determine the best model.
+		* Bandits require three things
+			* your model must be able to make online predictions
+			* preferably short feedback loops
+			* a mechanism to collect feedback, calculate and keep track of each model's performance, and to route requests to different models based on their current performance.
 
 
 
