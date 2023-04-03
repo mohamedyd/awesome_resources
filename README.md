@@ -263,6 +263,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## ML Courses
 
+* [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF): In this lecture series,  research scientists from leading AI research lab, DeepMind, delivered 12 lectures on an exciting selection of topics in Deep Learning, ranging from the fundamentals of training neural networks via advanced ideas around memory, attention, and generative modelling to the important topic of responsible innovation.
+
 * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI): Through this course,  students will gain foundational knowledge of deep learning algorithms.
 
 * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp): Week 1: Introduction & Prerequisites, Week 2: Workflow Orchestration, Week 3: Data Warehouse, Week 4: Analytics Engineering, Week 5: Batch processing, Week 6: Streaming, and Week 7, 8 & 9: Project
@@ -389,6 +391,8 @@ has been designed to support data discovery and augmentation. It supports a rich
 * [TowardsAI tutorials](https://github.com/towardsai/tutorials): All tutorials, articles, and books listed in this repository are property of Towards AI, Inc.
 
 * [roboflow/notebooks](https://github.com/roboflow/notebooks): This repository contains Jupyter Notebooks about computer vision models that roboflow has featured in their blog posts and YouTube videos.
+
+* [GPT4All](https://github.com/nomic-ai/gpt4all): Demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa
 
 
 # Reinforcement Learning
