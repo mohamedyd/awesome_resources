@@ -338,10 +338,22 @@ More features does not mean better model performance, reasons: more opportunitie
 			* a mechanism to collect feedback, calculate and keep track of each model's performance, and to route requests to different models based on their current performance.
 
 
-
-
-
 # 10 Infrastructure and Tooling for MLOps (TBD)
+
+* infrastructure requirement depends on the number of developed applications and how specialized the applications are
+	* One simple ML app: No infra ineeded
+	* Multiple common apps, e.g., fraud detection, recommenders, price optimization: Generalized infra
+	* Serving millions requests/hour, e.g., Facebook and Googel: Highly specialized infra
+* an infrastructure compose the following layers:
+	* storage and compute: where data is collected, stored, and processed for generating features and training ML models.
+		* can be hard drive disk (HDD), solid state disk (SSD), Amazon S3, distributed over multiple locations
+		* compute unit is characterized by two metrics: how much memory it has and how fast it runs ana operation (common metric: FLOPS)
+		* [MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/): benchmark for hardware vendors to measure thier hardware performance (e.g., how long it takes to run ResNet-50 on the ImageNet dataset)
+		* AWS uses the concept of vCPUs (virtual CPUs), practically can be thought of as a half physical core.
+	* resource management: scheule and orchestrate workloads to improve resources utilization, e.g., Airflow, Kubeflow, and Metaflow 
+	* ML platform: model stores, feature stores, and monitoring tools (e.g., SageMaker and MLflow) 
+	* development environment: where code is written and experiments are run. (code versioning and experiment tracking)
+
 
 # 11  The Human Side of Machine Learning
 
