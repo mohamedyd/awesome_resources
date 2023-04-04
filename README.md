@@ -260,6 +260,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/): A set of illustrated ML cheatsheets covering the content of the CS 229 class at Stanford.
 
+* [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223): In this survey, the authors review the recent advances of LLMs by introducing the background, key findings, and mainstream techniques. In particular, they focus on four major aspects of LLMs, namely pre-training, adaptation tuning, utilization, and capacity evaluation.
+
 
 ## ML Courses
 
