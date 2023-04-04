@@ -351,6 +351,18 @@ More features does not mean better model performance, reasons: more opportunitie
 		* [MLPerf](https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/): benchmark for hardware vendors to measure thier hardware performance (e.g., how long it takes to run ResNet-50 on the ImageNet dataset)
 		* AWS uses the concept of vCPUs (virtual CPUs), practically can be thought of as a half physical core.
 	* resource management: scheule and orchestrate workloads to improve resources utilization, e.g., Airflow, Kubeflow, and Metaflow 
+		* two key characteristics of ML workflows that influence their resource management: repetitiveness and dependencies
+		* cron: scheduling repetitive jobs to run at fixed times, but it cannot schedule more complicated workflows, e.g., run B if A succeeds
+		* Most workflow management tools require you to specify your workflow in a form of DAGs (directed acyclic graph)
+		* schedulers: cron programs that can handle dependencies. It takes in the DAG of a workflow and schedule each step accordingly.
+		* schedulers can be event-driven, support conditional executions, should be aware of the available resources
+		* orchestrators: concerned with where to get the required resources. they deal with low-level abstractions, e.g., machines, instances, clusters, service-level grouping, replication, etc. most common orchestrator is Kubernetes.
+		* Most common workflow management tools are Airflow, Argo, Perfect, Kubeflow, and Metaflow
+			* Airflow (from Airbnb, python): support multiple cloud providers, storage options, but monolithic, not parameterized, static
+			* Perfect (configuration as a code in python): parameterized and dynamic, but containerized steps are not its first priority
+			* Argo (workflows defined in YAML): address the container problem, it can run only on Kubernetes clusters
+			* Kubeflow: dynamic and parameterized, users have to write Dockerfile and a YAML file to specify specs of each step, before stitching these steps together in a Python workflow.
+			* Metaflow (superior): dynamic, parameterized, use decorators, e.g., @conda, @batch, to specify specs, allow running same scripts/notebooks in dev & prod environments   
 	* ML platform: model stores, feature stores, and monitoring tools (e.g., SageMaker and MLflow) 
 	* development environment: where code is written and experiments are run. (code versioning and experiment tracking)
 
