@@ -396,6 +396,9 @@ has been designed to support data discovery and augmentation. It supports a rich
 
 * [GPT4All](https://github.com/nomic-ai/gpt4all): Demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa
 
+* [Awesome-Data-Centric-AI](https://github.com/daochenzha/data-centric-AI): A curated, but incomplete, list of data-centric AI resources. Data-centric AI is an emerging field that focuses on engineering data to improve AI systems with enhanced data quality and quantity.
+
+
 
 # Reinforcement Learning
 
