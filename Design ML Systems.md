@@ -338,7 +338,7 @@ More features does not mean better model performance, reasons: more opportunitie
 			* a mechanism to collect feedback, calculate and keep track of each model's performance, and to route requests to different models based on their current performance.
 
 
-# 10 Infrastructure and Tooling for MLOps (TBD)
+# 10 Infrastructure and Tooling for MLOps 
 
 * infrastructure requirement depends on the number of developed applications and how specialized the applications are
 	* One simple ML app: No infra ineeded
