@@ -1,4 +1,4 @@
-In this document, a summary of the main ideas in the [Desiging ML Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) book by Chip Huyen is provided. I highly recommend buying this interesting book. 
+In this document, a summary of the main ideas in the [Desiging ML Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) book by Chip Huyen is provided. I highly recommend buying and reading this interesting book. 
 
 | | | 
 |-|-|
@@ -344,7 +344,7 @@ More features does not mean better model performance, reasons: more opportunitie
 	* One simple ML app: No infra ineeded
 	* Multiple common apps, e.g., fraud detection, recommenders, price optimization: Generalized infra
 	* Serving millions requests/hour, e.g., Facebook and Googel: Highly specialized infra
-* an infrastructure compose the following layers:
+* an infrastructure typically composes the following layers:
 	* storage and compute: where data is collected, stored, and processed for generating features and training ML models.
 		* can be hard drive disk (HDD), solid state disk (SSD), Amazon S3, distributed over multiple locations
 		* compute unit is characterized by two metrics: how much memory it has and how fast it runs ana operation (common metric: FLOPS)
@@ -363,12 +363,30 @@ More features does not mean better model performance, reasons: more opportunitie
 			* Argo (workflows defined in YAML): address the container problem, it can run only on Kubernetes clusters
 			* Kubeflow: dynamic and parameterized, users have to write Dockerfile and a YAML file to specify specs of each step, before stitching these steps together in a Python workflow.
 			* Metaflow (superior): dynamic, parameterized, use decorators, e.g., @conda, @batch, to specify specs, allow running same scripts/notebooks in dev & prod environments   
-	* ML platform: model stores, feature stores, and monitoring tools (e.g., SageMaker and MLflow) 
+	* ML platform: model stores, feature stores, and monitoring tools (e.g., SageMaker and MLflow)
+		* model deployment: Seldon, Cortex, Ray Serve, MLflow models, Azure ML, Vertex AI, Machine Learning Studio, SageMaker
+			* online prediction: the endpoint will provoke the ML model to generate predicitons
+			* batch prediction: the endpoint will fetch a precomputed prediction
+			* Some tools batch requests together for online prediction (which is different from batch prediction)
+		* Model store: MLflow (currently does not support storing all the below artifacts) 
+			* To help with debugging & maintenance, it is important to track the models & their artifacts (stored in a model card)
+			* artifacts: model definition, model parameters, featurize and predict functions, dependencies, data, model generation code, experiment artifacts, tags
+		* Feature store: Feast (powerful with batch features), Tecton (powerful with batch & streaming features, but slow)
+			* it addresses following tasks: 
+				* feature management: enable teams to share & discover features, and manage roles & sharing settings for each feature 
+				* feature transformation: performing feature computation & storing the computed features
+				* feature consistency: unify logic for batch features and streaming features
 	* development environment: where code is written and experiments are run. (code versioning and experiment tracking)
+* build versus buy decisions depend on many factors
+	* the stage of your company is at: in the beginning, it makes sense to leverage vendors solutions
+	* what you beleive to be the focus or the competitive advantages of your company: non-tech companies tend to bias toward buying
+	* the maturity of the available tools: if no vendor mature solution for your needs, you have to build your in-house solution
 
 
 # 11  The Human Side of Machine Learning
 
+* probablistic nature of ML can lead to inconsistency in user experience, causing frustration
+	* solution: show users multiple "most correct" predictions for the same input (like chatGPT). 
 * It is difficult for data scientists to equally focus on model development and on model deployment. 
 * However, there are several drawbacks for splitting the team into ML engineers and DevOps engineers
 	* Communication and coordination overhead
@@ -377,3 +395,8 @@ More features does not mean better model performance, reasons: more opportunitie
 	* Narrow context: no one has visibility into the entire process to optimize it
 * A solution to this dilemma is to allow data scientists to own the entire process end-to-end without having to worry about the infrastructure
     * What if I can tell the tool, "Here where I store my data (S3), here are the steps to run my code (featurization, modeling), here's where my code should run (EC2 instances, serverless stuff like AWS Batch, Functions, etc.), here's what my code needs to run at each step (dependencies)," and then this tool manages all the infrastructure stuff for the data scientist.
+* responsible AI: 
+	* the practice of designing, developing, and deploying AI systems with good intention and sufficient awareness to empower users, engender trust, and ensure fair and positive impact to society.
+	* it consists of areas like fairness, privacy, transparency, and accountability. 
+	* incorporating ethics principles into your modeling practices help organizations gain trust from customers.
+	* overlooking such principles can lead to incidents and failures ([AI incidents database](https://incidentdatabase.ai/)) 
