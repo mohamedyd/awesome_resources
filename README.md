@@ -123,25 +123,25 @@ This repository comprises plenty of resources related to machine learning (ML), 
 
 * [Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM): In this seminar, we examine the details of how transformers work, and dive deep into the different kinds of transformers and how they're applied in different fields.
 
-* [𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐔𝐂 𝐁𝐞𝐫𝐤𝐞𝐥𝐞𝐲](https://lnkd.in/dChzX6dZ)
+* [𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐔𝐂 𝐁𝐞𝐫𝐤𝐞𝐥𝐞𝐲](https://lnkd.in/dChzX6dZ): This class introduces algorithms for learning, which constitute an important part of artificial intelligence.
 
-* [𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐂𝐚𝐫𝐧𝐞𝐠𝐢𝐞 𝐌𝐞𝐥𝐥𝐨𝐧 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲](https://lnkd.in/dH8ktatw)
+* [𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐂𝐚𝐫𝐧𝐞𝐠𝐢𝐞 𝐌𝐞𝐥𝐥𝐨𝐧 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲](https://lnkd.in/dH8ktatw): This course is designed to give a graduate-level student a thorough grounding in the methodologies, technologies, mathematics and algorithms currently needed by people who do research in machine learning.
 
-* [𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 —  𝐒𝐭𝐚𝐧𝐟𝐨𝐫𝐝 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲](https://lnkd.in/d4FzSKpJ)
+* [Machine Learning -- Stanford University by Andrew Ng](https://lnkd.in/d4FzSKpJ):  In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself.
 
-* [𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐃𝐚𝐭𝐚 𝐌𝐢𝐧𝐢𝐧𝐠 — 𝐂𝐚𝐥𝐭𝐞𝐜𝐡](https://lnkd.in/dUhbEyBx)
+* [𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐃𝐚𝐭𝐚 𝐌𝐢𝐧𝐢𝐧𝐠 — 𝐂𝐚𝐥𝐭𝐞𝐜𝐡](https://lnkd.in/dUhbEyBx): This course will cover popular methods in machine learning and data mining, with an emphasis on developing a working understanding of how to apply these methods in practice. This course will also cover core foundational concepts underpinning and motivating modern machine learning and data mining approaches. This course will also cover some recent research developments.
 
-* [𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐃𝐚𝐭𝐚 — 𝐂𝐚𝐥𝐭𝐞𝐜𝐡](https://lnkd.in/d4zZZJ5h)
+* [𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐃𝐚𝐭𝐚 — 𝐂𝐚𝐥𝐭𝐞𝐜𝐡](https://lnkd.in/d4zZZJ5h): This is an introductory course in machine learning (ML) that covers the basic theory, algorithms, and applications.
 
-* [𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦𝐬  —  𝐂𝐨𝐫𝐧𝐞𝐥𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲](https://lnkd.in/dtSjQ22i)
+* [𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦𝐬  —  𝐂𝐨𝐫𝐧𝐞𝐥𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲](https://lnkd.in/dtSjQ22i): This course will introduce the fundamental set of techniques and algorithms that constitute machine learning as of today, ranging from classification methods like decision trees and support vector machines, over structured models like hidden Markov models, to clustering and matrix factorization methods for recommendation.
 
-* [𝐋𝐚𝐫𝐠𝐞 𝐒𝐜𝐚𝐥𝐞 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠  — 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐓𝐨𝐫𝐨𝐧𝐭𝐨](https://lnkd.in/dv8-7EFE)
+* [𝐋𝐚𝐫𝐠𝐞 𝐒𝐜𝐚𝐥𝐞 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠  — 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐓𝐨𝐫𝐨𝐧𝐭𝐨](https://lnkd.in/dv8-7EFE): This is an advanced graduate course, designed for Master's and Ph.D. level students, and will assume a reasonable degree of mathematical maturity. 
 
-* [𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐋𝐚𝐫𝐠𝐞 𝐃𝐚𝐭𝐚𝐬𝐞𝐭𝐬— 𝐂𝐚𝐫𝐧𝐞𝐠𝐢𝐞 𝐌𝐞𝐥𝐥𝐨𝐧 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲](https://lnkd.in/dGaN3p53)
+* [𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐋𝐚𝐫𝐠𝐞 𝐃𝐚𝐭𝐚𝐬𝐞𝐭𝐬— 𝐂𝐚𝐫𝐧𝐞𝐠𝐢𝐞 𝐌𝐞𝐥𝐥𝐨𝐧 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲, Fall 2022](https://10605.github.io/): This course is intended to provide a student with the mathematical, algorithmic, and practical knowledge of issues involving learning with large datasets. Among the topics considered are: data cleaning, visualization, and pre-processing at scale; principles of parallel and distributed computing for machine learning; techniques for scalable deep learning; analysis of programs in terms of memory, computation, and (for parallel methods) communication complexity; and methods for low-latency inference.
 
-* [𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬 𝐨𝐟 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐈𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞 — 𝐂𝐚𝐥𝐭𝐞𝐜𝐡](https://lnkd.in/d9J9iksZ)
+* [𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬 𝐨𝐟 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐈𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞 — 𝐂𝐚𝐥𝐭𝐞𝐜𝐡 by Anima Anandkumar](https://lnkd.in/d9J9iksZ): This course will cover core concepts in machine learning and statistical inference. The ML concepts covered are spectral methods (matrices and tensors), non-convex optimization, probabilistic models, neural networks, representation theory, and generalization ([Lecture Notes](http://tensorlab.cms.caltech.edu/users/anima/cms165-2020.html)).
 
-* [𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐒𝐭𝐚𝐧𝐟𝐨𝐫𝐝 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲](https://lnkd.in/dKttsi_3)
+* [𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐒𝐭𝐚𝐧𝐟𝐨𝐫𝐝 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲](https://lnkd.in/dKttsi_3): This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines; neural networks and deep learning; survival models; multiple testing. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).
 
 * [Rasa Algorithm Whiteboard - Transformers & Attention (Large Language Models)](https://www.youtube.com/watch?v=yGTUuEx3GkA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=10): This Youtube course provides an explanation of the attention mechanisms.
 
