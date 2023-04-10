@@ -1,6 +1,6 @@
 # Table of Contents
 
-This repository includes plenty of resources related to different domains. 
+This repository comprises plenty of resources related to machine learning (ML), machine learning operations (MLOps), python, explainable AI (XAI), reinforcement learning (RL), and other learning resources. 
 
 | | | | | |
 |-|-|-|-|-|
