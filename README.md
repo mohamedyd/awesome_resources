@@ -6,7 +6,7 @@ This repository comprises plenty of resources related to machine learning (ML), 
 |-|-|-|-|-|
 | Machine Learning      | [ML Books](#ml-books) | [ML Articles](#ml-articles) | [ML Courses](#ml-courses)   | [Datasets & ML Models](#datasets-pretrained-models-and-ml-problems) |
 | MLOps     		| [MLOps Books](#mlops-books) | [MLOps Blogs & Articles](#mlops-blogs-and-articles) | [Courses](#mlops-courses)      | [MLOps OSS Tools](#mlops-oss-tools) |
-| Python		| [Language-related Repos](#language-related-repos) | [AI-related Repos](#ai-related-repos) | | |
+| Python		| [Books](#programming-books) | [Language-related Repos](#language-related-repos) | [Articles](#python-articles--notes) | [AI-related Repos](#ai-related-repos) | 
 | Explainable AI | [XAI Books](#xai-books) | [XAI Repos & Tools](#xai-repos--tools) | | |
 | Reinforcement Learning | [RL Books](#rl-books) | [RL Courses](#rl-courses) | [RL Articles](#rl-articles) | |
 | Miscellaneous Resources | [Learning Platforms](#learning-platforms) | [Courses](#courses) | [Books](#books) | [Useful Repositories & Tools](#repos-and-tools) |
@@ -345,7 +345,7 @@ has been designed to support data discovery and augmentation. It supports a rich
 
 # Python 
 
-## Books
+## Python Books
 
 * [Python Crash Course](https://www.amazon.de/-/en/Eric-Matthes-dp-1718502702/dp/1718502702/ref=dp_ob_title_bk):  A Hands-On, Project-Based Introduction to Programming Book by Eric Matthes. This is a comprehensive introduction to Python programming that emphasizes hands-on learning and project-based approach.
 
@@ -361,7 +361,7 @@ has been designed to support data discovery and augmentation. It supports a rich
 
 * [Python for Data Science: The Ultimate Step-by-Step Guide to Python Programming DF 2023](https://www.reviewslearningfree.com/2023/03/python-for-data-science-ultimate-step.html): This book is here to guide you through the field of data science from the very beginning. You will learn the fundamental skills and tools to support your learning process. If you’re a beginner, this is the book to help you easily understand the basics of data science.
 
-## Language-related Repos
+## Python Repos
 
 * [Complete Python 3 Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp): Course Files for Complete Python 3 Bootcamp Course on Udemy
 
@@ -386,7 +386,7 @@ has been designed to support data discovery and augmentation. It supports a rich
 * [Python_reference](https://github.com/rasbt/python_reference): The content of this repo covers: Python tips and tutorials, Algorithms and Data Structures, Plotting and Visualization, Data Science, and more. 
 
 
-## Articles
+## Python Articles & Notes
 
 * [12 Python Decorators to Take Your Code to the Next Level](https://towardsdatascience.com/12-python-decorators-to-take-your-code-to-the-next-level-a910a1ab3e99): This post is a documented list of 12 helpful decorators I regularly use in my projects to extend my code with extra functionalities.
 
