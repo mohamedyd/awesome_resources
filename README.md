@@ -4,186 +4,12 @@ This repository includes plenty of resources related to different domains.
 
 | | | | | |
 |-|-|-|-|-|
-| General Resources | [Courses](#courses) | [Learning Platforms](#learning-platforms) | [Books](#books) | |
-| Reinforcement Learning | [courses](#rl-courses) | | | |
-| Explainable AI | [Books](#xai-books) | | | |
-| MLOps     		| [Books](#mlops-books) | [Blogs & Articles](#mlops-blogs-and-articles) | [Courses](#mlops-courses)      | |
 | Machine Learning      | [Books](#ml-books) | [Articles](#ml-articles) | [Courses](#ml-courses)   | [Datasets, Pretrained Models, & ML Problems](#datasets-pretrained-models-and-ml-problems) |
+| MLOps     		| [MLOPs Books](#mlops-books) | [MLOPs Blogs & Articles](#mlops-blogs-and-articles) | [Courses](#mlops-courses)      | [MLOPs OSS Tools](#mlops-oss-tools) |
 | Python		| [Language-related Repos](#language-related-repos) | [AI-related Repos](#ai-related-repos) | | |
-
-# General Resources
-Each of these resources include plenty of books, courses, articles, and other learning materials in different AI topics. 
-
-## Courses
-
-* [Computer Science courses with video lectures](https://github.com/youssefHosni/cs-video-courses): This repo includes plenty of courses in different CS areas.
-
-* [FCIH OCW](https://www.youtube.com/user/FCIHOCW): Aset of courses, by Dr Waleed Yousef, about different topics in Computer Science.
-
-* [Software engineering Youtube CS106A - Stanford](https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PL84A56BC7F4A1F852): CS106A is an Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Uses the Java programming language. Emphasis is on good programming style and the built-in facilities of the Java language.  
-
-
-## Learning Platforms
-
-* [Data-Science-Educational-Resoruces, Youssef Hosni](https://github.com/youssefHosni/Data-Science-Educational-Resoruces): The repository covers all the data science theoretical and practical skills, e.g., data collection, data prepration, computer vision, MLOps, etc.
-
-* [Exploring the art of AI one concept at a time, Aman Chadha](https://aman.ai/): The website covers Distilled AI (courses), Research, Primers, coding, and recommendation lists. 
-
-* [AIMultiple: AI Use Cases & Tools to Grow Your Business](https://research.aimultiple.com/): Plenty of articles about AI use cases and tools. 
-
-* [Learn GIT branching](https://learngitbranching.js.org/): An interactive website for teaching how to deal with Git repositories. 
-
-* [HPI tele-TASK](https://www.tele-task.de/): Plenty of unseful courses on different domains provided by Hasso-Plattner Institute. You can also find OpenHPI tutorials on [Youtube](https://www.youtube.com/user/xhakil26/playlists).   
-
-* [Reviews learning free](https://www.reviewslearningfree.com/): This website offers a collection of valuable and valuable courses and books on the science of artificial intelligence, especially machine learning.
-
-* [Stanford ML courses](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=machine+learning&collapse=): plenty of ML courses provided by Stanford
-
-
-## Useful Books
-
-* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md): A comperhensive list of free books to learn all programming languages.
-
-* [100+ Best Free Data Science Books for Beginners and Experts](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html): All the books listed are open sourced and are in a mixed order.
-
-* [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html): This book is about the engineering practices utilized at Google to make their codebase sustainable and healthy.
-
-
-## Repos & Tools
-
-* [Source code for books published by Apress](https://github.com/Apress)
-
-* [𝗔𝗻 𝗔𝗜 𝗖𝗼𝗱𝗶𝗻𝗴 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁𝘀](https://codesquire.ai/):  AI code writing assistant for data scientists, engineers, and analysts. Get code completions and suggestions as you type (Chrome extension). 
-
-* [Awesome Open Source](https://awesomeopensource.com/): Find And compare open source projects in different fields and programming languages, e.g., python, machine learning, datasets, deployment, data preprocessing, user interfance, operating systems, and blockchain.   
-
-* [Connected Papers](https://www.connectedpapers.com/): Connected Papers allows you to easily navigate the landscape of papers on a given theme. It also ranks the papers that are most relevant to a given input paper. It's excellent for compiling a 'reading list' when researching a particular topic. 
-
-
-# Explainable AI
-
-## XAI Books
-
-* [A Guide for Making Black Box Models Explainable (Free ebook)](https://christophm.github.io/interpretable-ml-book/): the focus of the book is on model-agnostic methods for interpreting black box models such as feature importance and accumulated local effects, and explaining individual predictions with Shapley values and LIME. In addition, the book presents methods specific to deep neural networks.
-
-
-## Repos and Tools
-
-* [ PiML-Toolbox](https://github.com/SelfExplainML/PiML-Toolbox): PiML is a new Python toolbox for interpretable ML model development and validation. Through low-code interface and high-code APIs, PiML supports a growing list of inherently interpretable ML models.
-
-
-
-# MLOps
-
-## MLOps Books
-
-* [Designing Machine Learning Systems, Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/): Why does 9/10 models never make it to production? Read this book and compare to how ML is done at most companies, then you know… Highly recommended!
-
-* [Machine Learning Engineering by Andriy Burkov](http://www.mlebook.com/wiki/doku.php?id=start): This book is available as a read-first-buy-later principle.
-
-* [𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀, Hannes Hapke & Catherine Nelson](https://www.oreilly.com/library/view/building-machine-learning/9781492053187/?_gl=1*1rzym6j*_ga*MTM4OTgzMTk4MC4xNjczMjEzNzY2*_ga_092EL089CH*MTY3MzQ2NjIyMi4yLjEuMTY3MzQ3MDk0Ni4yOS4wLjA): I bought this book specifically for the chapters on TensorFlow Serving, well worth it! Other chapters are however also interesting to get some insights to the TFX ecosystem.
-
-* [Deep Learning in Production](https://www.amazon.com/gp/product/6180033773/ref=as_li_tl?ie=UTF8&tag=aisummer-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=6180033773&linkId=fb7484e19fc03923fa2ec3012e5629cd): Build, train, deploy, scale and maintain deep learning models. Understand ML infrastructure and MLOps using hands-on examples.
-
-* [𝐁𝐞𝐠𝐢𝐧𝐧𝐢𝐧𝐠 𝐌𝐋𝐎𝐩𝐬 𝐰𝐢𝐭𝐡 𝐌𝐋𝐅𝐥𝐨𝐰](https://lnkd.in/dgiKNgfX): This book guides you through the process of integrating MLOps principles into existing or future projects using MLFlow, operationalizing your models, and deploying them in AWS SageMaker, Google Cloud, and Microsoft Azure.
-
-* [MLOps Engineering at Scale, Carl Osipov](https://www.oreilly.com/library/view/mlops-engineering-at/9781617297762/): This book teaches you how to implement efficient machine learning systems using pre-built services from AWS and other cloud vendors. This easy-to-follow book guides you step-by-step as you set up your serverless ML infrastructure, even if you’ve never used a cloud platform before.
- 
-* [𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗲𝘀𝗶𝗴𝗻 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀, Valliappa Lakshmanan, Sara Robinson, Michael Munn](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/): An excellent introduction to ML modeling and feature representation for all kinds on different data modalities. I regularly use it as inspiration for data preprocessing and feature engineering.
- 
-* [Practical Deep Learning at Scale with MLflow, Yong Liu, Dr. Matei Zaharia](https://www.oreilly.com/library/view/practical-deep-learning/9781803241333/): This book focuses on deep learning models and MLflow to develop practical business AI solutions at scale. It also ship deep learning pipelines from experimentation to production with provenance tracking.
- 
-* [Practical MLOps, Noah Gift & Alfredo Deza](https://www.oreilly.com/library/view/practical-mlops/9781098103002/): The perfect high-level overview of MLOps, buy this book if you do not know where to start or what you want to read about.
- 
-* 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗠𝗟𝗢𝗽𝘀, Emmanuel Raj: I can’t put my finger on what this book is about, but there are a lot of golden nuggets on project architecture and software engineering aspects that are needed to create a nice and agile ML lifecycle.
- 
-* 𝗘𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲, Ville Tuulos: Very nice and easy read suitable for the late nights when sleeping is impossible. Explains the reasoning behind the ML pipelines architectures and is worth reading regardless of if you are interested in Metaflow or not.
- 
-* 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗼𝗻 𝗔𝗪𝗦, Chris Fregly & Antje Barth: Some parts of the book are very nice but some parts feel like it is only code blocks stacked onto code blocks with no explanation of the ”why”. I use it as inspiration on how to use the AWS APIs.
- 
-* 𝗟𝗲𝗮𝗿𝗻 𝗔𝗺𝗮𝘇𝗼𝗻 𝗦𝗮𝗴𝗲𝗠𝗮𝗸𝗲𝗿, Julien SIMON: Haven’t gotten to finish this one yet, it will keep me occupied for some more weeks. Well written and much better of explaining why things are done in a specific way and what options there are.
-
-
-
-## MLOps Blogs and Articles
-
-* [MLOps 101: The Foundation for Your AI Strategy](https://www.datarobot.com/mlops-101/): This articile nicely introduces the concept of MLOps and its main pillars, including model deployment, model monitoring, model lifecycle management, and production model governance.
-
-* [Machine learning in production by Chip Huyen](https://huyenchip.com/archive/): A set of tutorials, interviews, and courses.
-
-* [Machine Learning Operations](https://ml-ops.org/): This site is very useful to understand the MLOps principles. It provides several articles about interesting topics, such as MLOps stack canvas, State of MLOps (Tools & Frameworks), End-to-End ML Workflow Lifecycle, and Three Levels of ML-based Software.
-
-* [MLOps Guide](https://mlops-guide.github.io/): This site is intended to be a MLOps Guide to help projects and companies to build more reliable MLOps environment. This guide should contemplate the theory behind MLOps and an implementation that should fit for most use cases. 
-
-* [Stanford MLSys Seminar Series](https://mlsys.stanford.edu/): This seminar series takes a look at the frontier of machine learning systems, and how machine learning changes the modern programming stack.
-
-* [Awesome-mlops](https://github.com/visenger/awesome-mlops#mlops-books): An awesome list of references for MLOps, including books recommendation, scientific papers, blogs, courses, and talks about different MLOps topics.
-
-* [Awesome-mlops-tools](https://github.com/kelvins/awesome-mlops#data-processing): A curated list of awesome MLOps tools 
-
-* [MLOps.toys](https://mlops.toys/): A curated list of MLOps projects, tools and resources.
-
-* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning): This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning.
-
-* [Made With ML](https://madewithml.com/): Learn how to combine machine learning with software engineering to develop, deploy & maintain production ML applications. It includes an MLOps course which focuses on both theory and hands-on, It includes a hands-on explanation of concepts and tools such as Testing Data, Code and Model, Optuna's Hyperparameter Tuning, REST API, CI/CD using Github Actions, Feature Store and Monitoring.
-
-* [MLOps Community](https://mlops.community/): Learn about feature stores, machine learning monitoring, and metadata storage and management.
-
-* [Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning, Google Cloud](https://github.com/mohamedyd/awesome_resources/files/10401885/practitioners_guide_to_mlops_whitepaper.pdf)
-
-* [Data Science Topics](https://github.com/khuyentran1401/Data-science): A collection of useful data science topics along with articles and videos. The repo includes articles about the following topics: MLOps, Testing, Machine Learning, Natural Language Processing, Computer Vision, Time Series, Feature Engineering, Visualization, Productive Tools, Python, linear algebra, statistics, VSCode, among others.
-
-* [Ultimate MLOps Learning Roadmap with Free Learning Resources In 2023](https://pub.towardsai.net/ultimate-mlops-learning-roadmap-with-free-learning-resources-in-2023-3ba7664cb1e9): A comprehensive guide to learning about MLOps, including the key concepts and skills that you need to master.
-
-* [Launching Cookiecutter-MLOps](https://dagshub.com/blog/cookiecutter-mlops-a-production-focused-project-template/): An open-source project scaffolding for machine learning and #MLOps, built on top of Cookiecutter Data Science, and inspired by Shreya Shankar’s amazing tweetstorm.
-
-* [End to End Machine Learning Pipeline With MLOps Tools (MLFlow+DVC+Flask+Heroku+EvidentlyAI+Github Actions)](https://medium.com/@shanakachathuranga/end-to-end-machine-learning-pipeline-with-mlops-tools-mlflow-dvc-flask-heroku-evidentlyai-github-c38b5233778c): This article will show you how to automate the entire machine learning lifecycle with the MLOps tools.
-
-* [A simple solution for monitoring ML systems](https://www.jeremyjordan.me/ml-monitoring/): This blog post aims to provide a simple, open-source solution for monitoring ML systems. 
-
-* [Applied ML](https://github.com/eugeneyan/applied-ml#data-quality): A curated papers, articles, and blogs on data science & ML in production
-
-* [What is a Feature Store? by Feast](https://feast.dev/blog/what-is-a-feature-store/): An article introducing feature stores and their role in MLOps pipelines. 
-
-* [The Base Camp for your Ascent in ML](https://databasecamp.de/en/homepage): In this blog, you will find all the topics to help you master the expedition into the world of Artificial Intelligence.
-
-* [Deep Learning Blogs: 10 Weeks MLOps course](https://www.ravirajag.dev/blog): The goal of the series is to understand the basics of MLOps (model building, monitoring, configurations, testing, packaging, deployment, cicd).
-
-* [A tutorial on building ML and data monitoring dashboards with Evidently and Streamlit](https://www.evidentlyai.com/blog/ml-model-monitoring-dashboard-tutorial): In this tutorial, you will go through an example of creating and customizing an ML monitoring dashboard using the two open-source libraries. 
-
-
-
-## MLOps Courses
-
-* [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp): Teach practical aspects of productionizing ML services — from collecting requirements to model deployment and monitoring.
-
-* [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/):  This course aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable.
-
-* [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/): This course helps you bridge the gap from training machine learning models to deploying AI systems in the real world. An updated version of the course can be found (here)[https://fullstackdeeplearning.com/course/2022/].
-
-* [Machine Learning Model Deployment by Srivatsan Srinivasan](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5PlN1jwOB3jVZE6nYTVswk): This playlist covers techniques and approaches for model deployment on to production. This playlist has right theory and hands on methods required to build production ready models 
-
-* [End to End ML Lifecycle walkthrough by Srivatsan Srinivasan](https://www.youtube.com/watch?v=gc1DGuzJPDA&list=PL3N9eeOlCrP6Y73-dOA5Meso7Dv7qYiUU): The course covers ML lifecycle End-to-EndML, starting from problem identification till model deployment and model monitoring. It provides high level overview of different phases within ML lifecycle while Srivatsan has other video in this channel detailing out individual component.
-
-* [Machine Learning Engineering for Production (MLOps), Andrew Ng, Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK): Through this course, you will learn about the ML lifecycle and how to deploy ML models. 
-
-* [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html?r=152co):  This course aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable.
-
-* [Deep Reinforcement Learning: CS 285 Fall 2020](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc): Lectures for UC Berkeley CS 285: Deep Reinforcement Learning.
-
-* [MLOps 8 weeks course](https://github.com/mohamedyd/MLOps-Basics): The goal of the series is to understand the basics of MLOps like model building, monitoring, configurations, testing, packaging, deployment, cicd, etc.
-
-* [Airflow Tutorial for Beginners](https://www.youtube.com/watch?v=K9AnJ9_ZAXE&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT): This 2-hour Airflow Tutorial for Beginners course combines theory explanation and practical demos to help you get started quickly as an absolute beginner. You don’t need any prerequisite to start this course, but basic python knowledge is recommended. 
-
-* [MLOps (Machine Learning Operations) Fundamentals -- Google Cloud (Free)](https://www.coursera.org/lecture/mlops-fundamentals/data-scientists-pain-points-ePAtg): This course introduces participants to MLOps tools and best practices for deploying, evaluating, monitoring and operating production ML systems on Google Cloud.  
-
-* [AI Workflow: AI in Production](https://www.coursera.org/learn/ibm-ai-workflow-ai-production): This course focuses on models in production at a hypothetical streaming media company.  There is an introduction to IBM Watson Machine Learning.  You will build your own API in a Docker container and learn how to manage containers with Kubernetes. 
-
-
-## MLOps Open Source Tools
-
-* [ClearML](https://clear.ml/): with ClearML, you can easily develop, orchestrate, and automate ML workflows at scale. The free plan enables the following tools: experiment management, model repository, artifacts, dataset versioning, pipelines, agent orchestration, CI/CD automation, reports.
- 
+| Explainable AI | [Books](#xai-books) | [XAI Repos & Tools](#xai-repos--tools) | | |
+| Reinforcement Learning | [RL Books](#rl-books) | [RL Courses](#rl-courses) | [RL Articles](#rl-articles) | |
+| Miscellaneous Resources | [Learning Platforms](#learning-platforms) | [Courses](#courses) | [Books](#books) | [Useful Repositories & Tools](#repos-and-tools) |
 
 
 
@@ -403,26 +229,118 @@ has been designed to support data discovery and augmentation. It supports a rich
 
 
 
-# Reinforcement Learning
+
+# MLOps
+
+## MLOps Books
+
+* [Designing Machine Learning Systems, Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/): Why does 9/10 models never make it to production? Read this book and compare to how ML is done at most companies, then you know… Highly recommended!
+
+* [Machine Learning Engineering by Andriy Burkov](http://www.mlebook.com/wiki/doku.php?id=start): This book is available as a read-first-buy-later principle.
+
+* [𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀, Hannes Hapke & Catherine Nelson](https://www.oreilly.com/library/view/building-machine-learning/9781492053187/?_gl=1*1rzym6j*_ga*MTM4OTgzMTk4MC4xNjczMjEzNzY2*_ga_092EL089CH*MTY3MzQ2NjIyMi4yLjEuMTY3MzQ3MDk0Ni4yOS4wLjA): I bought this book specifically for the chapters on TensorFlow Serving, well worth it! Other chapters are however also interesting to get some insights to the TFX ecosystem.
+
+* [Deep Learning in Production](https://www.amazon.com/gp/product/6180033773/ref=as_li_tl?ie=UTF8&tag=aisummer-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=6180033773&linkId=fb7484e19fc03923fa2ec3012e5629cd): Build, train, deploy, scale and maintain deep learning models. Understand ML infrastructure and MLOps using hands-on examples.
+
+* [𝐁𝐞𝐠𝐢𝐧𝐧𝐢𝐧𝐠 𝐌𝐋𝐎𝐩𝐬 𝐰𝐢𝐭𝐡 𝐌𝐋𝐅𝐥𝐨𝐰](https://lnkd.in/dgiKNgfX): This book guides you through the process of integrating MLOps principles into existing or future projects using MLFlow, operationalizing your models, and deploying them in AWS SageMaker, Google Cloud, and Microsoft Azure.
+
+* [MLOps Engineering at Scale, Carl Osipov](https://www.oreilly.com/library/view/mlops-engineering-at/9781617297762/): This book teaches you how to implement efficient machine learning systems using pre-built services from AWS and other cloud vendors. This easy-to-follow book guides you step-by-step as you set up your serverless ML infrastructure, even if you’ve never used a cloud platform before.
+ 
+* [𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗗𝗲𝘀𝗶𝗴𝗻 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀, Valliappa Lakshmanan, Sara Robinson, Michael Munn](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/): An excellent introduction to ML modeling and feature representation for all kinds on different data modalities. I regularly use it as inspiration for data preprocessing and feature engineering.
+ 
+* [Practical Deep Learning at Scale with MLflow, Yong Liu, Dr. Matei Zaharia](https://www.oreilly.com/library/view/practical-deep-learning/9781803241333/): This book focuses on deep learning models and MLflow to develop practical business AI solutions at scale. It also ship deep learning pipelines from experimentation to production with provenance tracking.
+ 
+* [Practical MLOps, Noah Gift & Alfredo Deza](https://www.oreilly.com/library/view/practical-mlops/9781098103002/): The perfect high-level overview of MLOps, buy this book if you do not know where to start or what you want to read about.
+ 
+* 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗠𝗟𝗢𝗽𝘀, Emmanuel Raj: I can’t put my finger on what this book is about, but there are a lot of golden nuggets on project architecture and software engineering aspects that are needed to create a nice and agile ML lifecycle.
+ 
+* 𝗘𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲, Ville Tuulos: Very nice and easy read suitable for the late nights when sleeping is impossible. Explains the reasoning behind the ML pipelines architectures and is worth reading regardless of if you are interested in Metaflow or not.
+ 
+* 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗼𝗻 𝗔𝗪𝗦, Chris Fregly & Antje Barth: Some parts of the book are very nice but some parts feel like it is only code blocks stacked onto code blocks with no explanation of the ”why”. I use it as inspiration on how to use the AWS APIs.
+ 
+* 𝗟𝗲𝗮𝗿𝗻 𝗔𝗺𝗮𝘇𝗼𝗻 𝗦𝗮𝗴𝗲𝗠𝗮𝗸𝗲𝗿, Julien SIMON: Haven’t gotten to finish this one yet, it will keep me occupied for some more weeks. Well written and much better of explaining why things are done in a specific way and what options there are.
 
 
-## RL Books
+
+## MLOps Blogs and Articles
+
+* [MLOps 101: The Foundation for Your AI Strategy](https://www.datarobot.com/mlops-101/): This articile nicely introduces the concept of MLOps and its main pillars, including model deployment, model monitoring, model lifecycle management, and production model governance.
+
+* [Machine learning in production by Chip Huyen](https://huyenchip.com/archive/): A set of tutorials, interviews, and courses.
+
+* [Machine Learning Operations](https://ml-ops.org/): This site is very useful to understand the MLOps principles. It provides several articles about interesting topics, such as MLOps stack canvas, State of MLOps (Tools & Frameworks), End-to-End ML Workflow Lifecycle, and Three Levels of ML-based Software.
+
+* [MLOps Guide](https://mlops-guide.github.io/): This site is intended to be a MLOps Guide to help projects and companies to build more reliable MLOps environment. This guide should contemplate the theory behind MLOps and an implementation that should fit for most use cases. 
+
+* [Stanford MLSys Seminar Series](https://mlsys.stanford.edu/): This seminar series takes a look at the frontier of machine learning systems, and how machine learning changes the modern programming stack.
+
+* [Awesome-mlops](https://github.com/visenger/awesome-mlops#mlops-books): An awesome list of references for MLOps, including books recommendation, scientific papers, blogs, courses, and talks about different MLOps topics.
+
+* [Awesome-mlops-tools](https://github.com/kelvins/awesome-mlops#data-processing): A curated list of awesome MLOps tools 
+
+* [MLOps.toys](https://mlops.toys/): A curated list of MLOps projects, tools and resources.
+
+* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning): This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning.
+
+* [Made With ML](https://madewithml.com/): Learn how to combine machine learning with software engineering to develop, deploy & maintain production ML applications. It includes an MLOps course which focuses on both theory and hands-on, It includes a hands-on explanation of concepts and tools such as Testing Data, Code and Model, Optuna's Hyperparameter Tuning, REST API, CI/CD using Github Actions, Feature Store and Monitoring.
+
+* [MLOps Community](https://mlops.community/): Learn about feature stores, machine learning monitoring, and metadata storage and management.
+
+* [Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning, Google Cloud](https://github.com/mohamedyd/awesome_resources/files/10401885/practitioners_guide_to_mlops_whitepaper.pdf)
+
+* [Data Science Topics](https://github.com/khuyentran1401/Data-science): A collection of useful data science topics along with articles and videos. The repo includes articles about the following topics: MLOps, Testing, Machine Learning, Natural Language Processing, Computer Vision, Time Series, Feature Engineering, Visualization, Productive Tools, Python, linear algebra, statistics, VSCode, among others.
+
+* [Ultimate MLOps Learning Roadmap with Free Learning Resources In 2023](https://pub.towardsai.net/ultimate-mlops-learning-roadmap-with-free-learning-resources-in-2023-3ba7664cb1e9): A comprehensive guide to learning about MLOps, including the key concepts and skills that you need to master.
+
+* [Launching Cookiecutter-MLOps](https://dagshub.com/blog/cookiecutter-mlops-a-production-focused-project-template/): An open-source project scaffolding for machine learning and #MLOps, built on top of Cookiecutter Data Science, and inspired by Shreya Shankar’s amazing tweetstorm.
+
+* [End to End Machine Learning Pipeline With MLOps Tools (MLFlow+DVC+Flask+Heroku+EvidentlyAI+Github Actions)](https://medium.com/@shanakachathuranga/end-to-end-machine-learning-pipeline-with-mlops-tools-mlflow-dvc-flask-heroku-evidentlyai-github-c38b5233778c): This article will show you how to automate the entire machine learning lifecycle with the MLOps tools.
+
+* [A simple solution for monitoring ML systems](https://www.jeremyjordan.me/ml-monitoring/): This blog post aims to provide a simple, open-source solution for monitoring ML systems. 
+
+* [Applied ML](https://github.com/eugeneyan/applied-ml#data-quality): A curated papers, articles, and blogs on data science & ML in production
+
+* [What is a Feature Store? by Feast](https://feast.dev/blog/what-is-a-feature-store/): An article introducing feature stores and their role in MLOps pipelines. 
+
+* [The Base Camp for your Ascent in ML](https://databasecamp.de/en/homepage): In this blog, you will find all the topics to help you master the expedition into the world of Artificial Intelligence.
+
+* [Deep Learning Blogs: 10 Weeks MLOps course](https://www.ravirajag.dev/blog): The goal of the series is to understand the basics of MLOps (model building, monitoring, configurations, testing, packaging, deployment, cicd).
+
+* [A tutorial on building ML and data monitoring dashboards with Evidently and Streamlit](https://www.evidentlyai.com/blog/ml-model-monitoring-dashboard-tutorial): In this tutorial, you will go through an example of creating and customizing an ML monitoring dashboard using the two open-source libraries. 
 
 
-* (Introduction to Reinforcement Learning, Free-ebook)[http://incompleteideas.net/book/the-book-2nd.html]: The book is divided into three parts. Part I defines the reinforcement learning problem in terms of Markov decision processes. Part II provides basic solution methods: dynamic programming, Monte Carlo methods, and temporal-difference learning. Part III presents a unified view of the solution methods and incorporates artificial neural networks, eligibility traces, and planning; the two final chapters present case studies and consider the future of reinforcement learning.
 
-## RL Courses
+## MLOps Courses
 
-* [Learn Reinforcement Learning from Top Universities](https://pub.towardsai.net/learn-reinforcement-learning-from-top-universities-54f4fb1eab57): This article provides an overview of some of the best RL programs available, including what you can expect to learn and how you can get started.
+* [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp): Teach practical aspects of productionizing ML services — from collecting requirements to model deployment and monitoring.
 
-* (Reinforcement Learning Course at ASU, Spring, 2021)[https://www.youtube.com/playlist?list=PLmH30BG15SIp79JRJ-MVF12uvB1qPtPzn] 
+* [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/):  This course aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable.
+
+* [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/): This course helps you bridge the gap from training machine learning models to deploying AI systems in the real world. An updated version of the course can be found (here)[https://fullstackdeeplearning.com/course/2022/].
+
+* [Machine Learning Model Deployment by Srivatsan Srinivasan](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5PlN1jwOB3jVZE6nYTVswk): This playlist covers techniques and approaches for model deployment on to production. This playlist has right theory and hands on methods required to build production ready models 
+
+* [End to End ML Lifecycle walkthrough by Srivatsan Srinivasan](https://www.youtube.com/watch?v=gc1DGuzJPDA&list=PL3N9eeOlCrP6Y73-dOA5Meso7Dv7qYiUU): The course covers ML lifecycle End-to-EndML, starting from problem identification till model deployment and model monitoring. It provides high level overview of different phases within ML lifecycle while Srivatsan has other video in this channel detailing out individual component.
+
+* [Machine Learning Engineering for Production (MLOps), Andrew Ng, Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK): Through this course, you will learn about the ML lifecycle and how to deploy ML models. 
+
+* [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html?r=152co):  This course aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable.
+
+* [Deep Reinforcement Learning: CS 285 Fall 2020](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc): Lectures for UC Berkeley CS 285: Deep Reinforcement Learning.
+
+* [MLOps 8 weeks course](https://github.com/mohamedyd/MLOps-Basics): The goal of the series is to understand the basics of MLOps like model building, monitoring, configurations, testing, packaging, deployment, cicd, etc.
+
+* [Airflow Tutorial for Beginners](https://www.youtube.com/watch?v=K9AnJ9_ZAXE&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT): This 2-hour Airflow Tutorial for Beginners course combines theory explanation and practical demos to help you get started quickly as an absolute beginner. You don’t need any prerequisite to start this course, but basic python knowledge is recommended. 
+
+* [MLOps (Machine Learning Operations) Fundamentals -- Google Cloud (Free)](https://www.coursera.org/lecture/mlops-fundamentals/data-scientists-pain-points-ePAtg): This course introduces participants to MLOps tools and best practices for deploying, evaluating, monitoring and operating production ML systems on Google Cloud.  
+
+* [AI Workflow: AI in Production](https://www.coursera.org/learn/ibm-ai-workflow-ai-production): This course focuses on models in production at a hypothetical streaming media company.  There is an introduction to IBM Watson Machine Learning.  You will build your own API in a Docker container and learn how to manage containers with Kubernetes. 
 
 
-## RL Articles
+## MLOps OSS Tools
 
-* [Deep Reinforcement Learning Explained](https://torres.ai/deep-reinforcement-learning-explained-series/): This is a relaxed introductory series with a practical approach that tries to cover the basic concepts in Reinforcement Learning and Deep Learning to begin in the area of Deep Reinforcement Learning.
-
-
+* [ClearML](https://clear.ml/): with ClearML, you can easily develop, orchestrate, and automate ML workflows at scale. The free plan enables the following tools: experiment management, model repository, artifacts, dataset versioning, pipelines, agent orchestration, CI/CD automation, reports.
+ 
 
 
 # Python 
@@ -480,10 +398,87 @@ has been designed to support data discovery and augmentation. It supports a rich
 * [* Efficient Python for Data Scientists](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists): Learn how to write efficient python code as a data scientist
 
 
+# Explainable AI
 
-# Miscellaneous
+## XAI Books
+
+* [A Guide for Making Black Box Models Explainable (Free ebook)](https://christophm.github.io/interpretable-ml-book/): the focus of the book is on model-agnostic methods for interpreting black box models such as feature importance and accumulated local effects, and explaining individual predictions with Shapley values and LIME. In addition, the book presents methods specific to deep neural networks.
+
+## XAI Repos & Tools
+
+* [ PiML-Toolbox](https://github.com/SelfExplainML/PiML-Toolbox): PiML is a new Python toolbox for interpretable ML model development and validation. Through low-code interface and high-code APIs, PiML supports a growing list of inherently interpretable ML models.
+
+
+
+# Reinforcement Learning
+
+## RL Books
+
+
+* (Introduction to Reinforcement Learning, Free-ebook)[http://incompleteideas.net/book/the-book-2nd.html]: The book is divided into three parts. Part I defines the reinforcement learning problem in terms of Markov decision processes. Part II provides basic solution methods: dynamic programming, Monte Carlo methods, and temporal-difference learning. Part III presents a unified view of the solution methods and incorporates artificial neural networks, eligibility traces, and planning; the two final chapters present case studies and consider the future of reinforcement learning.
+
+## RL Courses
+
+* [Learn Reinforcement Learning from Top Universities](https://pub.towardsai.net/learn-reinforcement-learning-from-top-universities-54f4fb1eab57): This article provides an overview of some of the best RL programs available, including what you can expect to learn and how you can get started.
+
+* (Reinforcement Learning Course at ASU, Spring, 2021)[https://www.youtube.com/playlist?list=PLmH30BG15SIp79JRJ-MVF12uvB1qPtPzn] 
+
+
+## RL Articles
+
+* [Deep Reinforcement Learning Explained](https://torres.ai/deep-reinforcement-learning-explained-series/): This is a relaxed introductory series with a practical approach that tries to cover the basic concepts in Reinforcement Learning and Deep Learning to begin in the area of Deep Reinforcement Learning.
+
+
+
+# Miscellaneous Resources
+Each of these resources include plenty of books, courses, articles, and other learning materials in different AI topics. 
+
+## Courses
+
+* [Computer Science courses with video lectures](https://github.com/youssefHosni/cs-video-courses): This repo includes plenty of courses in different CS areas.
+
+* [FCIH OCW](https://www.youtube.com/user/FCIHOCW): Aset of courses, by Dr Waleed Yousef, about different topics in Computer Science.
+
+* [Software engineering Youtube CS106A - Stanford](https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PL84A56BC7F4A1F852): CS106A is an Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Uses the Java programming language. Emphasis is on good programming style and the built-in facilities of the Java language.  
+
+
+## Learning Platforms
+
+* [Data-Science-Educational-Resoruces, Youssef Hosni](https://github.com/youssefHosni/Data-Science-Educational-Resoruces): The repository covers all the data science theoretical and practical skills, e.g., data collection, data prepration, computer vision, MLOps, etc.
+
+* [Exploring the art of AI one concept at a time, Aman Chadha](https://aman.ai/): The website covers Distilled AI (courses), Research, Primers, coding, and recommendation lists. 
+
+* [AIMultiple: AI Use Cases & Tools to Grow Your Business](https://research.aimultiple.com/): Plenty of articles about AI use cases and tools. 
+
+* [Learn GIT branching](https://learngitbranching.js.org/): An interactive website for teaching how to deal with Git repositories. 
+
+* [HPI tele-TASK](https://www.tele-task.de/): Plenty of unseful courses on different domains provided by Hasso-Plattner Institute. You can also find OpenHPI tutorials on [Youtube](https://www.youtube.com/user/xhakil26/playlists).   
+
+* [Reviews learning free](https://www.reviewslearningfree.com/): This website offers a collection of valuable and valuable courses and books on the science of artificial intelligence, especially machine learning.
+
+* [Stanford ML courses](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=machine+learning&collapse=): plenty of ML courses provided by Stanford
+
+
+## Useful Books
+
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md): A comperhensive list of free books to learn all programming languages.
+
+* [100+ Best Free Data Science Books for Beginners and Experts](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html): All the books listed are open sourced and are in a mixed order.
+
+* [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html): This book is about the engineering practices utilized at Google to make their codebase sustainable and healthy.
+
+
+## Repos & Tools
+
+* [Source code for books published by Apress](https://github.com/Apress)
+
+* [𝗔𝗻 𝗔𝗜 𝗖𝗼𝗱𝗶𝗻𝗴 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁𝘀](https://codesquire.ai/):  AI code writing assistant for data scientists, engineers, and analysts. Get code completions and suggestions as you type (Chrome extension). 
+
+* [Awesome Open Source](https://awesomeopensource.com/): Find And compare open source projects in different fields and programming languages, e.g., python, machine learning, datasets, deployment, data preprocessing, user interfance, operating systems, and blockchain.   
+
+* [Connected Papers](https://www.connectedpapers.com/): Connected Papers allows you to easily navigate the landscape of papers on a given theme. It also ranks the papers that are most relevant to a given input paper. It's excellent for compiling a 'reading list' when researching a particular topic. 
+
 
 ## Articles
 
 * [What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html): A set of tips for creating a professional resume and cover letter.
-
