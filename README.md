@@ -4,8 +4,8 @@ This repository includes plenty of resources related to different domains.
 
 | | | | | |
 |-|-|-|-|-|
-| Machine Learning      | [Books](#ml-books) | [Articles](#ml-articles) | [Courses](#ml-courses)   | [Datasets, Pretrained Models, & ML Problems](#datasets-pretrained-models-and-ml-problems) |
-| MLOps     		| [MLOPs Books](#mlops-books) | [MLOPs Blogs & Articles](#mlops-blogs-and-articles) | [Courses](#mlops-courses)      | [MLOPs OSS Tools](#mlops-oss-tools) |
+| Machine Learning      | [Books](#ml-books) | [Articles](#ml-articles) | [Courses](#ml-courses)   | [Datasets, Models, & ML Problems](#datasets-pretrained-models-and-ml-problems) |
+| MLOps     		| [MLOps Books](#mlops-books) | [MLOps Blogs & Articles](#mlops-blogs-and-articles) | [Courses](#mlops-courses)      | [MLOps OSS Tools](#mlops-oss-tools) |
 | Python		| [Language-related Repos](#language-related-repos) | [AI-related Repos](#ai-related-repos) | | |
 | Explainable AI | [Books](#xai-books) | [XAI Repos & Tools](#xai-repos--tools) | | |
 | Reinforcement Learning | [RL Books](#rl-books) | [RL Courses](#rl-courses) | [RL Articles](#rl-articles) | |
