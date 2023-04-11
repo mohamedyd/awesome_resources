@@ -478,6 +478,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## Repos & Tools
 
+* [Perplexity AI](https://www.perplexity.ai/): Ask anything tool (similar to chatGPT). It leverages LLMs with scientific papers, blogs, and other resources to provide precise and compact answers. It enables follow up questions, but it does not store the questions/answers, like in the case of chatGPT.
+
 * [Source code for books published by Apress](https://github.com/Apress)
 
 * [𝗔𝗻 𝗔𝗜 𝗖𝗼𝗱𝗶𝗻𝗴 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁𝘀](https://codesquire.ai/):  AI code writing assistant for data scientists, engineers, and analysts. Get code completions and suggestions as you type (Chrome extension). 
