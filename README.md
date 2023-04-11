@@ -9,7 +9,7 @@ This repository comprises plenty of resources related to machine learning (ML), 
 | Python		| [Books](#programming-books) | [Language-related Repos](#language-related-repos) | [Articles](#python-articles--notes) | [AI-related Repos](#ai-related-repos) | 
 | Explainable AI | [XAI Books](#xai-books) | [XAI Repos & Tools](#xai-repos--tools) | | |
 | Reinforcement Learning | [RL Books](#rl-books) | [RL Courses](#rl-courses) | [RL Articles](#rl-articles) | |
-| Miscellaneous Resources | [Learning Platforms](#learning-platforms) | [Courses](#courses) | [Books](#books) | [Useful Repositories & Tools](#repos-and-tools) |
+| Miscellaneous Resources | [Learning Platforms](#learning-platforms) | [Courses](#courses) | [Books](#useful-books) | [Useful Repositories & Tools](#repos--tools) |
 
 
 
