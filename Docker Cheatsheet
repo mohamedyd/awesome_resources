@@ -1,6 +1,6 @@
 In this doument, I list the important resources and commands for learning containers.
 
-|||
+| | |
 |-|-|
 |Bash Command|Details|
 |```Sudo getent group```|The getent command is used to retrieve information from various databases on a system, including the system password database, group database, hostname database, and service name database. getent group will output a list of all groups on the system, along with their associated group IDs and member users.|
