@@ -3,9 +3,9 @@ In this doument, I list the important resources and commands for learning contai
 | | |
 |-|-|
 |Bash Command|Details|
-|```Sudo getent group```|The getent command is used to retrieve information from various databases on a system, including the system password database, group database, hostname database, and service name database. getent group will output a list of all groups on the system, along with their associated group IDs and member users.|
-|```Sudo usermod -aG docker sag```|adds the user "sag" to the docker group on a Linux system, giving them permission to run Docker commands without using sudo. `usermod`: The usermod command is used to modify user account details on a Linux system. `-aG docker`: The `-a` option specifies that we want to add the user to a group, rather than replacing their current group memberships. The `G` option specifies the name of the group we want to add the user to, which in this case is docker.|
-
-| | |
-|-|-|
-|Bash Command|Details|
+|```Sudo getent group```|The getent command is used to retrieve information from various databases on a system, including the system password database, group database, hostname database, and service name database. 
+* getent group will output a list of all groups on the system, along with their associated group IDs and member users.|
+|```Sudo usermod -aG docker sag```|adds the user "sag" to the docker group on a Linux system, giving them permission to run Docker commands without using sudo. 
+* `usermod`: The usermod command is used to modify user account details on a Linux system. 
+* `-aG docker`: The `-a` option specifies that we want to add the user to a group, rather than replacing their current group memberships. 
+* The `G` option specifies the name of the group we want to add the user to, which in this case is docker.|
