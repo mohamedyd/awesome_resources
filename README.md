@@ -98,6 +98,8 @@ This repository comprises plenty of resources related to machine learning (ML), 
 
 ## ML Courses
 
+* [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/):  In this course, students gain a thorough introduction to cutting-edge neural networks for NLP. I highly recommend the CS224N suggested reading list.
+
 * [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF): In this lecture series,  research scientists from leading AI research lab, DeepMind, delivered 12 lectures on an exciting selection of topics in Deep Learning, ranging from the fundamentals of training neural networks via advanced ideas around memory, attention, and generative modelling to the important topic of responsible innovation.
 
 * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI): Through this course,  students will gain foundational knowledge of deep learning algorithms.
@@ -156,7 +158,7 @@ This repository comprises plenty of resources related to machine learning (ML), 
 
 * [Learn AI from Top Universities Through these 10 Courses](https://pub.towardsai.net/learn-ai-from-top-universities-through-these-10-courses-13e7a8d3957b): This article introduces ten courses from top universities that will help you to have a better understanding of different concepts in AI and ML.
 
-* [CS324 lecture notes (Winter 2022)](https://stanford-cs324.github.io/winter2022/lectures/): This is a course on understanding and developing large language models. Another related course is [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/) ([Github](https://github.com/stanford-cs324)). Note: No video lectures available for these two courses.  
+* [CS324 lecture notes on Large Language Models (Winter 2022)](https://stanford-cs324.github.io/winter2022/lectures/): This is a course on understanding and developing large language models. Another related course is [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/) ([Github](https://github.com/stanford-cs324)). Note: No video lectures available for these two courses.  
 
 * [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5): This is a graduate-level course. By the end of the course, students will be able to understand and implement the state-of-the-art multi-task learning and meta-learning algorithms and be ready to conduct research on these topics.
 	* [Fall 2022 Update](https://cs330.stanford.edu/): The course has been updated by removing material on reinforcement learning and meta-reinforcement learning, and replacing it with content on self-supervised pre-training for few-shot learning (e.g. contrastive learning, masked language modeling) and transfer learning (e.g. domain adaptation and domain generalization). [Slides](https://cs330.stanford.edu/lecture_slides/), [Video lectures](https://www.youtube.com/watch?v=bkVCAk9Nsss&list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
@@ -179,13 +181,13 @@ This repository comprises plenty of resources related to machine learning (ML), 
 
 * [Natural Language Processing with Hugging Face](https://www.youtube.com/playlist?app=desktop&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N): Various topics and models to deal with NLP problems. 
 
-* [CMU Multimodal Machine Learning course by LP Morency (Carnegie Mellon, 2022)](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA): The course presents the fundamental mathematical concepts in machine learning and deep learning relevant to the six main challenges in multimodal research: (1) representation, (2) alignment, (3) reasoning, (4) generation, (5) transference and (6) quantification.
-
-* [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/):  In this course, students will learn the fundamentals about the modeling, theory, ethics, and systems aspects of large language models, as well as gain hands-on experience working with them.
+* [CMU Multimodal Machine Learning course by LP Morency (Carnegie Mellon, 2022)](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA): The course presents the fundamental mathematical concepts in machine learning and deep learning relevant to the six main challenges in multimodal research: (1) representation, (2) alignment, (3) reasoning, (4) generation, (5) transference and (6) quantification. [Course website](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/), [Code](https://lnkd.in/giUvF4hD) 
 
 
 
 ## Datasets, Pretrained Models, and ML Problems
+
+* [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm): Databricks are open-sourcing the entirety of Dolly 2.0, including the training code, the dataset, and the model weights, all suitable for commercial use. This means that any organization can create, own, and customize powerful LLMs that can talk to people, without paying for API access or sharing data with third parties.
 
 * [Auctus: A Dataset Search Engine for Data Discovery and Augmentation](https://auctus.vida-nyu.org/): open-source dataset search engine that
 has been designed to support data discovery and augmentation. It supports a rich set of discovery queries: in addition to keyword-based search,users can specify spatial and temporal queries, data integration queries (i.e., searching for datasets that can be concatenated to or joined with a query dataset), and they can also pose complex queries that combine multiple constraints.
