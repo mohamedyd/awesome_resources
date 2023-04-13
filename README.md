@@ -474,6 +474,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Learn GIT branching](https://learngitbranching.js.org/): An interactive website for teaching how to deal with Git repositories. 
 
+* [Git Notes for Professionals](https://drive.google.com/file/d/1HlqW-u-K7ThAqpXYGoUVHukbW5dC3a6p/view?usp=share_link): This is an unofficial free book created for educational purposes
+
 * [HPI tele-TASK](https://www.tele-task.de/): Plenty of unseful courses on different domains provided by Hasso-Plattner Institute. You can also find OpenHPI tutorials on [Youtube](https://www.youtube.com/user/xhakil26/playlists).   
 
 * [Reviews learning free](https://www.reviewslearningfree.com/): This website offers a collection of valuable and valuable courses and books on the science of artificial intelligence, especially machine learning.
@@ -500,7 +502,10 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Awesome Open Source](https://awesomeopensource.com/): Find And compare open source projects in different fields and programming languages, e.g., python, machine learning, datasets, deployment, data preprocessing, user interfance, operating systems, and blockchain.   
 
-* [Connected Papers](https://www.connectedpapers.com/): Connected Papers allows you to easily navigate the landscape of papers on a given theme. It also ranks the papers that are most relevant to a given input paper. It's excellent for compiling a 'reading list' when researching a particular topic. 
+* [Connected Papers](https://www.connectedpapers.com/): Connected Papers allows you to easily navigate the landscape of papers on a given theme. It also ranks the papers that are most relevant to a given input paper. It's excellent for compiling a 'reading list' when researching a particular topic.
+
+* [Semantic Scholar](https://lnkd.in/dKkGMeXw) Finding & Synthesizing Literature. Get access to 200 million research papers, discover links between topics, get recommendations based on recent searches and generate summaries.
+
 
 
 ## Articles
