@@ -54,6 +54,11 @@ This repository comprises plenty of resources related to machine learning (ML), 
 
 ## ML Articles
 
+* [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html): This awesome post consists of three parts:
+	- Part 1 discusses the key challenges of productionizing LLM applications and the solutions that I’ve seen.
+    	- Part 2 discusses how to compose multiple tasks with control flows (e.g. if statement, for loop) and incorporate tools (e.g. SQL executor, bash, web browsers, third-party APIs) for more complex and powerful applications.
+	- Part 3 covers some of the promising use cases that I’ve seen companies building on top of LLMs and how to construct them from smaller tasks.
+	
 * [𝗛𝘂𝗻𝗱𝗿𝗲𝗱𝘀 𝗼𝗳 𝗡𝗟𝗣 𝗣𝗮𝗽𝗲𝗿𝘀 𝘄𝗶𝘁𝗵 𝗖𝗼𝗱𝗲](https://index.quantumstat.com/): The NLP Index lets you keep track of the NLP advancements, by offering an updated list of the latest NLP research papers! Furthermore, the website provides a link for the Github repository of each paper, making it a valuable resource for ML researchers and practitioners.
 
 * [ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained): Explanations to key concepts in ML.
@@ -151,7 +156,7 @@ This repository comprises plenty of resources related to machine learning (ML), 
 
 * [Learn AI from Top Universities Through these 10 Courses](https://pub.towardsai.net/learn-ai-from-top-universities-through-these-10-courses-13e7a8d3957b): This article introduces ten courses from top universities that will help you to have a better understanding of different concepts in AI and ML.
 
-* [CS324 lecture notes (Winter 2022)](https://stanford-cs324.github.io/winter2022/lectures/): This is a course on understanding and developing large language models. 
+* [CS324 lecture notes (Winter 2022)](https://stanford-cs324.github.io/winter2022/lectures/): This is a course on understanding and developing large language models. Another related course is [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/) ([Github](https://github.com/stanford-cs324)). Note: No video lectures available for these two courses.  
 
 * [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5): This is a graduate-level course. By the end of the course, students will be able to understand and implement the state-of-the-art multi-task learning and meta-learning algorithms and be ready to conduct research on these topics.
 	* [Fall 2022 Update](https://cs330.stanford.edu/): The course has been updated by removing material on reinforcement learning and meta-reinforcement learning, and replacing it with content on self-supervised pre-training for few-shot learning (e.g. contrastive learning, masked language modeling) and transfer learning (e.g. domain adaptation and domain generalization). [Slides](https://cs330.stanford.edu/lecture_slides/), [Video lectures](https://www.youtube.com/watch?v=bkVCAk9Nsss&list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
@@ -227,6 +232,9 @@ has been designed to support data discovery and augmentation. It supports a rich
 
 * [Awesome-Data-Centric-AI](https://github.com/daochenzha/data-centric-AI): A curated, but incomplete, list of data-centric AI resources. Data-centric AI is an emerging field that focuses on engineering data to improve AI systems with enhanced data quality and quantity.
 
+* [SAM: Segment Anything Model](https://github.com/facebookresearch/segment-anything): This model produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image.
+
+* [𝐋𝐚𝐧𝐠𝐜𝐡𝐚𝐢𝐧 101: 𝐄𝐚𝐬𝐢𝐞𝐬𝐭 𝐰𝐚𝐲 𝐭𝐨 𝐛𝐮𝐢𝐥𝐝 𝐋𝐋𝐌 𝐚𝐩𝐩𝐬](https://docs.langchain.com/docs/): LangChain is a framework for developing applications powered by language models. Currrent use cases are Personal assistants, Question answering over database(s), Chatbots, Querying tabular data, Interacting with APIs, Model Evaluation. [Git Repo](https://lnkd.in/dSp5n3Sa), [Cookbook by Gregory Kamradt(Easy way to get started)](https://lnkd.in/dqQGMW5u), [Youtube Tutorials](https://lnkd.in/dh3rGuch)
 
 
 
