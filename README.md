@@ -54,6 +54,8 @@ This repository comprises plenty of resources related to machine learning (ML), 
 
 ## ML Articles
 
+* [Large Language Model Cheatsheet](https://docs.google.com/presentation/d/1ytGfwc8tIKolDQ_jMOmhWVC8t41klYa5/edit?usp=share_link&ouid=100484802817147345492&rtpof=true&sd=true): three slides summairzing the main ideas and concepts of large language models.
+
 * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html): This awesome post consists of three parts:
 	- Part 1 discusses the key challenges of productionizing LLM applications and the solutions that I’ve seen.
     	- Part 2 discusses how to compose multiple tasks with control flows (e.g. if statement, for loop) and incorporate tools (e.g. SQL executor, bash, web browsers, third-party APIs) for more complex and powerful applications.
