@@ -100,17 +100,46 @@ This repository comprises plenty of resources related to machine learning (ML), 
 
 ## ML Courses
 
+### Large Language Models
+
+* [MIT Future of AI is Foundation Models & Self-Supervised Learning](https://www.futureofai.mit.edu/): In this non-technical series of lectures, we will start with the history of AI, then with what supervised learning and reinforcement learning is missing, and conclude with the deep practical and foundational implications of self-supervised learning and foundation models.
+
+* [Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM): In this seminar, we examine the details of how transformers work, and dive deep into the different kinds of transformers and how they're applied in different fields.
+
+* [Rasa Algorithm Whiteboard - Transformers & Attention (Large Language Models)](https://www.youtube.com/watch?v=yGTUuEx3GkA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=10): This Youtube course provides an explanation of the attention mechanisms.
+
+* [CS324 lecture notes on Large Language Models (Winter 2022)](https://stanford-cs324.github.io/winter2022/lectures/): This is a course on understanding and developing large language models. Another related course is [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/) ([Github](https://github.com/stanford-cs324)). Note: No video lectures available for these two courses. 
+
+
+### Deep Learning
+
+* [Introduction to Deep Learning and Generative Modeling by Sebastian Raschka](https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
+
 * [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/):  In this course, students gain a thorough introduction to cutting-edge neural networks for NLP. I highly recommend the CS224N suggested reading list.
 
 * [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF): In this lecture series,  research scientists from leading AI research lab, DeepMind, delivered 12 lectures on an exciting selection of topics in Deep Learning, ranging from the fundamentals of training neural networks via advanced ideas around memory, attention, and generative modelling to the important topic of responsible innovation.
 
 * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI): Through this course,  students will gain foundational knowledge of deep learning algorithms.
 
-* [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp): Week 1: Introduction & Prerequisites, Week 2: Workflow Orchestration, Week 3: Data Warehouse, Week 4: Analytics Engineering, Week 5: Batch processing, Week 6: Streaming, and Week 7, 8 & 9: Project
+* [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/): A website rich of courses on ML, AI, Graph neural network, reinforcement learning, natural language processing, etc. 
+
+* [Neural networks for NLP (CMU CS 11-747, Spring 2021), Carnegie Mellon University](https://www.phontron.com/class/nn4nlp2021/schedule.html):  It covers major topics in neural networks modeling and training, e.g., Language modeling and training tricks,  Neural networks building, Recurrent neural networks, Attention mechanism and efficiency tricks, Contextual word representations, Debugging neural networks, Model interpretation, Trees and Graphs, Reinforcement learning for structured prediction, Knowledge bases with neural networks, and Adversarial methods and advanced search algorithms.
+
+* [Learn Computer Vision From Top Universities](https://medium.com/mlearning-ai/learn-computer-vision-from-top-universities-bb6019be74d2): the article provides courses in several domains, including image and signal processing, computer vision, machine learning and deep learning for computer vision, programming for Computer Vision, and Photogrammetry.
+
+* [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5): This is a graduate-level course. By the end of the course, students will be able to understand and implement the state-of-the-art multi-task learning and meta-learning algorithms and be ready to conduct research on these topics.
+	* [Fall 2022 Update](https://cs330.stanford.edu/): The course has been updated by removing material on reinforcement learning and meta-reinforcement learning, and replacing it with content on self-supervised pre-training for few-shot learning (e.g. contrastive learning, masked language modeling) and transfer learning (e.g. domain adaptation and domain generalization). [Slides](https://cs330.stanford.edu/lecture_slides/), [Video lectures](https://www.youtube.com/watch?v=bkVCAk9Nsss&list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
+
+* [Deep Learning at VU University Amsterdam](https://dlvu.github.io/): This page contains all public information about the course Deep Learning at the Vrije Universiteit Amsterdam.
+
+* [Natural Language Processing with Hugging Face](https://www.youtube.com/playlist?app=desktop&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N): Various topics and models to deal with NLP problems. 
+
+* [CMU Multimodal Machine Learning course by LP Morency (Carnegie Mellon, 2022)](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA): The course presents the fundamental mathematical concepts in machine learning and deep learning relevant to the six main challenges in multimodal research: (1) representation, (2) alignment, (3) reasoning, (4) generation, (5) transference and (6) quantification. [Course website](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/), [Code](https://lnkd.in/giUvF4hD) 
+
+
+### Machine Learning
 
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding for beginners. 
-
-* [CS839 Data Management for Machine Learning Applications](https://thodrek.github.io/CS839_spring18/): The goal of this seminar course is to study data management challenges that arise in the context of machine learning pipelines. The focus will be on cutting-edge problems in the context of ML pipelines, related to (1) data exploration and understanding, (2) data integration, cleaning, and validation, and (3) data preparation for ML models and serving of production ML applications. 
 
 * [Harvard CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/): This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation.
 
@@ -118,19 +147,13 @@ This repository comprises plenty of resources related to machine learning (ML), 
 
 * [Introduction to Machine Learning by Sebastian Raschka](https://sebastianraschka.com/blog/2021/ml-course.html): Video Lectures about Python Basics, Tree-based Methods, Model Evaluation, and Feature Selection. 
 
-* [Introduction to Deep Learning and Generative Modeling by Sebastian Raschka](https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
-
 * [Introduction to machine learning and statistical pattern classification by Sebastian Raschka](https://www.youtube.com/watch?v=OgK8JFjkSto&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3)
-
-* [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/): A website rich of courses on ML, AI, Graph neural network, reinforcement learning, natural language processing, etc. 
 
 * [openHPI Self-paced Courses](https://open.hpi.de/courses?q=&channel=&lang=&topic=Big+Data+and+AI&level=): plenty of courses in English and German related to ML, knowledge graphs, big data management, operating systems, and programming. 
 
 * [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83): Starting from the very basics, the course covers all of the most important ML algorithms and how to apply them in practice. The slides are also Jupyter notebooks with programmatically generated figures (GitHub)[https://github.com/kuleshov/cornell-cs5785-2020-applied-ml]. 
 
 * [Machine Learning Course Notes](https://github.com/dair-ai/ML-Course-Notes): This repository shares videos and lecture notes on several topics related to ML, NLP, Transformers, and Deep Reinforcement Learning.
-
-* [Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM): In this seminar, we examine the details of how transformers work, and dive deep into the different kinds of transformers and how they're applied in different fields.
 
 * [𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐔𝐂 𝐁𝐞𝐫𝐤𝐞𝐥𝐞𝐲](https://lnkd.in/dChzX6dZ): This class introduces algorithms for learning, which constitute an important part of artificial intelligence.
 
@@ -152,42 +175,33 @@ This repository comprises plenty of resources related to machine learning (ML), 
 
 * [𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 — 𝐒𝐭𝐚𝐧𝐟𝐨𝐫𝐝 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲](https://lnkd.in/dKttsi_3): This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines; neural networks and deep learning; survival models; multiple testing. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).
 
-* [Rasa Algorithm Whiteboard - Transformers & Attention (Large Language Models)](https://www.youtube.com/watch?v=yGTUuEx3GkA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=10): This Youtube course provides an explanation of the attention mechanisms.
-
-* [Neural networks for NLP (CMU CS 11-747, Spring 2021), Carnegie Mellon University](https://www.phontron.com/class/nn4nlp2021/schedule.html):  It covers major topics in neural networks modeling and training, e.g., Language modeling and training tricks,  Neural networks building, Recurrent neural networks, Attention mechanism and efficiency tricks, Contextual word representations, Debugging neural networks, Model interpretation, Trees and Graphs, Reinforcement learning for structured prediction, Knowledge bases with neural networks, and Adversarial methods and advanced search algorithms.
-
-* [Learn Computer Vision From Top Universities](https://medium.com/mlearning-ai/learn-computer-vision-from-top-universities-bb6019be74d2): the article provides courses in several domains, including image and signal processing, computer vision, machine learning and deep learning for computer vision, programming for Computer Vision, and Photogrammetry.
-
 * [Learn AI from Top Universities Through these 10 Courses](https://pub.towardsai.net/learn-ai-from-top-universities-through-these-10-courses-13e7a8d3957b): This article introduces ten courses from top universities that will help you to have a better understanding of different concepts in AI and ML.
-
-* [CS324 lecture notes on Large Language Models (Winter 2022)](https://stanford-cs324.github.io/winter2022/lectures/): This is a course on understanding and developing large language models. Another related course is [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/) ([Github](https://github.com/stanford-cs324)). Note: No video lectures available for these two courses.  
-
-* [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5): This is a graduate-level course. By the end of the course, students will be able to understand and implement the state-of-the-art multi-task learning and meta-learning algorithms and be ready to conduct research on these topics.
-	* [Fall 2022 Update](https://cs330.stanford.edu/): The course has been updated by removing material on reinforcement learning and meta-reinforcement learning, and replacing it with content on self-supervised pre-training for few-shot learning (e.g. contrastive learning, masked language modeling) and transfer learning (e.g. domain adaptation and domain generalization). [Slides](https://cs330.stanford.edu/lecture_slides/), [Video lectures](https://www.youtube.com/watch?v=bkVCAk9Nsss&list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
 
 * [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners): In this curriculum, you will learn about what is sometimes called classic ML, using primarily Scikit-learn as a library and avoiding deep learning.
 
 * [Stanford CS229: Machine Learning](https://cs229.stanford.edu/syllabus-summer2020.html): The course a broad introduction to statistical machine learning (at an intermediate / advanced level) and covers supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical ); and reinforcement learning among other topics.
 
-* [Data Engineering Foundations Specialization -- Enroll for Free](https://www.coursera.org/specializations/data-engineering-foundations#courses): The Specialization consists of 5 self-paced online courses covering skills required for data engineering, including the data engineering ecosystem and lifecycle, Python, SQL, and Relational Databases.  You will learn these data engineering prerequisites through engaging videos and hands-on practice using real tools and real-world databases. 
-
 * [Statistical Machine Learning — Ulrike von Luxburg, 2020](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC): The course covers the standard paradigms and algorithms in statistical machine learning, simply browse through the titles of the individual lectures to get an impression of the contents. The target audience consists of master students in computer science and related fields. 
 
 * [Kimia Lab: Machine Intelligence](https://www.youtube.com/playlist?list=PLZWvneBOrhoEWyByqPli18AScodr_MzEK): An overview of different learning schemes will be provided: Decision Tree, Bayesian, Inductive, Analytical, and Rule-based learning. 
 
-* [Deep Learning at VU University Amsterdam](https://dlvu.github.io/): This page contains all public information about the course Deep Learning at the Vrije Universiteit Amsterdam.
-
 * [Tübingen Machine Learning](https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA): A series of wonderful ML courses delivered at Tübingen University.
+
+
+### Data Engineering 
+
+* [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp): Week 1: Introduction & Prerequisites, Week 2: Workflow Orchestration, Week 3: Data Warehouse, Week 4: Analytics Engineering, Week 5: Batch processing, Week 6: Streaming, and Week 7, 8 & 9: Project
+
+* [CS839 Data Management for Machine Learning Applications](https://thodrek.github.io/CS839_spring18/): The goal of this seminar course is to study data management challenges that arise in the context of machine learning pipelines. The focus will be on cutting-edge problems in the context of ML pipelines, related to (1) data exploration and understanding, (2) data integration, cleaning, and validation, and (3) data preparation for ML models and serving of production ML applications. 
+
+* [Data Engineering Foundations Specialization -- Enroll for Free](https://www.coursera.org/specializations/data-engineering-foundations#courses): The Specialization consists of 5 self-paced online courses covering skills required for data engineering, including the data engineering ecosystem and lifecycle, Python, SQL, and Relational Databases.  You will learn these data engineering prerequisites through engaging videos and hands-on practice using real tools and real-world databases. 
 
 * [15-445/645 Intro to Database Systems (Spring 2023)](https://15445.courses.cs.cmu.edu/spring2023/): This course is on the design and implementation of database management systems. Topics include data models (relational, document, key/value), storage models (n-ary, decomposition), query languages (SQL, stored procedures), storage architectures (heaps, log-structured), indexing (order preserving trees, hash tables), transaction processing (ACID, concurrency control), recovery (logging, checkpoints), query processing (joins, sorting, aggregation, optimization), and parallel architectures (multi-core, distributed).  
 
-* [Natural Language Processing with Hugging Face](https://www.youtube.com/playlist?app=desktop&list=PLxqBkZuBynVQEvXfJpq3smfuKq3AiNW-N): Various topics and models to deal with NLP problems. 
-
-* [CMU Multimodal Machine Learning course by LP Morency (Carnegie Mellon, 2022)](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA): The course presents the fundamental mathematical concepts in machine learning and deep learning relevant to the six main challenges in multimodal research: (1) representation, (2) alignment, (3) reasoning, (4) generation, (5) transference and (6) quantification. [Course website](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/), [Code](https://lnkd.in/giUvF4hD) 
-
-
 
 ## Datasets, Pretrained Models, and ML Problems
+
+* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT): Auto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model. Its main features are (1) Internet access for searches and information gathering, (2) Long-Term and Short-Term memory management, (3) GPT-4 instances for text generation, (4) Access to popular websites and platforms, and (5) File storage and summarization with GPT-3.5.(article: [Intro to Auto-GPT](https://autogpt.net/autogpt-step-by-step-full-setup-guide/), Videos: [Install Auto-GPT Locally](https://www.youtube.com/watch?app=desktop&v=0m0AbdoFLq4), [Create Your Personal AI Assistant](https://www.youtube.com/watch?app=desktop&v=jn8n212l3PQ)) Note: some practitioners reported that Auto-GPT fails to carry out 80% of the assigned tasks (date: April 17, 2023).
 
 * [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm): Databricks are open-sourcing the entirety of Dolly 2.0, including the training code, the dataset, and the model weights, all suitable for commercial use. This means that any organization can create, own, and customize powerful LLMs that can talk to people, without paying for API access or sharing data with third parties.
 
@@ -379,6 +393,9 @@ has been designed to support data discovery and augmentation. It supports a rich
 
 * [Python for Data Science: The Ultimate Step-by-Step Guide to Python Programming DF 2023](https://www.reviewslearningfree.com/2023/03/python-for-data-science-ultimate-step.html): This book is here to guide you through the field of data science from the very beginning. You will learn the fundamental skills and tools to support your learning process. If you’re a beginner, this is the book to help you easily understand the basics of data science.
 
+* [Python for Data Analysis, 3E](https://wesmckinney.com/book/): After reading the book, you'll have a solid understanding of the Python data analysis ecosystem, including libraries like NumPy, pandas, Matplotlib and Jupyter.
+
+
 ## Python Repos
 
 * [Complete Python 3 Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp): Course Files for Complete Python 3 Bootcamp Course on Udemy
@@ -470,6 +487,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 ## Learning Platforms
 
+* [PyData](https://www.youtube.com/@PyDataTV/about): PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. PyData communities approach data science using many languages, including (but not limited to) Python, Julia, and R.
+
 * [Data-Science-Educational-Resoruces, Youssef Hosni](https://github.com/youssefHosni/Data-Science-Educational-Resoruces): The repository covers all the data science theoretical and practical skills, e.g., data collection, data prepration, computer vision, MLOps, etc.
 
 * [Exploring the art of AI one concept at a time, Aman Chadha](https://aman.ai/): The website covers Distilled AI (courses), Research, Primers, coding, and recommendation lists. 
@@ -497,6 +516,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 
 ## Repos & Tools
+
+* [ChatPDF](https://www.chatpdf.com/): ChatPDF is a tool that enables users to interact with their PDF documents as if it were a human. 
 
 * [Perplexity AI](https://www.perplexity.ai/): Ask anything tool (similar to chatGPT). It leverages LLMs with scientific papers, blogs, and other resources to provide precise and compact answers. It enables follow up questions, but it does not store the questions/answers, like in the case of chatGPT.
 
