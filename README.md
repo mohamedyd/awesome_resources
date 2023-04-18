@@ -65,7 +65,7 @@ This repository comprises plenty of resources related to machine learning (ML), 
 
 * [Natural Language Processing with Transformers](https://transformersbook.com/): In this guide, authors use a hands-on approach to teach you how transformers work and how to integrate them in your applications. ([GitHub](https://github.com/nlp-with-transformers))
 
-* [Transformers for Natural Language Processing](https://www.packtpub.com/product/transformers-for-natural-language-processing/9781800565791): The book trains you in three stages. The first stage introduces you to transformer architectures, starting with the original transformer, before moving on to RoBERTa, BERT, and DistilBERT models. You will discover training methods for smaller transformers that can outperform GPT-3 in some cases. In the second stage, you will apply transformers for Natural Language Understanding (NLU) and Natural Language Generation (NLG). Finally, the third stage will help you grasp advanced language understanding techniques such as optimizing social network datasets and fake news identification. 
+* [Transformers for Natural Language Processing](https://www.packtpub.com/product/transformers-for-natural-language-processing/9781800565791): The book trains you in three stages. The first stage introduces you to transformer architectures, starting with the original transformer, before moving on to RoBERTa, BERT, and DistilBERT models. You will discover training methods for smaller transformers that can outperform GPT-3 in some cases. In the second stage, you will apply transformers for Natural Language Understanding (NLU) and Natural Language Generation (NLG). Finally, the third stage will help you grasp advanced language understanding techniques such as optimizing social network datasets and fake news identification. ([GitHub](https://github.com/Denis2054/Transformers-for-NLP-2nd-Edition))
 
 * [GPT-3: Building Innovative NLP Products Using Large Language Models](https://books.google.de/books/about/Gpt_3.html?id=QFi0zgEACAAJ&redir_esc=y): This book is for anyone who wants to understand the scope and nature of GPT-3. The book will evaluate the GPT-3 API from multiple perspectives and discuss the various components of the new, burgeoning economy enabled by GPT-3. This book will look at the influence of GPT-3 on important AI trends like creator economy, no-code, and Artificial General Intelligence and will equip the readers to structure their imaginative ideas and convert them from mere concepts to reality.
 
@@ -294,8 +294,6 @@ has been designed to support data discovery and augmentation. It supports a rich
 # MLOps
 
 ## MLOps Books
-
-* [Transformers-for-NLP-2nd-Edition](https://github.com/Denis2054/Transformers-for-NLP-2nd-Edition): Transformer models from BERT to GPT-4, environments from Hugging Face to OpenAI. Fine-tuning, training, and prompt engineering examples. A bonus section with ChatGPT, GPT-3.5-turbo, GPT-4, and DALL-E including jump starting GPT-4, speech-to-text, text-to-speech, text to image generation with DALL-E and more.
 
 * [Designing Machine Learning Systems, Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/): Why does 9/10 models never make it to production? Read this book and compare to how ML is done at most companies, then you know… Highly recommended!
 
