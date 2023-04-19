@@ -7,9 +7,13 @@ As a machine learning enthusiast, I understand how challenging it can be to find
 Whether you're a beginner looking to get started in the field or an experienced practitioner searching for advanced techniques and tools, you'll find something valuable in this repository.
 
 🔍 Here's a sneak peek at what you'll find:
+
 👉 A curated list of top ML and MLOps resources
+
 👉 An extensive collection of Python libraries and frameworks
+
 👉 The latest developments in explainable AI and reinforcement learning
+
 👉 A wide range of learning resources, including books, tutorials, videos, and blogs
 
 
