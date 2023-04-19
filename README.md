@@ -4,14 +4,14 @@ This repository comprises plenty of resources related to machine learning (ML), 
 
 | | | | | |
 |-|-|-|-|-|
-| Machine Learning      | [ML Books](#ml-books) | [ML Articles](#ml-articles) | [ML Courses](#ml-courses)   | [Datasets & ML Models](#datasets-pretrained-models-and-ml-problems) |
+| Machine Learning      | [ML Books](#ml-books) | [ML Articles](#ml-blogs--articles) | [ML Courses](#ml-courses)   | [Datasets & ML Models](#datasets-pretrained-models-and-ml-problems) |
 | MLOps     		| [MLOps Books](#mlops-books) | [MLOps Blogs & Articles](#mlops-blogs-and-articles) | [Courses](#mlops-courses)      | [MLOps OSS Tools](#mlops-oss-tools) |
 | Python		| [Books](#programming-books) | [Language-related Repos](#language-related-repos) | [Articles](#python-articles--notes) | [AI-related Repos](#ai-related-repos) | 
 | Explainable AI | [XAI Books](#xai-books) | [XAI Repos & Tools](#xai-repos--tools) | | |
 | Reinforcement Learning | [RL Books](#rl-books) | [RL Courses](#rl-courses) | [RL Articles](#rl-articles) | |
 | Miscellaneous Resources | [Learning Platforms](#learning-platforms) | [Courses](#courses) | [Books](#useful-books) | [Useful Repositories & Tools](#repos--tools) |
 
-
+[Test](Design ML Systems.md)
 
 # Machine Learning
 
@@ -78,7 +78,7 @@ This repository comprises plenty of resources related to machine learning (ML), 
 * [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/): The book consists of two parts. The first part provides an overview of the machine learning interview process, what types of machine learning roles are available, what skills each role requires, what kinds of questions are often asked, and how to prepare for them. This part also explains the interviewers’ mindset and what kind of signals they look for. The second part consists of over 200 knowledge questions, each noted with its level of difficulty -- interviews for more senior roles should expect harder questions -- that cover important concepts and common misconceptions in machine learning.
 
 
-## ML Articles 
+## ML blogs & Articles 
 
 * [Large Language Model Cheatsheet](https://docs.google.com/presentation/d/1ytGfwc8tIKolDQ_jMOmhWVC8t41klYa5/edit?usp=share_link&ouid=100484802817147345492&rtpof=true&sd=true): three slides summairzing the main ideas and concepts of large language models.
 
@@ -517,6 +517,8 @@ Each of these resources include plenty of books, courses, articles, and other le
 
 * [Software engineering Youtube CS106A - Stanford](https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PL84A56BC7F4A1F852): CS106A is an Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Uses the Java programming language. Emphasis is on good programming style and the built-in facilities of the Java language.  
 
+* [Big Data Courses (Arabic)](https://github.com/ahmedsami76/AraBigData): long videos covering various topics, such as [Docker](https://github.com/ahmedsami76/AraBigData/blob/main/Docker.ipynb), Git, and Hadoop. [[Youtube Channel](https://www.youtube.com/@bigdata4756)]
+
 
 ## Learning Platforms
 
@@ -563,7 +565,6 @@ Each of these resources include plenty of books, courses, articles, and other le
 * [Connected Papers](https://www.connectedpapers.com/): Connected Papers allows you to easily navigate the landscape of papers on a given theme. It also ranks the papers that are most relevant to a given input paper. It's excellent for compiling a 'reading list' when researching a particular topic.
 
 * [Semantic Scholar](https://lnkd.in/dKkGMeXw) Finding & Synthesizing Literature. Get access to 200 million research papers, discover links between topics, get recommendations based on recent searches and generate summaries.
-
 
 
 ## Articles
