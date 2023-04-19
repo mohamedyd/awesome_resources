@@ -11,7 +11,7 @@ This repository comprises plenty of resources related to machine learning (ML), 
 | Reinforcement Learning | [RL Books](#rl-books) | [RL Courses](#rl-courses) | [RL Articles](#rl-articles) | |
 | Miscellaneous Resources | [Learning Platforms](#learning-platforms) | [Courses](#courses) | [Books](#useful-books) | [Useful Repositories & Tools](#repos--tools) |
 
-[Test](Design ML Systems.md)
+[Test](design-ml-systems.md)
 
 # Machine Learning
 
