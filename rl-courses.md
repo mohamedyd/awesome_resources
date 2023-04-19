@@ -1,0 +1,13 @@
+# RL Courses
+
+* [Foundations of Deep RL -- 6-lecture series by Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
+
+* [Introduction to reinforcement learning — UCL & Deep Mind by David Silver](https://www.davidsilver.uk/teaching/): This course provides an introduction to the RL framework and covers key algorithms, including value and policy iteration, Q-learning, and SARSA, as well as more recent developments such as deep RL and actor-critic methods.
+
+* [CS234: Reinforcement Learning — Stanford University by Emma Brunskill](https://web.stanford.edu/class/cs234/): This class will provide a solid introduction to the field of reinforcement learning and students will learn about the core challenges and approaches, including generalization and exploration ([Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)).
+
+* [CS885: Reinforcement Learning — University of Waterloo by Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring20/index.html): The course introduces students to the design of algorithms that enable machines to learn based on reinforcements. At the end of the course, students should have the ability to: (1) Model tasks as reinforcement learning problems, (2) Identify suitable algorithms and apply them to different reinforcement learning problems, and (3) Design new reinforcement learning algorithms ([Videos](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc)). 
+
+* [CS 285 — Deep Reinforcement Learning- UC Berkeley by Sergey Levine](http://rail.eecs.berkeley.edu/deeprlcourse/): The topics covered in this course are: Introduction to Reinforcement Learning, Policy Gradients, Actor-Critic Algorithms, Value Function Methods, Deep RL with Q-Functions, Advanced Policy Gradients, Optimal Control and Planning, Model-Based Reinforcement Learning, Offline Reinforcement Learning, Reinforcement Learning Theory Basics, Variational Inference and Generative Models, The connection between Inference and Control, Inverse Reinforcement Learning, Meta-Learning and Transfer Learning ([Videos 2022](https://www.youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9), [Fall 2019](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A), [Fall 2020](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc))
+
+* [Reinforcement Learning Course at ASU, Spring, 2021 by Dimitri Bertsekas](http://web.mit.edu/dimitrib/www/RLbook.html): The primary emphasis of the course is to encourage graduate research in reinforcement learning through directed reading and interactions with the instructor over zoom. [Videos](https://www.youtube.com/playlist?list=PLmH30BG15SIp79JRJ-MVF12uvB1qPtPzn)

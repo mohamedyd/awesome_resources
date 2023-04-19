@@ -1,0 +1,3 @@
+# XAI Books
+
+* [A Guide for Making Black Box Models Explainable (Free ebook)](https://christophm.github.io/interpretable-ml-book/): the focus of the book is on model-agnostic methods for interpreting black box models such as feature importance and accumulated local effects, and explaining individual predictions with Shapley values and LIME. In addition, the book presents methods specific to deep neural networks.
