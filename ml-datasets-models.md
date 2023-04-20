@@ -1,11 +1,11 @@
 # Datasets, Pretrained Models, and ML Problems
 
-| |
-|-|
-| [Large Language Models](#large-language-models) |
-| [ML & DL](#ml--dl) |
-| [Data-Centric AI](#data-centric-ai) |
-| [Datasets](#datasets) |
+This page contains plenty of resources, including pretrained models, datasets, and ML problems for learning purposes. 
+
+* [Large Language Models](#large-language-models) 
+* [ML & DL](#ml--dl) 
+* [Data-Centric AI](#data-centric-ai)
+* [Datasets](#datasets) 
 
 
 

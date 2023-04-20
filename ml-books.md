@@ -1,14 +1,14 @@
 # ML Books
 
-| |
-|-|
-| [𝑼𝒏𝒅𝒆𝒓𝒔𝒕𝒂𝒏𝒅𝒊𝒏𝒈 𝑩𝒖𝒔𝒔𝒊𝒏𝒆𝒔 𝑷𝒓𝒐𝒃𝒍𝒆𝒎](#𝑼𝒏𝒅𝒆𝒓𝒔𝒕𝒂𝒏𝒅𝒊𝒏𝒈-𝑩𝒖𝒔𝒔𝒊𝒏𝒆𝒔-𝑷𝒓𝒐𝒃𝒍𝒆𝒎) |
-| [𝑫𝒂𝒕𝒂 𝑪𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏](#𝑫𝒂𝒕𝒂-𝑪𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏) |
-| [𝑫𝒂𝒕𝒂 Exploration & 𝑷𝒓𝒆𝒑𝒂𝒓𝒂𝒕𝒊𝒐𝒏](#𝑫𝒂𝒕𝒂-exploration--𝑷𝒓𝒆𝒑𝒂𝒓𝒂𝒕𝒊𝒐𝒏) |
-| [ML & DL Models](#ml-and-dl-models) |
-| [Large Language Models](#large-language-models) |
-| [𝑫𝒂𝒕𝒂 𝑺𝒕𝒐𝒓𝒚𝒕𝒆𝒍𝒍𝒊𝒏𝒈](#𝑫𝒂𝒕𝒂-𝑺𝒕𝒐𝒓𝒚𝒕𝒆𝒍𝒍𝒊𝒏𝒈) |
-| [ML Interviews](#interviews) |
+This page comprises plenty of books in various topics, including:
+
+* [𝑼𝒏𝒅𝒆𝒓𝒔𝒕𝒂𝒏𝒅𝒊𝒏𝒈 𝑩𝒖𝒔𝒔𝒊𝒏𝒆𝒔 𝑷𝒓𝒐𝒃𝒍𝒆𝒎](#𝑼𝒏𝒅𝒆𝒓𝒔𝒕𝒂𝒏𝒅𝒊𝒏𝒈-𝑩𝒖𝒔𝒔𝒊𝒏𝒆𝒔-𝑷𝒓𝒐𝒃𝒍𝒆𝒎) 
+* [𝑫𝒂𝒕𝒂 𝑪𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏](#𝑫𝒂𝒕𝒂-𝑪𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏) 
+* [𝑫𝒂𝒕𝒂 Exploration & 𝑷𝒓𝒆𝒑𝒂𝒓𝒂𝒕𝒊𝒐𝒏](#𝑫𝒂𝒕𝒂-exploration--𝑷𝒓𝒆𝒑𝒂𝒓𝒂𝒕𝒊𝒐𝒏) 
+* [ML & DL Models](#ml-and-dl-models) 
+* [Large Language Models](#large-language-models) 
+* [𝑫𝒂𝒕𝒂 𝑺𝒕𝒐𝒓𝒚𝒕𝒆𝒍𝒍𝒊𝒏𝒈](#𝑫𝒂𝒕𝒂-𝑺𝒕𝒐𝒓𝒚𝒕𝒆𝒍𝒍𝒊𝒏𝒈) 
+* [ML Interviews](#interviews) 
 
 
 

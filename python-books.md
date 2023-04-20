@@ -1,4 +1,4 @@
-# Python Books
+# Python Books and Articles
 
 * [Python Crash Course](https://www.amazon.de/-/en/Eric-Matthes-dp-1718502702/dp/1718502702/ref=dp_ob_title_bk):  A Hands-On, Project-Based Introduction to Programming Book by Eric Matthes. This is a comprehensive introduction to Python programming that emphasizes hands-on learning and project-based approach.
 
@@ -18,3 +18,5 @@
 ## Python Articles & Notes
 
 * [12 Python Decorators to Take Your Code to the Next Level](https://towardsdatascience.com/12-python-decorators-to-take-your-code-to-the-next-level-a910a1ab3e99): This post is a documented list of 12 helpful decorators I regularly use in my projects to extend my code with extra functionalities.
+
+* [Python Projects with Source Code](https://thecleverprogrammer.com/2021/01/14/python-projects-with-source-code/): If you’re a newbie to Python where you’ve just learned lists, tuples, dictionaries, and some basic Python modules like the random module, here are some Python projects with source code for beginners.

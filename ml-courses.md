@@ -1,11 +1,10 @@
 # ML Courses
 
-| |
-|-|
-| [Large Language Models](#large-language-models) |
-| [Deep Learning](#deep-learning) |
-| [Machine Learning](#machine-learning) |
-| [Data Engineering ](#data-engineering) |
+This page contains plenty of courses in various topics, including:
+* [Large Language Models](#large-language-models)
+* [Deep Learning](#deep-learning) 
+* [Machine Learning](#machine-learning) 
+* [Data Engineering ](#data-engineering) 
 
  
 ## Large Language Models
