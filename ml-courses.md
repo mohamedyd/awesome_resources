@@ -28,6 +28,8 @@ This page contains plenty of courses in various topics, including:
 
 ## Deep Learning
 
+* [Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ): This practical course introduces the main concepts of deep learning models through teaching you how to implement them from scrtach. 
+
 * [Introduction to Deep Learning and Generative Modeling by Sebastian Raschka](https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
 
 * [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF): In this lecture series,  research scientists from leading AI research lab, DeepMind, delivered 12 lectures on an exciting selection of topics in Deep Learning, ranging from the fundamentals of training neural networks via advanced ideas around memory, attention, and generative modelling to the important topic of responsible innovation.
