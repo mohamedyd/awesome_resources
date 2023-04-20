@@ -28,7 +28,7 @@ This page contains plenty of courses in various topics, including:
 
 ## Deep Learning
 
-* [Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ): This practical course introduces the main concepts of deep learning models through teaching you how to implement them from scrtach. 
+* [Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ): This practical course introduces the main concepts of deep learning models, including WaveNet and GPT, through teaching you how to implement them from scrtach. 
 
 * [Introduction to Deep Learning and Generative Modeling by Sebastian Raschka](https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
 
