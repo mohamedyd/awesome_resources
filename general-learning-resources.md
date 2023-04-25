@@ -22,3 +22,5 @@
 ## Articles
 
 * [What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html): A set of tips for creating a professional resume and cover letter.
+
+* [AI Research and Development Index Report 2023 by Stanford](https://drive.google.com/file/d/12-fd8vuF8BSSKc1GMjmNC-yoIb6azmzB/view?usp=sharing)

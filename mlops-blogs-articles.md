@@ -1,5 +1,7 @@
 # MLOps Blogs and Articles
 
+* [MLOps Playbook](https://drive.google.com/file/d/1j0DULdg4H3XIUZsagW1NYgBOEEKfmkzc/view?usp=sharing): This playbook brings together our experiences working with algorithm developers to make machine learning a normal part of operations. It won’t cover the algorithm development itself - that is the work of the data scientists. Instead it covers what you need to consider when providing the architecture, tools and infrastructure to support their work and integrate their outputs into the business.
+
 * [applied-ml](https://github.com/eugeneyan/applied-ml): Curated papers, articles, and blogs on data science & machine learning in production
 
 * [An MLOps story: how Wayflyer creates ML model cards](https://www.evidentlyai.com/blog/how-wayflyer-creates-ml-model-cards): Keep reading to learn more about: ML applications at Wayflyer, how they create ML model cards using open-source tools, what each ML model card contains, how they incorporate data quality and drift analysis, why the model card is a great tool to adopt early in the MLOps journey, and even what Stable Diffusion has to do with it!
@@ -46,7 +48,9 @@
 
 * [Deep Learning Blogs: 10 Weeks MLOps course](https://www.ravirajag.dev/blog): The goal of the series is to understand the basics of MLOps (model building, monitoring, configurations, testing, packaging, deployment, cicd).
 
-* [A tutorial on building ML and data monitoring dashboards with Evidently and Streamlit](https://www.evidentlyai.com/blog/ml-model-monitoring-dashboard-tutorial): In this tutorial, you will go through an example of creating and customizing an ML monitoring dashboard using the two open-source libraries. 
+* [A tutorial on building ML and data monitoring dashboards with Evidently and Streamlit](https://www.evidentlyai.com/blog/ml-model-monitoring-dashboard-tutorial): In this tutorial, you will go through an example of creating and customizing an ML monitoring dashboard using the two open-source libraries.
+
+* [Build Reliable Machine Learning Pipelines with Continuous Integration](https://towardsdatascience.com/build-reliable-machine-learning-pipelines-with-continuous-integration-ea822eb09bf6): This article will show you the benefits of implementing continuous integration in your machine learning project, along with step-by-step instructions on how to set it up. (Video)[https://www.youtube.com/watch?v=rkg09nNMAhs]
 
 
 ## MLOps OSS Tools

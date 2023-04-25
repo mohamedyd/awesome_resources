@@ -30,6 +30,8 @@
 
 * [Python_reference](https://github.com/rasbt/python_reference): The content of this repo covers: Python tips and tutorials, Algorithms and Data Structures, Plotting and Visualization, Data Science, and more.
 
+* [Full Speed Python](https://github.com/joaoventura/full-speed-python): This book aims to teach the Python programming language using a practical approach. Its method is quite simple: after a short introduction to each topic, the reader is invited to learn more by solving the proposed exercises.
+
 
 ## AI-related Repos
 
