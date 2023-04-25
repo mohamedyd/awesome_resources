@@ -1,5 +1,7 @@
 # Courses
 
+* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses): List of Computer Science courses with video lectures.
+
 * [Computer Science courses with video lectures](https://github.com/youssefHosni/cs-video-courses): This repo includes plenty of courses in different CS areas.
 
 * [FCIH OCW](https://www.youtube.com/user/FCIHOCW): Aset of courses, by Dr Waleed Yousef, about different topics in Computer Science.

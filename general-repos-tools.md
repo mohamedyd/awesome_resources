@@ -13,3 +13,5 @@
 * [Connected Papers](https://www.connectedpapers.com/): Connected Papers allows you to easily navigate the landscape of papers on a given theme. It also ranks the papers that are most relevant to a given input paper. It's excellent for compiling a 'reading list' when researching a particular topic.
 
 * [Semantic Scholar](https://lnkd.in/dKkGMeXw) Finding & Synthesizing Literature. Get access to 200 million research papers, discover links between topics, get recommendations based on recent searches and generate summaries.
+
+* [layoff-runbook](https://github.com/derwiki/layoff-runbook): Being laid off can be overwhelming and it's easy to miss important tasks. This runbook will help make sure you stay on track.

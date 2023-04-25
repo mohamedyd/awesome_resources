@@ -9,9 +9,14 @@ This page contains plenty of courses in various topics, including:
  
 ## Large Language Models
 
+* [ChatGPT Course – Use The OpenAI API to Code 5 Projects](https://www.youtube.com/watch?v=uRQH2CFvedY): Learn how to use the OpenAI API to create five projects, including a ChatGPT clone, a DALL-E Image Creator, and a SQL Generator. This is a dive deep into the world of the OpenAI API, exploring its diverse capabilities and potential applications.
+
+
 * [HuggingFace Transformers Course](https://huggingface.co/course/chapter1/1): This course will teach you about natural language processing (NLP) using libraries from the Hugging Face ecosystem — Transformers, Datasets, Tokenizers, and Accelerate — as well as the Hugging Face Hub. It’s completely free and without ads.
 
 * [ChatGPT and Large Language Models (LLMs): A Practical Guide](https://zerotomastery.io/courses/large-language-models/): This course is designed to give you a deep understanding of how to use LLMs like ChatGPT, and how they work under-the-hood. That means you'll learn about concepts like Prompt Design and Fine-Tuning so that you understand how models are trained and even how to train your own model.
+
+* [LangChain](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5): LangChain is a framework for developing applications powered by language models. In short, it allows you to connect the OpenAI API to Google Drive, Gmail, or YouTube API.
 
 * [MIT Future of AI is Foundation Models & Self-Supervised Learning](https://www.futureofai.mit.edu/): In this non-technical series of lectures, we will start with the history of AI, then with what supervised learning and reinforcement learning is missing, and conclude with the deep practical and foundational implications of self-supervised learning and foundation models.
 
@@ -27,6 +32,8 @@ This page contains plenty of courses in various topics, including:
 
 
 ## Deep Learning
+
+* [Practical Deep Learning for Coders - part 2](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP): In this course, containing over 30 hours of video content, we implement the astounding Stable Diffusion algorithm from scratch! That’s the killer app that made the internet freak out, and caused the media to say “you may never believe what you see online again”.
 
 * [Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ): This practical course introduces the main concepts of deep learning models, including WaveNet and GPT, through teaching you how to implement them from scrtach. 
 

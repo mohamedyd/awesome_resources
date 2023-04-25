@@ -21,6 +21,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 * [𝐋𝐚𝐧𝐠𝐜𝐡𝐚𝐢𝐧 101: 𝐄𝐚𝐬𝐢𝐞𝐬𝐭 𝐰𝐚𝐲 𝐭𝐨 𝐛𝐮𝐢𝐥𝐝 𝐋𝐋𝐌 𝐚𝐩𝐩𝐬](https://docs.langchain.com/docs/): LangChain is a framework for developing applications powered by language models. Currrent use cases are Personal assistants, Question answering over database(s), Chatbots, Querying tabular data, Interacting with APIs, Model Evaluation. [Git Repo](https://lnkd.in/dSp5n3Sa), [Cookbook by Gregory Kamradt(Easy way to get started)](https://lnkd.in/dqQGMW5u), [Youtube Tutorials](https://lnkd.in/dh3rGuch)
 
+* [FastChat](https://github.com/lm-sys/FastChat): An open platform for training, serving, and evaluating large language model based chatbots. The platform includes the Vicuña - an open-source chatbot based on Python created by a team of researchers from UC Berkeley, CMU, Stanford, and UC San Diego.
+
 * [GPT4All](https://github.com/nomic-ai/gpt4all): Demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa
 
 * [Hugging Face](https://huggingface.co/): A list of datasets and pretrained-models for different ML applications
