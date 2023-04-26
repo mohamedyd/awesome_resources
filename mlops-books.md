@@ -1,5 +1,7 @@
 # MLOps Books
 
+* [My MLOps bookshelf by Antonio Feregrino](https://medium.com/softwareydata/my-mlops-bookshelf-c27f6e29370d):MLOps book recommendation with providing his personal reviews of the MLOps books, which he already read. 
+
 * [Designing Machine Learning Systems, Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/): Why does 9/10 models never make it to production? Read this book and compare to how ML is done at most companies, then you know… Highly recommended!
 
 * [Machine Learning Engineering by Andriy Burkov](http://www.mlebook.com/wiki/doku.php?id=start): This book is available as a read-first-buy-later principle.
