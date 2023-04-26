@@ -1,3 +1,5 @@
+![](Images/1682490610035.jpg)
+
 # MLOps Books
 
 * [My MLOps bookshelf by Antonio Feregrino](https://medium.com/softwareydata/my-mlops-bookshelf-c27f6e29370d):MLOps book recommendation with providing his personal reviews of the MLOps books, which he already read. 
