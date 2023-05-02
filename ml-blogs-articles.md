@@ -10,6 +10,8 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 * [Large Language Model Cheatsheet](https://docs.google.com/presentation/d/1ytGfwc8tIKolDQ_jMOmhWVC8t41klYa5/edit?usp=share_link&ouid=100484802817147345492&rtpof=true&sd=true): three slides summairzing the main ideas and concepts of large language models.
 
+* [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide): A curated (still actively updated) list of practical guide resources of LLMs. It's based on our survey paper.
+
 * [How to train your own Large Language Models?](https://blog.replit.com/llm-training): The blog post explains how to train your own custom large language models, using MosaicML, Databricks, and Hugging Face. 
 
 * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html): This awesome post consists of three parts:

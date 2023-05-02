@@ -4,6 +4,8 @@
 
 * [applied-ml](https://github.com/eugeneyan/applied-ml): Curated papers, articles, and blogs on data science & machine learning in production
 
+* [MLOps Best Practices You Should Know](https://www.kdnuggets.com/2023/04/mlops-best-practices-know.html): a few best MLOps practices to achieve the best workflow.
+
 * [An MLOps story: how Wayflyer creates ML model cards](https://www.evidentlyai.com/blog/how-wayflyer-creates-ml-model-cards): Keep reading to learn more about: ML applications at Wayflyer, how they create ML model cards using open-source tools, what each ML model card contains, how they incorporate data quality and drift analysis, why the model card is a great tool to adopt early in the MLOps journey, and even what Stable Diffusion has to do with it!
 
 * [MLOps 101: The Foundation for Your AI Strategy](https://www.datarobot.com/mlops-101/): This articile nicely introduces the concept of MLOps and its main pillars, including model deployment, model monitoring, model lifecycle management, and production model governance.
