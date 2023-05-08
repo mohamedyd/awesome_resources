@@ -15,3 +15,5 @@
 * [Semantic Scholar](https://lnkd.in/dKkGMeXw) Finding & Synthesizing Literature. Get access to 200 million research papers, discover links between topics, get recommendations based on recent searches and generate summaries.
 
 * [layoff-runbook](https://github.com/derwiki/layoff-runbook): Being laid off can be overwhelming and it's easy to miss important tasks. This runbook will help make sure you stay on track.
+
+* [awesome-ds-setting](https://github.com/RamiKrispin/awesome-ds-setting): The author documents default data science settings and tools he typically used. That includes installing programming languages such as R, Julia, and Python and their supporting IDEs RStudio and VScode. In addition, set the terminal, git, and install supporting tools such as iTerm2, oh-my-zsh, Docker, etc.
