@@ -11,6 +11,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [StarCoder](https://huggingface.co/bigcode/starcoder): StarCoder is the first large model (15B) which is both *high performance* (beating the like of PaLM, LLaMa, CodeGen or OpenAI code-crushman-001 on code generation) and also trained *only* on carefully vetted data (only permissive code licences, comprehensive PII removing).
+
 * [Chat with Open Large Language Models](https://chat.lmsys.org/): The Chatbot Arena by FastChat enables sending a query to two LLMs in parallel and getting the answers side by side. The Chatbot Arena currently supports nine open-source LLMs, such as StableLM, LLaMA, Dolly, Alpaca, etc.
 
 * [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT): Auto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model. Its main features are (1) Internet access for searches and information gathering, (2) Long-Term and Short-Term memory management, (3) GPT-4 instances for text generation, (4) Access to popular websites and platforms, and (5) File storage and summarization with GPT-3.5.(article: [Intro to Auto-GPT](https://autogpt.net/autogpt-step-by-step-full-setup-guide/), Videos: [Install Auto-GPT Locally](https://www.youtube.com/watch?app=desktop&v=0m0AbdoFLq4), [Create Your Personal AI Assistant](https://www.youtube.com/watch?app=desktop&v=jn8n212l3PQ)) Note: some practitioners reported that Auto-GPT fails to carry out 80% of the assigned tasks (date: April 17, 2023).
