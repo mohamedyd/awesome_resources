@@ -62,3 +62,5 @@
 * [ClearML](https://clear.ml/): with ClearML, you can easily develop, orchestrate, and automate ML workflows at scale. The free plan enables the following tools: experiment management, model repository, artifacts, dataset versioning, pipelines, agent orchestration, CI/CD automation, reports.
 
 * [flyte](https://github.com/flyteorg/flyte): Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
+
+* [Build your MLOps stack](https://mymlops.com/): Design your stack based on our template. Learn about the tools, when to use them and pitfalls to watch out for.
