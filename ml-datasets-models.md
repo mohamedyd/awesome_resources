@@ -11,7 +11,7 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
-* [StarCoder](https://huggingface.co/bigcode/starcoder): StarCoder is the first large model (15B) which is both *high performance* (beating the like of PaLM, LLaMa, CodeGen or OpenAI code-crushman-001 on code generation) and also trained *only* on carefully vetted data (only permissive code licences, comprehensive PII removing).
+* [StarCoder](https://huggingface.co/bigcode/starcoder): StarCoder is the first large model (15B) which is both high performance (beating the like of PaLM, LLaMa, CodeGen or OpenAI code-crushman-001 on code generation) and also trained only on carefully vetted data.
 
 * [Chat with Open Large Language Models](https://chat.lmsys.org/): The Chatbot Arena by FastChat enables sending a query to two LLMs in parallel and getting the answers side by side. The Chatbot Arena currently supports nine open-source LLMs, such as StableLM, LLaMA, Dolly, Alpaca, etc.
 
