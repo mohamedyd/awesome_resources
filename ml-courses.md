@@ -9,8 +9,9 @@ This page contains plenty of courses in various topics, including:
  
 ## Large Language Models
 
-* [ChatGPT Course – Use The OpenAI API to Code 5 Projects](https://www.youtube.com/watch?v=uRQH2CFvedY): Learn how to use the OpenAI API to create five projects, including a ChatGPT clone, a DALL-E Image Creator, and a SQL Generator. This is a dive deep into the world of the OpenAI API, exploring its diverse capabilities and potential applications.
+* [ChatGPT Prompt Engineering for Developers by Andrew Ng and Isa Fulford](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): Learn prompt engineering best practices for application development
 
+* [ChatGPT Course – Use The OpenAI API to Code 5 Projects](https://www.youtube.com/watch?v=uRQH2CFvedY): Learn how to use the OpenAI API to create five projects, including a ChatGPT clone, a DALL-E Image Creator, and a SQL Generator. This is a dive deep into the world of the OpenAI API, exploring its diverse capabilities and potential applications.
 
 * [HuggingFace Transformers Course](https://huggingface.co/course/chapter1/1): This course will teach you about natural language processing (NLP) using libraries from the Hugging Face ecosystem — Transformers, Datasets, Tokenizers, and Accelerate — as well as the Hugging Face Hub. It’s completely free and without ads.
 
