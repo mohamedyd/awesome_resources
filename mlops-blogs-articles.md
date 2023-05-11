@@ -24,6 +24,8 @@
 
 * [Awesome-mlops-tools](https://github.com/kelvins/awesome-mlops#data-processing): A curated list of awesome MLOps tools 
 
+* [Awesome MLOps](https://github.com/awesome-mlops): Curated lists of awesome open source and commercial MLOps platforms and tools
+
 * [MLOps.toys](https://mlops.toys/): A curated list of MLOps projects, tools and resources.
 
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning): This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning.
