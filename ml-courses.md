@@ -9,6 +9,8 @@ This page contains plenty of courses in various topics, including:
  
 ## Large Language Models
 
+* [LLM Bootcamp - Spring 2023 The Full Stack](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ): The course teaches you launching your first LLM app, foundational knowledge for LLMs, performing knowledge retrieval, and deploying these models to production.
+
 * [ChatGPT Prompt Engineering for Developers by Andrew Ng and Isa Fulford](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): Learn prompt engineering best practices for application development
 
 * [ChatGPT Course – Use The OpenAI API to Code 5 Projects](https://www.youtube.com/watch?v=uRQH2CFvedY): Learn how to use the OpenAI API to create five projects, including a ChatGPT clone, a DALL-E Image Creator, and a SQL Generator. This is a dive deep into the world of the OpenAI API, exploring its diverse capabilities and potential applications.
