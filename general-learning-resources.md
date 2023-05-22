@@ -1,5 +1,7 @@
 # Learning Resources
 
+* [crème de la crème of AI courses](https://github.com/SkalskiP/courses): This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI). Whether you're a beginner or an experienced learner, there's something here for everyone!
+
 * [PyData](https://www.youtube.com/@PyDataTV/about): PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. PyData communities approach data science using many languages, including (but not limited to) Python, Julia, and R.
 
 * [Data-Science-Educational-Resoruces, Youssef Hosni](https://github.com/youssefHosni/Data-Science-Educational-Resoruces): The repository covers all the data science theoretical and practical skills, e.g., data collection, data prepration, computer vision, MLOps, etc.
