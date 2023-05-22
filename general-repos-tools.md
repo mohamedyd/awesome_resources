@@ -1,7 +1,5 @@
 # Repos & Tools
 
-* [Scikit-LLM: Sklearn Meets Large Language Models](https://github.com/iryna-kondr/scikit-llm): Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.
-
 * [ChatPDF](https://www.chatpdf.com/): ChatPDF is a tool that enables users to interact with their PDF documents as if it were a human. 
 
 * [Perplexity AI](https://www.perplexity.ai/): Ask anything tool (similar to chatGPT). It leverages LLMs with scientific papers, blogs, and other resources to provide precise and compact answers. It enables follow up questions, but it does not store the questions/answers, like in the case of chatGPT.
