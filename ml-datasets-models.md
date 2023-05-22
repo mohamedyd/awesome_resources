@@ -11,6 +11,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [Scikit-LLM: Sklearn Meets Large Language Models](https://github.com/iryna-kondr/scikit-llm): Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.
+
 * [StarCoder](https://huggingface.co/bigcode/starcoder): StarCoder is the first large model (15B) which is both high performance (beating the like of PaLM, LLaMa, CodeGen or OpenAI code-crushman-001 on code generation) and also trained only on carefully vetted data.
 
 * [Practical Guides for Large Language Models ](https://github.com/Mooler0410/LLMsPracticalGuide): A curated (still actively updated) list of practical guide resources of LLMs
