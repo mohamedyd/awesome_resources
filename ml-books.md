@@ -41,6 +41,8 @@ This page comprises plenty of books in various topics, including:
 
 ## ML and DL Models
 
+* [Machine Learning Bookcamp by Alexey Grigorev](https://www.manning.com/books/machine-learning-bookcamp):  Learn machine learning by doing projects and get the skills needed to work as a data scientist or machine learning engineer. ([Source code](https://github.com/alexeygrigorev/mlbookcamp-code))
+
 * [Dive into Deep Learning](https://d2l.ai/): Interactive deep learning book with code, math, and discussions. Implemented with PyTorch, NumPy/MXNet, JAX, and TensorFlow
 
 * [𝐇𝐚𝐧𝐝𝐬-𝐎𝐧 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐒𝐜𝐢𝐤𝐢𝐭-𝐋𝐞𝐚𝐫𝐧 𝐚𝐧𝐝 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰, 3rd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/): The book has a unique approach. It usually starts with a high-level description of different ML concepts to give a general idea; then you go through hands-on coding with Python libraries. It breaks down the algorithms in a nice way that balances the needed theory and mathematics, and applied concepts.
