@@ -9,6 +9,8 @@ This page contains plenty of courses in various topics, including:
  
 ## Large Language Models
 
+* [State of GPT by Andrej Karpathy](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2): Learn about the training pipeline of GPT assistants like ChatGPT, from tokenization to pretraining, supervised finetuning, and Reinforcement Learning from Human Feedback (RLHF). Dive deeper into practical techniques and mental models for the effective use of these models, including prompting strategies, finetuning, the rapidly growing ecosystem of tools, and their future extensions.
+
 * [LLM Bootcamp - Spring 2023 The Full Stack](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ): The course teaches you launching your first LLM app, foundational knowledge for LLMs, performing knowledge retrieval, and deploying these models to production.
 
 * [ChatGPT Prompt Engineering for Developers by Andrew Ng and Isa Fulford](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): Learn prompt engineering best practices for application development
