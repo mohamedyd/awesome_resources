@@ -38,6 +38,8 @@ This page contains plenty of courses in various topics, including:
 
 ## Deep Learning
 
+* [ Computer Vision in Practice by Roboflow](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R): Bundle of video tutorials showing how to train Computer Vision models and how to use them in practice.
+
 * [Practical Deep Learning for Coders - part 2](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP): In this course, containing over 30 hours of video content, we implement the astounding Stable Diffusion algorithm from scratch! That’s the killer app that made the internet freak out, and caused the media to say “you may never believe what you see online again”.
 
 * [Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ): This practical course introduces the main concepts of deep learning models, including WaveNet and GPT, through teaching you how to implement them from scrtach. 
