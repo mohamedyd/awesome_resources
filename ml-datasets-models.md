@@ -11,6 +11,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [List of Open Sourced Fine-Tuned Large Language Models (LLM)](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76): An incomplete list of open-sourced fine-tuned Large Language Models (LLM) you can run locally on your computer. You can have most up and running for less than $100, including training dataset and GPU costs. 
+
 * [Scikit-LLM: Sklearn Meets Large Language Models](https://github.com/iryna-kondr/scikit-llm): Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.
 
 * [StarCoder](https://huggingface.co/bigcode/starcoder): StarCoder is the first large model (15B) which is both high performance (beating the like of PaLM, LLaMa, CodeGen or OpenAI code-crushman-001 on code generation) and also trained only on carefully vetted data.
