@@ -8,6 +8,10 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 ## Large Language Models
 
+* [Understanding transformers from first principles](https://www.linkedin.com/pulse/understanding-transformers-from-first-principles-115-ajit-jaokar%3FtrackingId=52FlIkyVR6mEaV88UDnxNQ%253D%253D/?trackingId=52FlIkyVR6mEaV88UDnxNQ%3D%3D): In this blog post, the author explains the concept of transformers from first principles.
+
+* [Few go-to resources to Understand LLMs / GenAIs ?](https://www.linkedin.com/posts/prabakaranchandrantheds_ai-python-computervision-activity-7081346854528954368-i4B1/?utm_source=share&utm_medium=member_ios): Four learning resources to learn the fundamentals of Deep learning and to understand the basics of LLMs/GenAIs.
+
 * [From Novice to Expert: A Comprehensive Step-by-Step Study Plan for Mastering LLMs](https://pub.towardsai.net/from-novice-to-expert-a-comprehensive-step-by-step-study-plan-for-mastering-llms-dc9feb60ecc4): this article presents a step-by-step study plan to guide you from a novice to an expert in LLMs.
 
 * [transformers](https://github.com/0xsanny/transformers): A collection of resources to study Transformers in depth. 
