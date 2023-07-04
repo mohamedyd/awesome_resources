@@ -37,6 +37,8 @@ This page contains plenty of courses in various topics, including:
 
 
 ## Deep Learning
+ 
+* [Deep Learning & Reinforcement Learning by Chris G. Willcocks](https://cwkx.github.io/teaching.html): Two courses discussing the basics and advanced topics in deep learning, generative AI, and reinforcement learning.
 
 * [ Computer Vision in Practice by Roboflow](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R): Bundle of video tutorials showing how to train Computer Vision models and how to use them in practice.
 
