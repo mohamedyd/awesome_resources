@@ -8,6 +8,12 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 ## Large Language Models
 
+* [transformers](https://github.com/0xsanny/transformers): A collection of resources to study Transformers in depth. 
+
+* [LLMS_Library_2023](https://github.com/rashmimarganiatgithub/LLMS_Library_2023): a comprehensive repository serves as a one-stop resource hands-on code, insightful summaries, and other valuable resources. 
+
+* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): a curated list of LLMs resources.
+
 * [Prompt Engineering Guide](https://www.promptingguide.ai/):  A prompt engineering guide that contains all the latest papers, learning guides, models, lectures, references, new LLM capabilities, and tools related to prompt engineering.
 
 * [Large Language Model Cheatsheet](https://docs.google.com/presentation/d/1ytGfwc8tIKolDQ_jMOmhWVC8t41klYa5/edit?usp=share_link&ouid=100484802817147345492&rtpof=true&sd=true): three slides summairzing the main ideas and concepts of large language models.
