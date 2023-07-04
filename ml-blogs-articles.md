@@ -8,6 +8,8 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 ## Large Language Models
 
+* [From Novice to Expert: A Comprehensive Step-by-Step Study Plan for Mastering LLMs](https://pub.towardsai.net/from-novice-to-expert-a-comprehensive-step-by-step-study-plan-for-mastering-llms-dc9feb60ecc4): this article presents a step-by-step study plan to guide you from a novice to an expert in LLMs.
+
 * [transformers](https://github.com/0xsanny/transformers): A collection of resources to study Transformers in depth. 
 
 * [LLMS_Library_2023](https://github.com/rashmimarganiatgithub/LLMS_Library_2023): a comprehensive repository serves as a one-stop resource hands-on code, insightful summaries, and other valuable resources. 
