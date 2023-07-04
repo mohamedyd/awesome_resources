@@ -2,6 +2,8 @@
 
 * [Deploy LLMs with Hugging Face Inference Endpoints](https://huggingface.co/blog/inference-endpoints-llm): In this blog post, the authors show you how to deploy open-source LLMs to Hugging Face Inference Endpoints.
 
+* [ML system design: 200 case studies to learn from](https://www.evidentlyai.com/ml-system-design): a bunch of examples of how companies use machine learning: specific ML features and products they implement and run in production. Not just ideas or research directions - but what is actually in use.
+
 * [MLOps guide by Chip Huyen](https://huyenchip.com/mlops/): A collection of materials from introductory to advanced. This is roughly the path I’d follow if I were to start my MLOps journey again.
 
 * [MLOps Playbook](https://drive.google.com/file/d/1j0DULdg4H3XIUZsagW1NYgBOEEKfmkzc/view?usp=sharing): This playbook brings together our experiences working with algorithm developers to make machine learning a normal part of operations. It won’t cover the algorithm development itself - that is the work of the data scientists. Instead it covers what you need to consider when providing the architecture, tools and infrastructure to support their work and integrate their outputs into the business.
