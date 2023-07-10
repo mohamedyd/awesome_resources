@@ -10,6 +10,8 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 * [Do Foundation Model Providers Comply with the Draft EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html): In this article, the authors evaluate whether major foundation model providers currently comply with the draft requirements of the EU AI Act and find that they largely do not. 
 
+* [Introducing no-code LLM FineTuning with Monster API](https://blog.monsterapi.ai/no-code-fine-tuning-llm/): the article introduces a new no-code LLM FineTuning product, designed to simplify and expedite the fine-tuning process while providing you with all the capabilities and possibilities you need.
+
 * [Understanding transformers from first principles](https://www.linkedin.com/pulse/understanding-transformers-from-first-principles-115-ajit-jaokar%3FtrackingId=52FlIkyVR6mEaV88UDnxNQ%253D%253D/?trackingId=52FlIkyVR6mEaV88UDnxNQ%3D%3D): In this blog post, the author explains the concept of transformers from first principles.
 
 * [Few go-to resources to Understand LLMs / GenAIs ?](https://www.linkedin.com/posts/prabakaranchandrantheds_ai-python-computervision-activity-7081346854528954368-i4B1/?utm_source=share&utm_medium=member_ios): Four learning resources to learn the fundamentals of Deep learning and to understand the basics of LLMs/GenAIs.
