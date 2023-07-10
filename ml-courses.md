@@ -9,6 +9,10 @@ This page contains plenty of courses in various topics, including:
  
 ## Large Language Models
 
+* [Large Language Models: Application through Production by Databricks](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm): This course is aimed at developers, data scientists, and engineers looking to build LLM-centric applications with the latest and most popular frameworks. By the end of this course, you will have built an end-to-end LLM workflow that is ready for production!
+
+* [LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/): The course delves into two main topics: (1) Retrieval Augmented Generation (RAG), a common LLM application that retrieves contextual documents from an external dataset, and (2) a guide to building a chatbot that responds to queries based on the content of your documents, rather than the information it has learned in training.
+
 * [State of GPT by Andrej Karpathy](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2): Learn about the training pipeline of GPT assistants like ChatGPT, from tokenization to pretraining, supervised finetuning, and Reinforcement Learning from Human Feedback (RLHF). Dive deeper into practical techniques and mental models for the effective use of these models, including prompting strategies, finetuning, the rapidly growing ecosystem of tools, and their future extensions.
 
 * [LLM Bootcamp - Spring 2023 The Full Stack](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ): The course teaches you launching your first LLM app, foundational knowledge for LLMs, performing knowledge retrieval, and deploying these models to production.
