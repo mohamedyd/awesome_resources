@@ -1,4 +1,6 @@
 # XAI Repos & Tools
+ 
+* [𝗫𝗽𝗹𝗶𝗾𝘂𝗲](https://deel-ai.github.io/xplique/): Xplique is a Python library that aims to improve deep learning model explainability, by utilizing methods such as Grad-CAM and SHAP. Furthermore, the Xplique website includes numerous tutorials, so you can get started!
 
 * [ PiML-Toolbox](https://github.com/SelfExplainML/PiML-Toolbox): PiML is a new Python toolbox for interpretable ML model development and validation. Through low-code interface and high-code APIs, PiML supports a growing list of inherently interpretable ML models.
 
