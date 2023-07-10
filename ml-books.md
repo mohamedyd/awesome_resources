@@ -41,6 +41,8 @@ This page comprises plenty of books in various topics, including:
 
 ## ML and DL Models
 
+* [An Introduction to Statistical Learning with Applications in Python](https://hastie.su.domains/ISLP/ISLP_website.pdf): The first edition of the book ''An Introduction to Statistical Learning with Applications in R`` was published in 2013 and it became one of the most popular Machine Learning books and a reference book for Data Scientists.
+
 * [Machine Learning Bookcamp by Alexey Grigorev](https://www.manning.com/books/machine-learning-bookcamp):  Learn machine learning by doing projects and get the skills needed to work as a data scientist or machine learning engineer. ([Source code](https://github.com/alexeygrigorev/mlbookcamp-code))
 
 * [Dive into Deep Learning](https://d2l.ai/): Interactive deep learning book with code, math, and discussions. Implemented with PyTorch, NumPy/MXNet, JAX, and TensorFlow
