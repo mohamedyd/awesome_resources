@@ -13,6 +13,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 * [H2O LLM studio by H2O.ai](https://github.com/h2oai/h2o-llmstudio): no-code toolkit to finetune large language models for multiple downstream applications. It's equipped with multiple finetuning techniques, such as Low-Rank Adaptation (LoRA) and Reinforecement Learning (RL). It also allows to track and evaluate finetuning experiments using Neptune toolkit and import/export models with Hugging Face
 
+* [Open LLMs](https://github.com/eugeneyan/open-llms): a list of LLMs (Large Language Models) are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-M).
+
 * [List of Open Sourced Fine-Tuned Large Language Models (LLM)](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76): An incomplete list of open-sourced fine-tuned Large Language Models (LLM) you can run locally on your computer. You can have most up and running for less than $100, including training dataset and GPU costs. 
 
 * [Scikit-LLM: Sklearn Meets Large Language Models](https://github.com/iryna-kondr/scikit-llm): Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.
