@@ -10,6 +10,8 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 * [Do Foundation Model Providers Comply with the Draft EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html): In this article, the authors evaluate whether major foundation model providers currently comply with the draft requirements of the EU AI Act and find that they largely do not. 
 
+* [The complete guide to LLM fine-tuning](https://bdtechtalks.com/2023/07/10/llm-fine-tuning/): This article is part of Demystifying AI, a series of posts that (try to) disambiguate the jargon and myths surrounding AI.
+
 * [Large Language Models and the Future of Custom, Fine-tuned LLMs](https://outerbounds.com/blog/custom-llm-tuning/): A great article from Outerbounds, the company behind Metaflow, which explores instruction tuning for large language models. The authors discuss the rise of open-source LLMs, the role of commercial entities in the field, and the challenges of applying LLMs, including hardware access, real-world application, and ethical issues.
 
 * [Introducing no-code LLM FineTuning with Monster API](https://blog.monsterapi.ai/no-code-fine-tuning-llm/): the article introduces a new no-code LLM FineTuning product, designed to simplify and expedite the fine-tuning process while providing you with all the capabilities and possibilities you need.
