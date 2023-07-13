@@ -8,6 +8,8 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 ## Large Language Models
 
+* [The Generative AI Revolution: Exploring the Current Landscape](https://pub.towardsai.net/the-generative-ai-revolution-exploring-the-current-landscape-4b89998fcc5f): This post explains the journey of how it all started, where it is going, and some of the biggest players and most popular models in the Generative AI landscape today, along with real-world tools designed for users to optimize creation, ideation, development, and production processes.
+
 * [Do Foundation Model Providers Comply with the Draft EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html): In this article, the authors evaluate whether major foundation model providers currently comply with the draft requirements of the EU AI Act and find that they largely do not. 
 
 * [The complete guide to LLM fine-tuning](https://bdtechtalks.com/2023/07/10/llm-fine-tuning/): This article is part of Demystifying AI, a series of posts that (try to) disambiguate the jargon and myths surrounding AI.
