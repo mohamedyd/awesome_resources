@@ -13,7 +13,13 @@ This page contains plenty of courses in various topics, including:
 
 * [LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/): The course delves into two main topics: (1) Retrieval Augmented Generation (RAG), a common LLM application that retrieves contextual documents from an external dataset, and (2) a guide to building a chatbot that responds to queries based on the content of your documents, rather than the information it has learned in training.
 
+* [Prompt Engineering Course: How To Effectively Use ChatGPT & Other AI Language Models](https://www.youtube.com/playlist?list=PLYio3GBcDKsPP2_zuxEp8eCulgFjI5a3g): Learn the basics of prompt engineering, Gain an understanding of what makes a good & bad prompt, Find out how to create, evaluate, and refine your prompts, Learn about some advanced techniques that will help you make your outputs more random or funny, and much more!
+
+* [Learn the fundamentals of generative AI for real-world applications by Andrew Ng](https://www.deeplearning.ai/courses/generative-ai-with-llms/): Gain foundational knowledge, practical skills, and a functional understanding of how generative AI works.
+
 * [Hands-on training transformers by San Diego Machine Learning](https://www.youtube.com/playlist?list=PLmp4AHm0u1g0_dp3KViUFepC-xDsQIrS_): Get to understand the working of transformers which form the core of generative ai models. The training has 5 one hour long sessions on Understanding data preparation, Knowledge on pretraining models, Model finetuning for specific use-cases, and Inferencing and deployment strategies.
+
+* [Learn about AI Language Models and Reinforcement Learning](https://www.youtube.com/playlist?list=PLbzjzOKeYPCpp3NCeQioevM0YpZa5VqcS): From GPT-3.5-turbo to RL algorithms, this playlist covers everything you need to know about these cutting-edge technologies. Whether you're a student, a researcher, or a tech enthusiast, this playlist will expand your knowledge and help you stay up-to-date with the latest trends in AI.
 
 * [State of GPT by Andrej Karpathy](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2): Learn about the training pipeline of GPT assistants like ChatGPT, from tokenization to pretraining, supervised finetuning, and Reinforcement Learning from Human Feedback (RLHF). Dive deeper into practical techniques and mental models for the effective use of these models, including prompting strategies, finetuning, the rapidly growing ecosystem of tools, and their future extensions.
 
