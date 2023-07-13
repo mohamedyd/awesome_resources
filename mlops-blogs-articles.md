@@ -1,5 +1,7 @@
 # MLOps Blogs and Articles
 
+* [FMOps/LLMOps: Operationalize Generative AI using MLOps principles by AWS](https://www.twitch.tv/videos/1864781394): challenges and opportunities of opertionalizing large language models. 
+
 * [Deploy LLMs with Hugging Face Inference Endpoints](https://huggingface.co/blog/inference-endpoints-llm): In this blog post, the authors show you how to deploy open-source LLMs to Hugging Face Inference Endpoints.
 
 * [ML system design: 200 case studies to learn from](https://www.evidentlyai.com/ml-system-design): a bunch of examples of how companies use machine learning: specific ML features and products they implement and run in production. Not just ideas or research directions - but what is actually in use.
