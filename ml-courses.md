@@ -13,6 +13,8 @@ This page contains plenty of courses in various topics, including:
 
 * [LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/): The course delves into two main topics: (1) Retrieval Augmented Generation (RAG), a common LLM application that retrieves contextual documents from an external dataset, and (2) a guide to building a chatbot that responds to queries based on the content of your documents, rather than the information it has learned in training.
 
+* [100% Offline ChatGPT Alternative? by Rob Mulla](https://www.youtube.com/watch?v=Coj72EzmX20): In this video, Rob showed how he was able to install an open source Large Language Model (LLM) called h2oGPT on his local computer for 100% private, 100% local chat with a GPT.
+
 * [Prompt Engineering Course: How To Effectively Use ChatGPT & Other AI Language Models](https://www.youtube.com/playlist?list=PLYio3GBcDKsPP2_zuxEp8eCulgFjI5a3g): Learn the basics of prompt engineering, Gain an understanding of what makes a good & bad prompt, Find out how to create, evaluate, and refine your prompts, Learn about some advanced techniques that will help you make your outputs more random or funny, and much more!
 
 * [Learn the fundamentals of generative AI for real-world applications by Andrew Ng](https://www.deeplearning.ai/courses/generative-ai-with-llms/): Gain foundational knowledge, practical skills, and a functional understanding of how generative AI works.
