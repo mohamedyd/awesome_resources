@@ -8,6 +8,8 @@
 
 ## Generic Repos
 
+* [Setting Python Development Environment with VScode and Docker](https://github.com/RamiKrispin/vscode-python): This repo provides a step-by-step guide and a template for setting up a Python development environment with VScode and Docker. Docker is an amazing tool, but it has some learning curve. This tutorial aims to reduce the entry barrier for learning tools such as Docker.
+
 * [Complete Python 3 Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp): Course Files for Complete Python 3 Bootcamp Course on Udemy
 
 * [python-patterns](https://github.com/faif/python-patterns): A collection of design patterns and idioms in Python.
