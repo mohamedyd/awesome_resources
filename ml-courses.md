@@ -9,6 +9,8 @@ This page contains plenty of courses in various topics, including:
  
 ## Large Language Models
 
+* [Practical Large Language Models](https://www.youtube.com/playlist?list=PLB1nTQo4_y6ukBQYuQm0ZAmuj51hVMKrC): These are videos from a Practical LLM workshop organized by Aggregate Intellect. 
+
 * [Large Language Models: Application through Production by Databricks](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm): This course is aimed at developers, data scientists, and engineers looking to build LLM-centric applications with the latest and most popular frameworks. By the end of this course, you will have built an end-to-end LLM workflow that is ready for production!
 
 * [LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/): The course delves into two main topics: (1) Retrieval Augmented Generation (RAG), a common LLM application that retrieves contextual documents from an external dataset, and (2) a guide to building a chatbot that responds to queries based on the content of your documents, rather than the information it has learned in training.
