@@ -21,6 +21,8 @@ This page contains plenty of courses in various topics, including:
 
 * [Prompt Engineering Course: How To Effectively Use ChatGPT & Other AI Language Models](https://www.youtube.com/playlist?list=PLYio3GBcDKsPP2_zuxEp8eCulgFjI5a3g): Learn the basics of prompt engineering, Gain an understanding of what makes a good & bad prompt, Find out how to create, evaluate, and refine your prompts, Learn about some advanced techniques that will help you make your outputs more random or funny, and much more!
 
+* [LLM Avalanche by FunctionalTV](https://www.youtube.com/playlist?list=PLNESult6cnOmbG_Sh0Y6-PxWjDaxOuZVB): LLM Avalanche is a technical Large-Language Model (ChatGPT and the like) meetup held in San Francisco on Jun 26, 2023, preceding the Data+AI Summit.
+
 * [Learn the fundamentals of generative AI for real-world applications by Andrew Ng](https://www.deeplearning.ai/courses/generative-ai-with-llms/): Gain foundational knowledge, practical skills, and a functional understanding of how generative AI works.
 
 * [Hands-on training transformers by San Diego Machine Learning](https://www.youtube.com/playlist?list=PLmp4AHm0u1g0_dp3KViUFepC-xDsQIrS_): Get to understand the working of transformers which form the core of generative ai models. The training has 5 one hour long sessions on Understanding data preparation, Knowledge on pretraining models, Model finetuning for specific use-cases, and Inferencing and deployment strategies.
