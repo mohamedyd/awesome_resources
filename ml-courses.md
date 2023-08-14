@@ -9,6 +9,8 @@ This page contains plenty of courses in various topics, including:
  
 ## Large Language Models
 
+* [Generative AI learning path by Google](https://www.cloudskillsboost.google/journeys/118): This learning path guides you through a curated collection of content on generative AI products and technologies, from the fundamentals of Large Language Models to how to create and deploy generative AI solutions on Google Cloud.
+
 * [Practical Large Language Models](https://www.youtube.com/playlist?list=PLB1nTQo4_y6ukBQYuQm0ZAmuj51hVMKrC): These are videos from a Practical LLM workshop organized by Aggregate Intellect. 
 
 * [Getting Started with Generative AI](https://www.youtube.com/playlist?list=PLTzg8WR1gEHyngMtdoflAdQryg29-mPiL): In this video playlist, we will explore how we can use pre-trained models available in Hugging Face for Generative AI applications like Chat bot, Translation, Document Parsing, etc.
