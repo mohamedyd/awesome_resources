@@ -57,13 +57,13 @@ This page contains plenty of courses in various topics, including:
 
 * [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/):  In this course, students gain a thorough introduction to cutting-edge neural networks for NLP. I highly recommend the CS224N suggested reading list.
 
-* [Stanford XCS224U: Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp): This professional Stanford Online course draws on theoretical concepts from linguistics, natural language processing, and machine learning. Topics include domain adaptation for supervised sentiment, retrieval augmented in-context learning, advanced behavioral evolution, analysis methods, and NLP methods.
+* [Stanford XCS224U: Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp): This professional Stanford Online course draws on theoretical concepts from linguistics, natural language processing, and machine learning. Topics include domain adaptation for supervised sentiment, retrieval augmented in-context learning, advanced behavioral evolution, analysis methods, and NLP methods ([Source code](https://github.com/cgpotts/cs224u)).
 
 ## Deep Learning
  
 * [Deep Learning & Reinforcement Learning by Chris G. Willcocks](https://cwkx.github.io/teaching.html): Two courses discussing the basics and advanced topics in deep learning, generative AI, and reinforcement learning.
 
-* [ Computer Vision in Practice by Roboflow](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R): Bundle of video tutorials showing how to train Computer Vision models and how to use them in practice.
+* [Computer Vision in Practice by Roboflow](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R): Bundle of video tutorials showing how to train Computer Vision models and how to use them in practice.
 
 * [Practical Deep Learning for Coders - part 2](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP): In this course, containing over 30 hours of video content, we implement the astounding Stable Diffusion algorithm from scratch! That’s the killer app that made the internet freak out, and caused the media to say “you may never believe what you see online again”.
 
