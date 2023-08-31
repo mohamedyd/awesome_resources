@@ -10,6 +10,8 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 * [What are embeddings? A Book Review](https://medium.com/@raphael.mansuy/embeddings-the-foundation-of-modern-ai-1512f7ecbd6): What are Embeddings? is a comprehensive book written by Vicky Boykis under a Creative Commons license. The book provides a deep dive into the concept of embeddings.
 
+* [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e): This is actually a really good list of papers and reading materials on LLMs.
+
 * [The Generative AI Revolution: Exploring the Current Landscape](https://pub.towardsai.net/the-generative-ai-revolution-exploring-the-current-landscape-4b89998fcc5f): This post explains the journey of how it all started, where it is going, and some of the biggest players and most popular models in the Generative AI landscape today, along with real-world tools designed for users to optimize creation, ideation, development, and production processes.
 
 * [Do Foundation Model Providers Comply with the Draft EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html): In this article, the authors evaluate whether major foundation model providers currently comply with the draft requirements of the EU AI Act and find that they largely do not. 
@@ -59,6 +61,8 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 
 ## Traditional ML & DL
+
+* [ML Papers of The Week](https://github.com/dair-ai/ML-Papers-of-the-Week): The repo highlights some of the top trending ML papers every week.  
 
 * [ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained): Explanations to key concepts in ML.
 

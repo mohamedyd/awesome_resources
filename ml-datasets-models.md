@@ -11,7 +11,11 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/): Connecting your own data with LLMs is a superpower to make these models really performant and really useful, this is exactly where the LlamaIndex framework shines. 
+
 * [H2O LLM studio by H2O.ai](https://github.com/h2oai/h2o-llmstudio): no-code toolkit to finetune large language models for multiple downstream applications. It's equipped with multiple finetuning techniques, such as Low-Rank Adaptation (LoRA) and Reinforecement Learning (RL). It also allows to track and evaluate finetuning experiments using Neptune toolkit and import/export models with Hugging Face
+
+* [Prompt2Model - Generate Deployable Models from Instructions](https://github.com/neulab/prompt2model): Prompt2Model is a system that takes a natural language task description (like the prompts used for LLMs such as ChatGPT) to train a small special-purpose model that is conducive for deployment. 
 
 * [Open LLMs](https://github.com/eugeneyan/open-llms): a list of LLMs (Large Language Models) are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-M).
 
