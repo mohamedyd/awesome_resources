@@ -21,6 +21,10 @@ This page contains plenty of courses in various topics, including:
 
 * [Getting Started with Generative AI](https://www.youtube.com/playlist?list=PLTzg8WR1gEHyngMtdoflAdQryg29-mPiL): In this video playlist, we will explore how we can use pre-trained models available in Hugging Face for Generative AI applications like Chat bot, Translation, Document Parsing, etc.
 
+* [UMass CS685: Advanced Natural Language Processing (Spring 2023) by Mohit Iyyer](https://www.youtube.com/playlist?list=PLWnsVgP6CzaelCF_jmn5HrpOXzRAPNjWj): The course covers a lot of important topics critical to understanding generative ai and language models better N-Gram Models, Forward propagation in neural language models, Attention mechanisms and Transformer Language Models, Configuring transformer models and self attention models, Large Language Models, Parameter efficient adaptation and Instruction Tuning, Reinforecement Learning from Human Feedback (RHLF), Prompt engineering and augented LMs.
+
+* [LangChain & Vector Databases in Production](https://learn.activeloop.ai/courses/langchain): Activeloop team has created a no-nonsense, applied course teaching how to build Application on Top of Large Language Models. 
+
 * [Large Language Models: Application through Production by Databricks](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm): This course is aimed at developers, data scientists, and engineers looking to build LLM-centric applications with the latest and most popular frameworks. By the end of this course, you will have built an end-to-end LLM workflow that is ready for production!
 
 * [LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/): The course delves into two main topics: (1) Retrieval Augmented Generation (RAG), a common LLM application that retrieves contextual documents from an external dataset, and (2) a guide to building a chatbot that responds to queries based on the content of your documents, rather than the information it has learned in training.
@@ -149,6 +153,8 @@ This page contains plenty of courses in various topics, including:
 
 
 ## Data Engineering 
+
+* [Introduction to Data-Centric AI, MIT IAP 2023](https://www.youtube.com/playlist?list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5): A course by MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) talks about the focus on data over model Data Annotation and Label Errors, Dataset creation and curation, Class imbalance, outliers, and distribution shift, Growing datasets, Interpretability and evaluation, Data augmentation, privacy and security. 
 
 * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp): Week 1: Introduction & Prerequisites, Week 2: Workflow Orchestration, Week 3: Data Warehouse, Week 4: Analytics Engineering, Week 5: Batch processing, Week 6: Streaming, and Week 7, 8 & 9: Project
 

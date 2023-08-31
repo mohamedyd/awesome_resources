@@ -22,6 +22,8 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 * [The complete guide to LLM fine-tuning](https://bdtechtalks.com/2023/07/10/llm-fine-tuning/): This article is part of Demystifying AI, a series of posts that (try to) disambiguate the jargon and myths surrounding AI.
 
+* [LangChain: How to Build ChatGPT for Your Data](https://www.youtube.com/watch?v=Azfc-TjG9Tg): you will learn all about the key technologies that enable Generative AI practitioners like you to leverage LangChain for building complex LLM applications.  
+
 * [Large Language Models and the Future of Custom, Fine-tuned LLMs](https://outerbounds.com/blog/custom-llm-tuning/): A great article from Outerbounds, the company behind Metaflow, which explores instruction tuning for large language models. The authors discuss the rise of open-source LLMs, the role of commercial entities in the field, and the challenges of applying LLMs, including hardware access, real-world application, and ethical issues.
 
 * [Introducing no-code LLM FineTuning with Monster API](https://blog.monsterapi.ai/no-code-fine-tuning-llm/): the article introduces a new no-code LLM FineTuning product, designed to simplify and expedite the fine-tuning process while providing you with all the capabilities and possibilities you need.

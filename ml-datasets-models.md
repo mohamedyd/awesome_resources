@@ -8,7 +8,6 @@ This page contains plenty of resources, including pretrained models, datasets, a
 * [Datasets](#datasets) 
 
 
-
 ## Large Language Models
 
 * [Gorilla: Large Language Model Connected with Massive APIs](https://github.com/ShishirPatil/gorilla): Gorilla enables LLMs to use tools by invoking APIs. Given a natural language query, Gorilla comes up with the semantically- and syntactically- correct API to invoke. 
@@ -20,6 +19,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 * [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/): Connecting your own data with LLMs is a superpower to make these models really performant and really useful, this is exactly where the LlamaIndex framework shines. 
 
 * [H2O LLM studio by H2O.ai](https://github.com/h2oai/h2o-llmstudio): no-code toolkit to finetune large language models for multiple downstream applications. It's equipped with multiple finetuning techniques, such as Low-Rank Adaptation (LoRA) and Reinforecement Learning (RL). It also allows to track and evaluate finetuning experiments using Neptune toolkit and import/export models with Hugging Face
+
+* [OpenLLM](https://github.com/bentoml/OpenLLM): An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
 
 * [Prompt2Model - Generate Deployable Models from Instructions](https://github.com/neulab/prompt2model): Prompt2Model is a system that takes a natural language task description (like the prompts used for LLMs such as ChatGPT) to train a small special-purpose model that is conducive for deployment. 
 
