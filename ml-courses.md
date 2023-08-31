@@ -57,6 +57,7 @@ This page contains plenty of courses in various topics, including:
 
 * [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/):  In this course, students gain a thorough introduction to cutting-edge neural networks for NLP. I highly recommend the CS224N suggested reading list.
 
+* [Stanford XCS224U: Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp): This professional Stanford Online course draws on theoretical concepts from linguistics, natural language processing, and machine learning. Topics include domain adaptation for supervised sentiment, retrieval augmented in-context learning, advanced behavioral evolution, analysis methods, and NLP methods.
 
 ## Deep Learning
  

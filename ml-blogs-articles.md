@@ -8,6 +8,8 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 ## Large Language Models
 
+* [Gorilla AI Creator Unveils How It Equips LLMs With Real-World Skills and Knowledge](https://medium.com/@raphael.mansuy/gorilla-ai-creator-unveils-how-it-equips-llms-with-real-world-skills-and-knowledge-6b36de5040db): Gorilla AI founder Shishir Patil explored the method of imparting external knowledge and skills, such as actions and API calls, to large language models (LLMs) to enhance their utility and safety for deployment in real-world scenarios ([Talk](https://www.youtube.com/watch?v=9iSxF_RW6xk&t=22s)).
+
 * [What are embeddings? A Book Review](https://medium.com/@raphael.mansuy/embeddings-the-foundation-of-modern-ai-1512f7ecbd6): What are Embeddings? is a comprehensive book written by Vicky Boykis under a Creative Commons license. The book provides a deep dive into the concept of embeddings.
 
 * [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e): This is actually a really good list of papers and reading materials on LLMs.
