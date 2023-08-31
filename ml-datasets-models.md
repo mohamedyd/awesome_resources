@@ -11,6 +11,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [GodMode - the smol AI Chat Browser](https://github.com/smol-ai/GodMode): This is a dedicated chat browser that only does one thing: help you quickly access the full webapps of ChatGPT, Claude 2, Perplexity, Bing and more with a single keyboard shortcut (Cmd+Shift+G).
+
 * [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/): Connecting your own data with LLMs is a superpower to make these models really performant and really useful, this is exactly where the LlamaIndex framework shines. 
 
 * [H2O LLM studio by H2O.ai](https://github.com/h2oai/h2o-llmstudio): no-code toolkit to finetune large language models for multiple downstream applications. It's equipped with multiple finetuning techniques, such as Low-Rank Adaptation (LoRA) and Reinforecement Learning (RL). It also allows to track and evaluate finetuning experiments using Neptune toolkit and import/export models with Hugging Face
