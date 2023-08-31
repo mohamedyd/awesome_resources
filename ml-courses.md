@@ -9,6 +9,8 @@ This page contains plenty of courses in various topics, including:
  
 ## Large Language Models
 
+* [LLM in Production Part I](https://www.youtube.com/playlist?list=PL3vkEKxWd-us5YvvuvYkjP_QGlgUq3tpA): A continuously updated podcast talks and lectures on "LLMs in Production" by MLOps Community has some 50+ talks on topics like Efficiently scaling and deploying Large Language Models, Obstacles faced while deploying LLMs, Ensuring accuracy and quality in LLM Driven products, and Large model training and inferencing with DeepSeepd library ([Part II](https://www.youtube.com/playlist?list=PL3vkEKxWd-uupBSWL-DbVJuCMqXO9Z3Z4))
+
 * [Generative AI Foundations on AWS Technical Deep Dive Series](https://www.youtube.com/playlist?list=PLhr1KZpdzukf-xb0lmiU3G89GJXaDbAIF): Generative AI Foundations on AWS is a technical deep dive course that gives you the conceptual fundamentals, practical advice, and hands-on guidance to pre-train, fine-tune, and deploy state-of-the-art foundation models on AWS and beyond.
 
 * [Generative AI learning path by Google](https://www.cloudskillsboost.google/journeys/118): This learning path guides you through a curated collection of content on generative AI products and technologies, from the fundamentals of Large Language Models to how to create and deploy generative AI solutions on Google Cloud.
