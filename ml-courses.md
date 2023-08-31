@@ -9,9 +9,13 @@ This page contains plenty of courses in various topics, including:
  
 ## Large Language Models
 
+* [Generative AI Foundations on AWS Technical Deep Dive Series](https://www.youtube.com/playlist?list=PLhr1KZpdzukf-xb0lmiU3G89GJXaDbAIF): Generative AI Foundations on AWS is a technical deep dive course that gives you the conceptual fundamentals, practical advice, and hands-on guidance to pre-train, fine-tune, and deploy state-of-the-art foundation models on AWS and beyond.
+
 * [Generative AI learning path by Google](https://www.cloudskillsboost.google/journeys/118): This learning path guides you through a curated collection of content on generative AI products and technologies, from the fundamentals of Large Language Models to how to create and deploy generative AI solutions on Google Cloud.
 
 * [Practical Large Language Models](https://www.youtube.com/playlist?list=PLB1nTQo4_y6ukBQYuQm0ZAmuj51hVMKrC): These are videos from a Practical LLM workshop organized by Aggregate Intellect. 
+
+* [Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma](https://www.youtube.com/watch?v=xZDB1naRUlk): FreeCodeCamp released another data science course focusing on LLM Engineering. This two hours course focuses on how to embed an LLM model on your own project using tools such as OpenAI, Langchain, Agents, Chroma, etc ([Colab Notebook](https://colab.research.google.com/drive/1gi2yDvvhUwLT7c8ZEXz6Yja3cG5P2owP?usp=sharing), [Source Code](https://github.com/pythonontheplane123/LLM_course_part_1)).
 
 * [Getting Started with Generative AI](https://www.youtube.com/playlist?list=PLTzg8WR1gEHyngMtdoflAdQryg29-mPiL): In this video playlist, we will explore how we can use pre-trained models available in Hugging Face for Generative AI applications like Chat bot, Translation, Document Parsing, etc.
 

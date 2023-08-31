@@ -11,6 +11,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [Gorilla: Large Language Model Connected with Massive APIs](https://github.com/ShishirPatil/gorilla): Gorilla enables LLMs to use tools by invoking APIs. Given a natural language query, Gorilla comes up with the semantically- and syntactically- correct API to invoke. 
+
 * [GodMode - the smol AI Chat Browser](https://github.com/smol-ai/GodMode): This is a dedicated chat browser that only does one thing: help you quickly access the full webapps of ChatGPT, Claude 2, Perplexity, Bing and more with a single keyboard shortcut (Cmd+Shift+G).
 
 * [AutoTrain Advanced](https://github.com/huggingface/autotrain-advanced): With AutoTrain Advanced, anyone can use colab to finetune LLMs just by uploading data and tuning parameters! All you need to do is create a folder called data and put your train.csv in it! Make sure it has text column, adjust params, model, etc, and boom your model will start training.
