@@ -8,6 +8,8 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 ## Large Language Models
 
+* [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/#guardrails-to-ensure-output-quality): There are seven key patterns. They’re also organized along the spectrum of improving performance vs. reducing cost/risk, and closer to the data vs. closer to the user.
+
 * [Gorilla AI Creator Unveils How It Equips LLMs With Real-World Skills and Knowledge](https://medium.com/@raphael.mansuy/gorilla-ai-creator-unveils-how-it-equips-llms-with-real-world-skills-and-knowledge-6b36de5040db): Gorilla AI founder Shishir Patil explored the method of imparting external knowledge and skills, such as actions and API calls, to large language models (LLMs) to enhance their utility and safety for deployment in real-world scenarios ([Talk](https://www.youtube.com/watch?v=9iSxF_RW6xk&t=22s)).
 
 * [Llama from scratch](https://blog.briankitano.com/llama-from-scratch/): This article offers a step-by-step guide on implementing the Llama starting small using the TinyShakespeare dataset. The approach in this tutorial is iterative, starting with basic models and gradually integrating Llama's unique features like RMSNorm, Rotary embeddings, and the SwiGLU activation function. 
