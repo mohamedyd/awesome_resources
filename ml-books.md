@@ -86,4 +86,6 @@ This page comprises plenty of books in various topics, including:
 
 ## Interviews
 
+* [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet): This cheat sheet contains many classical equations and diagrams on machine learning, which will help you quickly recall knowledge and ideas on machine learning. The cheat sheet will also appeal to someone who is preparing for a job interview related to machine learning.
+
 * [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/): The book consists of two parts. The first part provides an overview of the machine learning interview process, what types of machine learning roles are available, what skills each role requires, what kinds of questions are often asked, and how to prepare for them. This part also explains the interviewers’ mindset and what kind of signals they look for. The second part consists of over 200 knowledge questions, each noted with its level of difficulty -- interviews for more senior roles should expect harder questions -- that cover important concepts and common misconceptions in machine learning.

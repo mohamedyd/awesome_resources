@@ -1,5 +1,7 @@
 # Useful Books
 
+* [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books/tree/main): This project lists books and other resources grouped by genres.
+
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md): A comperhensive list of free books to learn all programming languages.
 
 * [100+ Best Free Data Science Books for Beginners and Experts](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html): All the books listed are open sourced and are in a mixed order.
