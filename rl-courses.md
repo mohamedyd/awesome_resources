@@ -1,5 +1,7 @@
 # RL Courses
 
+* [The Hands-on Reinforcement Learning Course](https://www.realworldml.xyz/the-hands-on-reinforcement-learning-course): Reinforcement Learning (RL) is the kind of machine learning closest to how humans and animals learn. It offers us a path towards building general AI systems that can tackle the most complex problems we can think of.
+
 * [Foundations of Deep RL -- 6-lecture series by Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
 
 * [Introduction to reinforcement learning — UCL & Deep Mind by David Silver](https://www.davidsilver.uk/teaching/): This course provides an introduction to the RL framework and covers key algorithms, including value and policy iteration, Q-learning, and SARSA, as well as more recent developments such as deep RL and actor-critic methods.
