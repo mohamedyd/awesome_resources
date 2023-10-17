@@ -41,6 +41,8 @@ This page comprises plenty of books in various topics, including:
 
 ## ML and DL Models
 
+* [The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html): This is an amazing, concise, masterpiece. If you are into machine learning and want a refresher, or if you are into computer science and want a quick jump start into machine learning, this is a great resource to start with. And it's totally free!
+
 * [An Introduction to Statistical Learning with Applications in Python](https://hastie.su.domains/ISLP/ISLP_website.pdf): The first edition of the book ''An Introduction to Statistical Learning with Applications in R`` was published in 2013 and it became one of the most popular Machine Learning books and a reference book for Data Scientists.
 
 * [Machine Learning Bookcamp by Alexey Grigorev](https://www.manning.com/books/machine-learning-bookcamp):  Learn machine learning by doing projects and get the skills needed to work as a data scientist or machine learning engineer. ([Source code](https://github.com/alexeygrigorev/mlbookcamp-code))
