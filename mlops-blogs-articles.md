@@ -64,6 +64,7 @@
 
 * [Build Reliable Machine Learning Pipelines with Continuous Integration](https://towardsdatascience.com/build-reliable-machine-learning-pipelines-with-continuous-integration-ea822eb09bf6): This article will show you the benefits of implementing continuous integration in your machine learning project, along with step-by-step instructions on how to set it up. (Video)[https://www.youtube.com/watch?v=rkg09nNMAhs]
 
+* [Bridging the Gap: Converting Data Science Notebooks into Production ML Code](https://marvelousmlops.substack.com/p/bridging-the-gap-converting-data): In this article, we’ll walk through the process using examples, demonstrating how to refactor, modularize, configure, test, log, and package your code for a seamless transition from experimentation to deployment.
 
 ## MLOps OSS Tools
 
