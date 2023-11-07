@@ -111,6 +111,8 @@ This page contains plenty of courses in various topics, including:
 
 ## Machine Learning
 
+* [Introduction to Machine Learning by Melih Kandemir](https://melihkandemir.github.io/teaching/): Melih prepared all the material as Jupyter notebooks that show theory and implementation side by side.
+
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding for beginners. 
 
 * [Harvard CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/): This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation.
