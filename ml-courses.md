@@ -74,7 +74,9 @@ This page contains plenty of courses in various topics, including:
 * [Stanford XCS224U: Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp): This professional Stanford Online course draws on theoretical concepts from linguistics, natural language processing, and machine learning. Topics include domain adaptation for supervised sentiment, retrieval augmented in-context learning, advanced behavioral evolution, analysis methods, and NLP methods ([Source code](https://github.com/cgpotts/cs224u)).
 
 ## Deep Learning
- 
+
+* [Deep Learning Course by François Fleuret](https://fleuret.org/dlc/): This course is a thorough introduction to deep-learning, with examples in the PyTorch framework: machine learning objectives and main challenges, tensor operations, automatic differentiation, gradient descent, deep-learning specific techniques, generative, recurrent, attention models. 
+
 * [Deep Learning & Reinforcement Learning by Chris G. Willcocks](https://cwkx.github.io/teaching.html): Two courses discussing the basics and advanced topics in deep learning, generative AI, and reinforcement learning.
 
 * [Computer Vision in Practice by Roboflow](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R): Bundle of video tutorials showing how to train Computer Vision models and how to use them in practice.
