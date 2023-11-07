@@ -11,6 +11,8 @@ This page contains plenty of courses in various topics, including:
 
 * [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/): Learn to build modern software with LLMs using the newest tools and techniques in the field. 
 
+* [The Attention Mechanism in Large Language Models](https://www.youtube.com/playlist?list=PLs8w1Cdi-zva4fwKkl9EK13siFvL9Wewf): The first video is about self-attention and its intuition. The second video is about multi-head attention, and the math behind it.  The third video is about the entire architecture on transformer models. For all videos, only a basic understanding of high school math is needed. (The channel includes easy to grasp ML courses for begineers.)
+
 * [LLM in Production Part I](https://www.youtube.com/playlist?list=PL3vkEKxWd-us5YvvuvYkjP_QGlgUq3tpA): A continuously updated podcast talks and lectures on "LLMs in Production" by MLOps Community has some 50+ talks on topics like Efficiently scaling and deploying Large Language Models, Obstacles faced while deploying LLMs, Ensuring accuracy and quality in LLM Driven products, and Large model training and inferencing with DeepSeepd library ([Part II](https://www.youtube.com/playlist?list=PL3vkEKxWd-uupBSWL-DbVJuCMqXO9Z3Z4))
 
 * [Generative AI Foundations on AWS Technical Deep Dive Series](https://www.youtube.com/playlist?list=PLhr1KZpdzukf-xb0lmiU3G89GJXaDbAIF): Generative AI Foundations on AWS is a technical deep dive course that gives you the conceptual fundamentals, practical advice, and hands-on guidance to pre-train, fine-tune, and deploy state-of-the-art foundation models on AWS and beyond.
