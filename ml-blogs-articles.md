@@ -44,6 +44,8 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 * [Prompt Engineering Guide](https://www.promptingguide.ai/):  A prompt engineering guide that contains all the latest papers, learning guides, models, lectures, references, new LLM capabilities, and tools related to prompt engineering.
 
+* [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Motivated by the high interest in developing with LLMs, the authors have created this new prompt engineering guide that contains all the latest papers, learning guides, lectures, references, and tools related to prompt engineering for LLMs.
+
 * [Large Language Model Cheatsheet](https://docs.google.com/presentation/d/1ytGfwc8tIKolDQ_jMOmhWVC8t41klYa5/edit?usp=share_link&ouid=100484802817147345492&rtpof=true&sd=true): three slides summairzing the main ideas and concepts of large language models.
 
 * [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide): A curated (still actively updated) list of practical guide resources of LLMs. It's based on our survey paper.
