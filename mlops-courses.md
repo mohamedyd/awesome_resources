@@ -1,5 +1,7 @@
 # MLOps Courses
 
+* [MLOps World: Machine Learning in Production](https://www.youtube.com/@mlopsworldmachinelearningi9769/videos): This initiative is created to help establish a clearer understanding of the best practices, methodologies, principles and lessons around deploying machine learning models into production environments.
+
 * [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp): Teach practical aspects of productionizing ML services — from collecting requirements to model deployment and monitoring.
 
 * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/):  This course aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable.
