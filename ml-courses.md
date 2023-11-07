@@ -9,6 +9,8 @@ This page contains plenty of courses in various topics, including:
  
 ## Large Language Models
 
+* [Harvard CS197: AI Research Experiences](https://www.cs197.seas.harvard.edu/): This course will also teach you how to systematically read research papers, generate new ideas, and present them in slides or papers. You'll even learn valuable project management and team communication techniques used by top AI researchers. 
+
 * [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/): Learn to build modern software with LLMs using the newest tools and techniques in the field. 
 
 * [The Attention Mechanism in Large Language Models](https://www.youtube.com/playlist?list=PLs8w1Cdi-zva4fwKkl9EK13siFvL9Wewf): The first video is about self-attention and its intuition. The second video is about multi-head attention, and the math behind it.  The third video is about the entire architecture on transformer models. For all videos, only a basic understanding of high school math is needed. (The channel includes easy to grasp ML courses for begineers.)
