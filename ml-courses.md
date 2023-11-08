@@ -13,6 +13,8 @@ This page contains plenty of courses in various topics, including:
 
 * [generative-ai-for-beginners by Microsoft](https://github.com/microsoft/generative-ai-for-beginners): Learn the fundamentals of building Generative AI applications with our 12-lesson comprehensive course by Microsoft Cloud Advocates. Each lesson covers a key aspect of Generative AI principles and application development. Throughout this course, we will be building our own Generative AI startup so you can get an understanding of what it takes to launch your ideas.
 
+* [Large Language Models: Foundation Models from the Ground Up](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWjMCDahwdVye8HW69p5NYS): This course dives into the details of LLM foundation models. You will learn the innovations that led to the proliferation of transformer-based architectures, from encoder models (BERT) to decoder models (GPT), to encoder-decoder models (T5). You will also learn about the recent breakthroughs that led to applications like ChatGPT.
+
 * [hands-on-llms](https://github.com/iusztinpaul/hands-on-llms): Learn how to engineer your end-to-end LLM ecosystem: training, streaming, and inference pipelines | deploy & automate | work in progress...
 
 * [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/): Learn to build modern software with LLMs using the newest tools and techniques in the field. 
