@@ -10,6 +10,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [Hallucination Leaderboard](https://github.com/vectara/hallucination-leaderboard): Public LLM leaderboard computed using Vectara's Hallucination Evaluation Model. This evaluates how often an LLM introduces hallucinations when summarizing a document. 
+
 * [Gorilla: Large Language Model Connected with Massive APIs](https://github.com/ShishirPatil/gorilla): Gorilla enables LLMs to use tools by invoking APIs. Given a natural language query, Gorilla comes up with the semantically- and syntactically- correct API to invoke. 
 
 * [vLLM -- Easy, fast, and cheap LLM serving for everyone](https://github.com/vllm-project/vllm):  A high-throughput and memory-efficient inference and serving engine for LLMs 
