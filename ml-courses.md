@@ -87,6 +87,10 @@ This page contains plenty of courses in various topics, including:
 
 ## Deep Learning
 
+* [Practical Deep Learning for Coders](https://course.fast.ai/): A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
+
+* [Practical Deep Learning for Coders - part 2](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP): In this course, containing over 30 hours of video content, we implement the astounding Stable Diffusion algorithm from scratch! That’s the killer app that made the internet freak out, and caused the media to say “you may never believe what you see online again”.
+
 * [Deep Learning Course by François Fleuret](https://fleuret.org/dlc/): This course is a thorough introduction to deep-learning, with examples in the PyTorch framework: machine learning objectives and main challenges, tensor operations, automatic differentiation, gradient descent, deep-learning specific techniques, generative, recurrent, attention models. 
 
 * [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F23/index.html): In this course we will learn about the basics of deep neural networks, and their applications to various AI tasks. By the end of the course, it is expected that students will have significant familiarity with the subject, and be able to apply Deep Learning to a variety of tasks. 
@@ -94,8 +98,6 @@ This page contains plenty of courses in various topics, including:
 * [Deep Learning & Reinforcement Learning by Chris G. Willcocks](https://cwkx.github.io/teaching.html): Two courses discussing the basics and advanced topics in deep learning, generative AI, and reinforcement learning.
 
 * [Computer Vision in Practice by Roboflow](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R): Bundle of video tutorials showing how to train Computer Vision models and how to use them in practice.
-
-* [Practical Deep Learning for Coders - part 2](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP): In this course, containing over 30 hours of video content, we implement the astounding Stable Diffusion algorithm from scratch! That’s the killer app that made the internet freak out, and caused the media to say “you may never believe what you see online again”.
 
 * [Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ): This practical course introduces the main concepts of deep learning models, including WaveNet and GPT, through teaching you how to implement them from scrtach. 
 
