@@ -177,6 +177,7 @@ This page contains plenty of courses in various topics, including:
 
 * [Tübingen Machine Learning](https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA): A series of wonderful ML courses delivered at Tübingen University.
 
+* [Artificial Intelligence & Data Science شرح بالعربي](https://www.youtube.com/@ArtificialIntelligenceDataScie/playlists)
 
 ## Data Engineering 
 
