@@ -1,5 +1,7 @@
 # MLOps Blogs and Articles
 
+* [LLM Inference Performance Engineering: Best Practices](https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices): In this blog post, the MosaicML engineering team shares best practices for how to capitalize on popular open source LLMs for production usage. 
+
 * [FMOps/LLMOps: Operationalize Generative AI using MLOps principles by AWS](https://www.twitch.tv/videos/1864781394): challenges and opportunities of opertionalizing large language models. 
 
 * [Deploy LLMs with Hugging Face Inference Endpoints](https://huggingface.co/blog/inference-endpoints-llm): In this blog post, the authors show you how to deploy open-source LLMs to Hugging Face Inference Endpoints.

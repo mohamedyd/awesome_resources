@@ -41,8 +41,6 @@ This page comprises plenty of books in various topics, including:
 
 ## ML and DL Models
 
-* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): This is a book about doing data science with Python
-
 * [The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html): This is an amazing, concise, masterpiece. If you are into machine learning and want a refresher, or if you are into computer science and want a quick jump start into machine learning, this is a great resource to start with. And it's totally free!
 
 * [An Introduction to Statistical Learning with Applications in Python](https://hastie.su.domains/ISLP/ISLP_website.pdf): The first edition of the book ''An Introduction to Statistical Learning with Applications in R`` was published in 2013 and it became one of the most popular Machine Learning books and a reference book for Data Scientists.
@@ -71,6 +69,7 @@ This page comprises plenty of books in various topics, including:
 
 * [Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/): The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular.
 
+* [Mathematics for Machine Learning](https://mml-book.github.io/): The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books.
 
 ## Large Language Models
 

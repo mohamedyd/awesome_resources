@@ -9,6 +9,8 @@ This page contains plenty of courses in various topics, including:
  
 ## Large Language Models
 
+* [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940): To make LLMs more accessible, it is crucial to improve their efficiency.This course will introduce efficient AI computing techniques that enable powerful deep learning applications on resource-constrained devices. Students will get hands-on experience deploying large language models (e.g., LLaMA 2) on a laptop.
+
 * [Harvard CS197: AI Research Experiences](https://www.cs197.seas.harvard.edu/): This course will also teach you how to systematically read research papers, generate new ideas, and present them in slides or papers. You'll even learn valuable project management and team communication techniques used by top AI researchers. 
 
 * [generative-ai-for-beginners by Microsoft](https://github.com/microsoft/generative-ai-for-beginners): Learn the fundamentals of building Generative AI applications with our 12-lesson comprehensive course by Microsoft Cloud Advocates. Each lesson covers a key aspect of Generative AI principles and application development. Throughout this course, we will be building our own Generative AI startup so you can get an understanding of what it takes to launch your ideas.
