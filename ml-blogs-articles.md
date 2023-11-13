@@ -8,6 +8,8 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 ## Large Language Models
 
+* [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/): interesting visual storytelling of how LLMs and transformers work.
+
 * [AutoGen: Enabling next-generation large language model applications](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/): AutoGen is a framework for simplifying the orchestration, optimization, and automation of LLM workflows.
 
 * [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/#guardrails-to-ensure-output-quality): There are seven key patterns. They’re also organized along the spectrum of improving performance vs. reducing cost/risk, and closer to the data vs. closer to the user.
