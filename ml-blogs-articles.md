@@ -8,6 +8,8 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 ## Large Language Models
 
+* [Llama from scratch (or how to implement a paper without crying)](https://blog.briankitano.com/llama-from-scratch/): The author wants to provide some tips from my experience implementing a paper. I'm going to cover my tips so far from implementing a dramatically scaled-down version of Llama for training TinyShakespeare.
+
 * [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/): interesting visual storytelling of how LLMs and transformers work.
 
 * [AutoGen: Enabling next-generation large language model applications](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/): AutoGen is a framework for simplifying the orchestration, optimization, and automation of LLM workflows.

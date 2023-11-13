@@ -9,6 +9,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 
 ## Large Language Models
+ 
+* [LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning): A Collection of Colab Based LLMs Fine tuning Notebooks. This project focuses on efficiently fine-tuning large language models using LoRA and Hugging Face's transformers library.
 
 * [Hallucination Leaderboard](https://github.com/vectara/hallucination-leaderboard): Public LLM leaderboard computed using Vectara's Hallucination Evaluation Model. This evaluates how often an LLM introduces hallucinations when summarizing a document. 
 
