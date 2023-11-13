@@ -119,6 +119,8 @@ This page contains plenty of courses in various topics, including:
 
 ## Machine Learning
 
+* [Machine Learning @ Vrije Universiteit Amsterdam](https://mlvu.github.io/): This page contains all public information about the course Machine Learning at the VU University Amsterdam. 
+
 * [Introduction to Machine Learning by Melih Kandemir](https://melihkandemir.github.io/teaching/): Melih prepared all the material as Jupyter notebooks that show theory and implementation side by side.
 
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding for beginners. 
