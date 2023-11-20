@@ -127,6 +127,8 @@ This page contains plenty of courses in various topics, including:
 
 ## Machine Learning
 
+* [Introduction to Embedded Machine Learning by Edge Impulse](https://www.youtube.com/playlist?list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG): These videos are part of the Introduction to Embedded Machine Learning course on Coursera. You can take the full course (including videos, reading material, tests, and projects) here: https://www.coursera.org/learn/introduction-to-embedded-machine-learning
+
 * [Machine Learning @ Vrije Universiteit Amsterdam](https://mlvu.github.io/): This page contains all public information about the course Machine Learning at the VU University Amsterdam. 
 
 * [Introduction to Machine Learning by Melih Kandemir](https://melihkandemir.github.io/teaching/): Melih prepared all the material as Jupyter notebooks that show theory and implementation side by side.
