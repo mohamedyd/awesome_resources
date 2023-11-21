@@ -89,6 +89,8 @@ This page contains plenty of courses in various topics, including:
 
 ## Deep Learning
 
+* [Practical deep learning course by Data Flowr](https://dataflowr.github.io/website/): The main goal of the course is to allow students to understand papers, blog posts and codes available online and to adapt them to their projects as soon as possible. In particular, we avoid the use of any high-level neural networks API and focus on the PyTorch library in Python.
+
 * [Practical Deep Learning for Coders](https://course.fast.ai/): A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
 
 * [Practical Deep Learning for Coders - part 2](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP): In this course, containing over 30 hours of video content, we implement the astounding Stable Diffusion algorithm from scratch! That’s the killer app that made the internet freak out, and caused the media to say “you may never believe what you see online again”.
