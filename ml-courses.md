@@ -11,6 +11,8 @@ This page contains plenty of courses in various topics, including:
 
 * [Free Generative AI & Large Language Models Courses](https://learn.activeloop.ai/): In these free courses, you can learn how to train and fine tune LLMs for production, and how to use Langchain and vector databases in production.
 
+* [The Transformer Layer by Layer: A conceptual, layer by layer explanation of the transformer model](https://mlbootcamp.ai/course.html?guid=d105240a-94e1-405b-be80-60056659c24c): The Transformer Layer By Layer" course explains the Transformer model, a key artifact in artificial intelligence, through a series of comprehensive yet understandable modules. 
+
 * [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940): To make LLMs more accessible, it is crucial to improve their efficiency.This course will introduce efficient AI computing techniques that enable powerful deep learning applications on resource-constrained devices. Students will get hands-on experience deploying large language models (e.g., LLaMA 2) on a laptop.
 
 * [Harvard CS197: AI Research Experiences](https://www.cs197.seas.harvard.edu/): This course will also teach you how to systematically read research papers, generate new ideas, and present them in slides or papers. You'll even learn valuable project management and team communication techniques used by top AI researchers. 
