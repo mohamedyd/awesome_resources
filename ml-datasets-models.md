@@ -10,6 +10,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [10 GenAI Notebooks: OpenAI, LLM, RAG, GPT, and More](https://mltechniques.com/2023/12/01/10-genai-notebooks-openai-llm-rag-gpt-and-more/): For developers and AI/ML professionals. This comprehensive free resource offered by our sponsor is designed to provide you with hands-on experience and deeper insights into building cutting-edge GenAI applications.
+
 * [LLM360](https://www.llm360.ai/): LLM360 introduces Amber and CrystalCoder, 7B parameter LLMs, offering full transparency in Large Language Model (LLM) training with comprehensive open-source release including training data and code.
  
 * [LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning): A Collection of Colab Based LLMs Fine tuning Notebooks. This project focuses on efficiently fine-tuning large language models using LoRA and Hugging Face's transformers library.
