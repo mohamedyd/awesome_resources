@@ -9,6 +9,9 @@ This page contains plenty of courses in various topics, including:
  
 ## Large Language Models
 
+* [Large Language Model Course](https://github.com/mlabonne/llm-course): The LLM course is divided into three parts: LLM Fundamentals covers essential knowledge about mathematics, Python, and neural networks, the LLM Scientist focuses on learning how to build the best possible LLMs using the latest techniques, and the LLM Engineer focuses on how to create LLM-based solutions and deploy them.
+
+
 * [Free Generative AI & Large Language Models Courses](https://learn.activeloop.ai/): In these free courses, you can learn how to train and fine tune LLMs for production, and how to use Langchain and vector databases in production.
 
 * [The Transformer Layer by Layer: A conceptual, layer by layer explanation of the transformer model](https://mlbootcamp.ai/course.html?guid=d105240a-94e1-405b-be80-60056659c24c): The Transformer Layer By Layer" course explains the Transformer model, a key artifact in artificial intelligence, through a series of comprehensive yet understandable modules. 
