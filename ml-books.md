@@ -75,6 +75,8 @@ This page comprises plenty of books in various topics, including:
 
 ## Large Language Models
 
+* [Applied Generative AI for Beginners: Practical Knowledge on Diffusion Models, ChatGPT, and Other LLMs](https://www.amazon.com/Applied-Generative-Beginners-Practical-Knowledge/dp/1484299930): This book provides a deep dive into the world of generative AI, covering everything from the basics of neural networks to the intricacies of large language models like ChatGPT and Google Bard. Applied Generative AI for Beginners is structured around detailed chapters that will guide you from foundational knowledge to practical implementation.
+
 * [Practical Natural Language Processing](https://www.practicalnlp.ai/): Through the course of the book, we will guide you through the process of building real-world NLP solutions embedded in larger product setups via a compendium of over 450 references. ([GitHub](https://github.com/practical-nlp/practical-nlp-code))
 
 * [Natural Language Processing with Transformers](https://transformersbook.com/): In this guide, authors use a hands-on approach to teach you how transformers work and how to integrate them in your applications. ([GitHub](https://github.com/nlp-with-transformers))
