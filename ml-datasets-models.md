@@ -125,3 +125,10 @@ has been designed to support data discovery and augmentation. It supports a rich
 * [OpenML Data Repositories](https://openml.github.io/OpenML/Data-Repositories/): This is a list of public dataset repositories
 
 * [AWS Free Datasets](https://aws.amazon.com/marketplace/search/results?trk=8384929b-0eb1-4af3-8996-07aa409646bc&sc_channel=el&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&CONTRACT_TYPE=OPEN_DATA_LICENSES&filters=FULFILLMENT_OPTION_TYPE%2CCONTRACT_TYPE): A list of dataset provided by Amazon AWS.
+
+
+## Cloud Platforms
+
+* [Intel Developer Cloud](https://www.intel.com/content/www/us/en/developer/tools/devcloud/services.html): it provides a robust platform for AI model development, testing, and deployment, harnessing Intel's advanced hardware and software for optimized AI performance. 
+
+* [Google Colab](https://colab.research.google.com/): it is a free Jupyter notebook service that allows users to write and execute Python code through the browser. It is ideal for working with deep learning frameworks and offers integration with Google Drive for up to 15 GB of storage.
