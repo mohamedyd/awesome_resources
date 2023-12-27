@@ -9,6 +9,8 @@ This page contains plenty of courses in various topics, including:
  
 ## Large Language Models
 
+* [Large Language Models Course: Learn by Doing LLM Projects](https://github.com/peremartra/Large-Language-Model-Notebooks-Course): The course provides a hands-on experience using models from OpenAI and the Hugging Face library. We are going to see and use a lot of tools and practice with small projects that will grow as we can apply the new knowledge.
+
 * [Foundation Models by Samuel Albanie](https://www.youtube.com/playlist?app=desktop&list=PL9t0xVFP90GD8hox0KipBkJcLX_C3ja67&si=tOsqTE5DTjXRHLLm#bottom-sheet): A playlist of videos describing foundation models: GPT-3, DINO, Flamingo, CLIP, Codex, BLOOMZ and Flan-PaLM.  The playlist also contains an introductory overview based on the Stanford report on Foundation Models.
 
 * [Large Language Model Course](https://github.com/mlabonne/llm-course): The LLM course is divided into three parts: LLM Fundamentals covers essential knowledge about mathematics, Python, and neural networks, the LLM Scientist focuses on learning how to build the best possible LLMs using the latest techniques, and the LLM Engineer focuses on how to create LLM-based solutions and deploy them.
