@@ -184,6 +184,7 @@ This page contains plenty of courses in various topics, including:
 * [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners): In this curriculum, you will learn about what is sometimes called classic ML, using primarily Scikit-learn as a library and avoiding deep learning.
 
 * [Stanford CS229: Machine Learning](https://cs229.stanford.edu/syllabus-summer2020.html): The course a broad introduction to statistical machine learning (at an intermediate / advanced level) and covers supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical ); and reinforcement learning among other topics.
+	* [Spring 2022](https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy&cbrd=1): new version of the course. 
 
 * [Statistical Machine Learning — Ulrike von Luxburg, 2020](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC): The course covers the standard paradigms and algorithms in statistical machine learning, simply browse through the titles of the individual lectures to get an impression of the contents. The target audience consists of master students in computer science and related fields. 
 
