@@ -4,7 +4,8 @@ This page contains plenty of courses in various topics, including:
 * [Large Language Models](#large-language-models)
 * [Deep Learning](#deep-learning) 
 * [Machine Learning](#machine-learning) 
-* [Data Engineering ](#data-engineering) 
+* [Data Engineering ](#data-engineering)
+* [Mathematics](#mathematics) 
 
  
 ## Large Language Models
@@ -139,6 +140,8 @@ This page contains plenty of courses in various topics, including:
 
 ## Machine Learning
 
+* [Machine Learning at The University of Texas at Austin](https://www.youtube.com/@GeostatsGuyLectures): oin in on the journey from fundamental probability and statistics, through multivariate analysis, feature selection and transformations to inferential machine learning methods including cluster analysis, principal components analysis, multidimensional scaling, and then predictive machine learning methods
+
 * [Introduction to Embedded Machine Learning by Edge Impulse](https://www.youtube.com/playlist?list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG): These videos are part of the Introduction to Embedded Machine Learning course on Coursera. You can take the full course (including videos, reading material, tests, and projects) here: https://www.coursera.org/learn/introduction-to-embedded-machine-learning
 
 * [Machine Learning @ Vrije Universiteit Amsterdam](https://mlvu.github.io/): This page contains all public information about the course Machine Learning at the VU University Amsterdam. 
@@ -209,3 +212,8 @@ This page contains plenty of courses in various topics, including:
 * [15-445/645 Intro to Database Systems (Spring 2023)](https://15445.courses.cs.cmu.edu/spring2023/): This course is on the design and implementation of database management systems. Topics include data models (relational, document, key/value), storage models (n-ary, decomposition), query languages (SQL, stored procedures), storage architectures (heaps, log-structured), indexing (order preserving trees, hash tables), transaction processing (ACID, concurrency control), recovery (logging, checkpoints), query processing (joins, sorting, aggregation, optimization), and parallel architectures (multi-core, distributed). 
 
 * [Data Engineering Mentorship](https://github.com/OmarEhab007/Data_Engineering_Mentorship): This repository contains a list of learning resources organized by levels for various topics. Choose the level that matches your skill and knowledge to find appropriate resources for your learning journey.
+
+
+## Mathematics
+
+* [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr): A free course offering the core concept of Calculus, with a visuals-first approach aimed at making you feel like you could have discovered the subject yourself.
