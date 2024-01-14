@@ -10,6 +10,8 @@ This page contains plenty of courses in various topics, including:
  
 ## Large Language Models
 
+* [Hugging Face Course](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o): this course teaches you all things about hungging face ecosystem. 
+
 * [Large Language Model Course](https://github.com/mlabonne/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 
 * [Large Language Models (llms) by Ibrahim Sobh](https://github.com/IbrahimSobh/llms): In this repository Language models are introduced covering both theoretical and practical aspects.
@@ -99,6 +101,8 @@ This page contains plenty of courses in various topics, including:
 * [Stanford XCS224U: Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp): This professional Stanford Online course draws on theoretical concepts from linguistics, natural language processing, and machine learning. Topics include domain adaptation for supervised sentiment, retrieval augmented in-context learning, advanced behavioral evolution, analysis methods, and NLP methods ([Source code](https://github.com/cgpotts/cs224u)).
 
 ## Deep Learning
+
+* [Neural Networks for Machine Learning — Geoffrey Hinton, UofT [FULL COURSE]](https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv): A neural network course by the father of deep learning, Geofrey Hinton. 
 
 * [Practical deep learning course by Data Flowr](https://dataflowr.github.io/website/): The main goal of the course is to allow students to understand papers, blog posts and codes available online and to adapt them to their projects as soon as possible. In particular, we avoid the use of any high-level neural networks API and focus on the PyTorch library in Python.
 
