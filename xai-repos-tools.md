@@ -11,3 +11,5 @@
 * [Interpretable Machine Learning](https://github.com/Explainable-ML/interpretable-ml): A collection of code, notebooks, and resources for training interpretable machine learning (ML) models, explaining ML models, and debugging ML models for accuracy, discrimination, and security.
 
 * [CARLA - Counterfactual And Recourse Library](https://github.com/carla-recourse/CARLA): CARLA is a python library to benchmark counterfactual explanation and recourse models. It comes out-of-the box with commonly used datasets and various machine learning models.
+
+* [Shapash](https://github.com/MAIF/shapash): Python library designed to make machine learning interpretable and comprehensible for everyone. It offers various visualizations with clear and explicit labels that are easily understood by all.
