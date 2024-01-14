@@ -1,5 +1,7 @@
 # Courses
 
+* [01 - Linux system - Intro | عربي](https://www.youtube.com/watch?v=7ueuFINj3YA&list=PL8pYI62gCNsWTppELEUCpforC4avEiLox): Course for learning linux system
+
 * [cs-video-courses](https://github.com/Developer-Y/cs-video-courses): List of Computer Science courses with video lectures.
 
 * [Why study Data Structures and Algorithms | Data Structures and Algorithms | Gate Applied Course](https://www.youtube.com/watch?v=12u3R2UCer4&list=PLEVDNf7p-wYyh712BgmW9UGrAc88bl3OF&index=2): A complete course on data structures and algorithms.
