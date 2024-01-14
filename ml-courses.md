@@ -86,6 +86,8 @@ This page contains plenty of courses in various topics, including:
 
 * [LangChain](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5): LangChain is a framework for developing applications powered by language models. In short, it allows you to connect the OpenAI API to Google Drive, Gmail, or YouTube API.
 
+* [LangChain v0.1.0 Launch](https://www.youtube.com/playlist?list=PLfaIDFEXuae0gBSJ9T0w7cu7iJZbH3T31): A series of videos highlighting key focus areas of LangChain 0.1
+
 * [MIT Future of AI is Foundation Models & Self-Supervised Learning](https://www.futureofai.mit.edu/): In this non-technical series of lectures, we will start with the history of AI, then with what supervised learning and reinforcement learning is missing, and conclude with the deep practical and foundational implications of self-supervised learning and foundation models.
 
 * [Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM): In this seminar, we examine the details of how transformers work, and dive deep into the different kinds of transformers and how they're applied in different fields.
