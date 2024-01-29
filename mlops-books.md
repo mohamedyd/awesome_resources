@@ -2,6 +2,8 @@
 
 # MLOps Books
 
+* [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering): An open collection of methodologies to help with successful training of large language models and multi-modal models.
+
 * [My MLOps bookshelf by Antonio Feregrino](https://medium.com/softwareydata/my-mlops-bookshelf-c27f6e29370d):MLOps book recommendation with providing his personal reviews of the MLOps books, which he already read. 
 
 * [Designing Machine Learning Systems, Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/): Why does 9/10 models never make it to production? Read this book and compare to how ML is done at most companies, then you know… Highly recommended!
