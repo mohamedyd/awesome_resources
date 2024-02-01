@@ -50,6 +50,8 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): a curated list of LLMs resources.
 
+* [Prompt Engineering Guide -- Github](https://github.com/dair-ai/Prompt-Engineering-Guide): Motivated by the high interest in developing with LLMs, Dair-ai have created this new prompt engineering guide that contains all the latest papers, learning guides, lectures, references, and tools related to prompt engineering for LLMs.
+
 * [Prompt Engineering Guide](https://www.promptingguide.ai/):  A prompt engineering guide that contains all the latest papers, learning guides, models, lectures, references, new LLM capabilities, and tools related to prompt engineering.
 
 * [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Motivated by the high interest in developing with LLMs, the authors have created this new prompt engineering guide that contains all the latest papers, learning guides, lectures, references, and tools related to prompt engineering for LLMs.
