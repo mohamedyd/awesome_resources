@@ -146,6 +146,8 @@ This page contains plenty of courses in various topics, including:
 
 ## Machine Learning
 
+* [Machine learning by Erik Bekkers](https://uvaml1.github.io/): In this lecture series we follow closely the Pattern Recognition and Machine Learning book by Bishop. Relevant chapters are indicated at the start of each video.  
+
 * [Machine Learning at The University of Texas at Austin](https://www.youtube.com/@GeostatsGuyLectures): oin in on the journey from fundamental probability and statistics, through multivariate analysis, feature selection and transformations to inferential machine learning methods including cluster analysis, principal components analysis, multidimensional scaling, and then predictive machine learning methods
 
 * [Introduction to Embedded Machine Learning by Edge Impulse](https://www.youtube.com/playlist?list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG): These videos are part of the Introduction to Embedded Machine Learning course on Coursera. You can take the full course (including videos, reading material, tests, and projects) here: https://www.coursera.org/learn/introduction-to-embedded-machine-learning

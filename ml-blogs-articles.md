@@ -8,6 +8,8 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 ## Large Language Models
 
+* [ICLR 2024 LLM Paper Summary Cards](https://www.notion.so/06f0d4fe46a94d62bff2ae001cfec22c?pvs=21): Summaries of important LLM papers.
+
 * [Mixture of Experts Explained](https://huggingface.co/blog/moe):In this blog post, we take a look at the building blocks of MoEs, how they’re trained, and the tradeoffs to consider when serving them for inference. 
 
 * [Mitigating LLM Hallucinations: a multifaceted approach](https://amatriain.net/blog/hallucinations#advancedprompting): In this blog post, you’ll find a comprehensive guide to the most effective strategies for mitigating these hallucinations in user-facing products.

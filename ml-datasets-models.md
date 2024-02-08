@@ -10,6 +10,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning): This project focuses on efficiently fine-tuning large language models using LoRA and Hugging Face's transformers library.
+
 * [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide): Generative AI is experiencing rapid growth, and this repository serves as a comprehensive hub for updates on generative AI research, interview materials, notebooks, and more!
 
 * [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability): A curated list of amazingly awesome tools, papers, articles, and communities focused on Large Language Model (LLM) Interpretability.
@@ -21,6 +23,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 * [LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning): A Collection of Colab Based LLMs Fine tuning Notebooks. This project focuses on efficiently fine-tuning large language models using LoRA and Hugging Face's transformers library.
 
 * [Hallucination Leaderboard](https://github.com/vectara/hallucination-leaderboard): Public LLM leaderboard computed using Vectara's Hallucination Evaluation Model. This evaluates how often an LLM introduces hallucinations when summarizing a document. 
+
+* [Llama 2 Fine-tuning / Inference Recipes, Examples, Benchmarks and Demo Apps](https://github.com/facebookresearch/llama-recipes/tree/main): The 'llama-recipes' repository is a companion to the Llama 2 model. The goal of this repository is to provide examples to quickly get started with fine-tuning for domain adaptation and how to run inference for the fine-tuned models.
 
 * [Gorilla: Large Language Model Connected with Massive APIs](https://github.com/ShishirPatil/gorilla): Gorilla enables LLMs to use tools by invoking APIs. Given a natural language query, Gorilla comes up with the semantically- and syntactically- correct API to invoke. 
 
