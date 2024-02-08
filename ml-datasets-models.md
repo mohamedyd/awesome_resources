@@ -10,6 +10,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide): Generative AI is experiencing rapid growth, and this repository serves as a comprehensive hub for updates on generative AI research, interview materials, notebooks, and more!
+
 * [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability): A curated list of amazingly awesome tools, papers, articles, and communities focused on Large Language Model (LLM) Interpretability.
 
 * [10 GenAI Notebooks: OpenAI, LLM, RAG, GPT, and More](https://mltechniques.com/2023/12/01/10-genai-notebooks-openai-llm-rag-gpt-and-more/): For developers and AI/ML professionals. This comprehensive free resource offered by our sponsor is designed to provide you with hands-on experience and deeper insights into building cutting-edge GenAI applications.
