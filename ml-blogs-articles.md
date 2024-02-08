@@ -12,7 +12,7 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 * [Mitigating LLM Hallucinations: a multifaceted approach](https://amatriain.net/blog/hallucinations#advancedprompting): In this blog post, you’ll find a comprehensive guide to the most effective strategies for mitigating these hallucinations in user-facing products.
 
-* [Llama from scratch (or how to implement a paper without crying)](https://blog.briankitano.com/llama-from-scratch/): The author provides some tips from his experience implementing Llama paper. He covers his tips from implementing a dramatically scaled-down version of Llama for training TinyShakespeare.
+* [Llama from scratch (or how to implement a paper without crying)](https://blog.briankitano.com/llama-from-scratch/): The author provides some tips from his experience implementing Llama paper. He covers his tips for implementing a dramatically scaled-down version of Llama for training TinyShakespeare.
 
 * [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/): interesting visual storytelling of how LLMs and transformers work.
 
@@ -71,7 +71,7 @@ This page contains plenty of blogs and articles on various ML topics, including:
 	
 * [Understanding Large Language Models -- A Transformative Reading List by Sebastian Raschka](https://sebastianraschka.com/blog/2023/llm-reading-list.html): The author collected important research papers to understand the large language models. The reading list will help you understand the breakthroughs in the NLP space over the years: from RNNs in the pre-transformer era to Google BERT to today’s ChatGPT.
 
-* [Jay Alammar’s Article Series on Large Language Models](https://medium.com/geekculture/top-resoruces-to-learn-understand-large-language-models-4d339f7b685d): Jay has written multiple blogs on transformers and large language models that are really impressive and very unique to understanding the basics of large language models.
+* [Jay Alammar’s Article Series on Large Language Models](http://jalammar.github.io/): Jay has written multiple blogs on transformers and large language models that are really impressive and very unique to understanding the basics of large language models.
 
 * [Transformer models: an introduction and catalog — 2023 Edition](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/): A Catalog of Transformer AI models.
 
