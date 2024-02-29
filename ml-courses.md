@@ -102,6 +102,8 @@ This page contains plenty of courses in various topics, including:
 
 * [Stanford XCS224U: Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp): This professional Stanford Online course draws on theoretical concepts from linguistics, natural language processing, and machine learning. Topics include domain adaptation for supervised sentiment, retrieval augmented in-context learning, advanced behavioral evolution, analysis methods, and NLP methods ([Source code](https://github.com/cgpotts/cs224u)).
 
+* [Arabic NLP resources](https://github.com/h9-tect/Arabic_NLP_resources/tree/main): Acollection of courses in NLP in Arabic.
+
 ## Deep Learning
 
 * [Neural Networks for Machine Learning — Geoffrey Hinton, UofT [FULL COURSE]](https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv): A neural network course by the father of deep learning, Geofrey Hinton. 
