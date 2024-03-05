@@ -8,6 +8,8 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 ## Large Language Models
 
+* [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/): In this post, we'll implement a GPT from scratch in just 60 lines of numpy. We'll then load the trained GPT-2 model weights released by OpenAI into our implementation and generate some text.
+
 * [Synthetic data: save money, time and carbon with open source](https://huggingface.co/blog/synthetic-data-save-costs): This blog post shows how you can combine the convenience of LLMs with the control and efficiency of customized models.
 
 * [ICLR 2024 LLM Paper Summary Cards](https://www.notion.so/06f0d4fe46a94d62bff2ae001cfec22c?pvs=21): Summaries of important LLM papers.
