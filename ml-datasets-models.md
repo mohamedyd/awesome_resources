@@ -10,6 +10,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [LLM Explorer: A curated list of open-source LLM models](https://llm.extractum.io/): LLM EXPLORER catalogs about 35,000 open-source LLMs and features really cool LLM categories like: Code Generating Models, Instruction-Based LLMs, Uncensored LLMs, LLMs Fit in 4GB RAM, Trending LLMs & Hot Picks and many more!
+
 * [LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning): This project focuses on efficiently fine-tuning large language models using LoRA and Hugging Face's transformers library.
 
 * [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide): Generative AI is experiencing rapid growth, and this repository serves as a comprehensive hub for updates on generative AI research, interview materials, notebooks, and more!
