@@ -70,6 +70,8 @@
 
 ## MLOps OSS Tools
 
+* [MLOps Python Package](https://github.com/fmind/mlops-python-package): This repository contains a Python code base with best practices designed to support your MLOps initiatives.
+
 * [ClearML](https://clear.ml/): with ClearML, you can easily develop, orchestrate, and automate ML workflows at scale. The free plan enables the following tools: experiment management, model repository, artifacts, dataset versioning, pipelines, agent orchestration, CI/CD automation, reports.
 
 * [flyte](https://github.com/flyteorg/flyte): Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
