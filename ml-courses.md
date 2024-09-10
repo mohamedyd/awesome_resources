@@ -10,6 +10,8 @@ This page contains plenty of courses in various topics, including:
  
 ## Large Language Models
 
+* [LLM University](https://cohere.com/llmu): Welcome to LLM University, your premier learning destination for mastering Enterprise AI technologies. Designed for developers and technical professionals, our hub offers comprehensive resources, expert-led courses, and step-by-step guides to help you start building quickly and stay ahead in the rapidly evolving AI landscape.
+
 * [Hugging Face Course](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o): this course teaches you all things about hungging face ecosystem. 
 
 * [Large Language Model Course](https://github.com/mlabonne/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
