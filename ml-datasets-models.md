@@ -10,6 +10,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [PDF Parsing](https://github.com/0xthierry/llama-parse-cli): The "Llama Parse CLI" is a command-line tool for parsing complex documents into machine and LLM-readable formats. It uses the LlamaIndex Parser API to handle PDFs with text, tables, and images. This tool helps you convert documents to markdown or JSON with a simple terminal command, streamlining data preparation for LLM training and fine-tuning tasks.
+
 * [LLM Explorer: A curated list of open-source LLM models](https://llm.extractum.io/): LLM EXPLORER catalogs about 35,000 open-source LLMs and features really cool LLM categories like: Code Generating Models, Instruction-Based LLMs, Uncensored LLMs, LLMs Fit in 4GB RAM, Trending LLMs & Hot Picks and many more!
 
 * [LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning): This project focuses on efficiently fine-tuning large language models using LoRA and Hugging Face's transformers library.
