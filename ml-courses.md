@@ -10,6 +10,8 @@ This page contains plenty of courses in various topics, including:
  
 ## Large Language Models
 
+* [An Open Course on LLMs, Led by Practitioners](https://parlance-labs.com/education/): Hear from practitioners on a wide range of topics on LLMs, including RAG, evaluation, applications, fine-tuning and prompt engineering.
+
 * [Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph): Build reliable AI agents with LangChain Academy's Introduction to LangGraph course. You'll master graph-based workflows for agent construction. The course teaches memory integration and human-in-the-loop techniques for self-corrective agents. You'll create an AI assistant capable of performing knowledge tasks. Develop smarter, more adaptable AI systems using LangGraph's advanced features.
 
 * [LLM University](https://cohere.com/llmu): Welcome to LLM University, your premier learning destination for mastering Enterprise AI technologies. Designed for developers and technical professionals, our hub offers comprehensive resources, expert-led courses, and step-by-step guides to help you start building quickly and stay ahead in the rapidly evolving AI landscape.

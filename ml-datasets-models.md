@@ -10,7 +10,11 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [How to use ngrok and colab to run large models for free? [Arabic]](https://lnkd.in/dsgbEGza): A trick to avoid costs of running GPUs while developing LLM applications.
+
 * [PDF Parsing](https://github.com/0xthierry/llama-parse-cli): The "Llama Parse CLI" is a command-line tool for parsing complex documents into machine and LLM-readable formats. It uses the LlamaIndex Parser API to handle PDFs with text, tables, and images. This tool helps you convert documents to markdown or JSON with a simple terminal command, streamlining data preparation for LLM training and fine-tuning tasks.
+
+* [Generative AI projects for your resume](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/gen_ai_projects.md): Boost your resume with these amazing Generative AI project ideas, each designed to provide practical experience and highlight your skills with the latest technologies.
 
 * [LLM Explorer: A curated list of open-source LLM models](https://llm.extractum.io/): LLM EXPLORER catalogs about 35,000 open-source LLMs and features really cool LLM categories like: Code Generating Models, Instruction-Based LLMs, Uncensored LLMs, LLMs Fit in 4GB RAM, Trending LLMs & Hot Picks and many more!
 
