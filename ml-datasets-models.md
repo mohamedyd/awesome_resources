@@ -10,6 +10,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [LLM Compressor](https://github.com/vllm-project/llm-compressor): an easy-to-use library for optimizing models for deployment. LLM Compressor is open-source, integrates with HugginFace model repositories, and is compatible with the most popular open-source inferencing systems, such as VLLM Project and Hugging Face.
+
 * [How to use ngrok and colab to run large models for free? [Arabic]](https://lnkd.in/dsgbEGza): A trick to avoid costs of running GPUs while developing LLM applications.
 
 * [PDF Parsing](https://github.com/0xthierry/llama-parse-cli): The "Llama Parse CLI" is a command-line tool for parsing complex documents into machine and LLM-readable formats. It uses the LlamaIndex Parser API to handle PDFs with text, tables, and images. This tool helps you convert documents to markdown or JSON with a simple terminal command, streamlining data preparation for LLM training and fine-tuning tasks.
