@@ -10,6 +10,10 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [Docling](https://ds4sd.github.io/docling/): 𝑫𝒐𝒄𝒍𝒊𝒏𝒈: by IBM, supports different formats like PDF, DOCX, PPTX, XLSX, Images, HTML, AsciiDoc & Markdown, and exports to HTML, Markdown and JSON
+
+* [Nougat: Neural Optical Understanding for Academic Documents](https://facebookresearch.github.io/nougat/): this is a tool developed by Meta to extract knowledge stored in books and scientific journals. This OCR system converts documents into a markup language.
+
 * [Microsoft MarkItDown](https://github.com/microsoft/markitdown): a 100% open-source, one-stop solution for effortlessly converting any file to Markdown—perfect for text analysis, indexing, and more!
 
 * [LLM Compressor](https://github.com/vllm-project/llm-compressor): an easy-to-use library for optimizing models for deployment. LLM Compressor is open-source, integrates with HugginFace model repositories, and is compatible with the most popular open-source inferencing systems, such as VLLM Project and Hugging Face.
