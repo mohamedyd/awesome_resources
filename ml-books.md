@@ -75,6 +75,8 @@ This page comprises plenty of books in various topics, including:
 
 ## Large Language Models
 
+* [Taming LLMs A Practical Guide to LLM Pitfalls with Open Source Software (FREE)](https://www.tamingllms.com/markdown/toc.html#taming-llms): this book takes a critical look at the key limitations and implementation pitfalls that engineers and technical leaders encounter when building LLM-powered applications. Through practical Python examples and proven open-source solutions, it provides an introductory yet comprehensive guide for navigating these challenges. 
+
 * [LLM Resources - Part 2: The Community's Must-Reads](https://www.linkedin.com/pulse/llm-resources-part-2-communitys-must-reads-lukas-tencer-8pync/): An updated list of LLM books covering different topics.
 
 * [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch): In this book, Sebastian Raschka guides you step by step through creating your own LLM, explaining each stage with clear text, diagrams, and examples. You’ll go from the initial design and creation to pretraining on a general corpus, all the way to finetuning for specific tasks.
