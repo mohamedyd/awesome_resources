@@ -8,6 +8,8 @@ This page contains plenty of blogs and articles on various ML topics, including:
 
 ## Large Language Models
 
+* [Agents by Chip Huyen](https://huyenchip.com//2025/01/07/agents.html): A 8000-word note on agents, covering: 1. An overview of agents, 2. How the capability of an AI-powered agent is determined by the set of tools it has access to and its capability for planning, 3. How to select the best set of tools for your agent, 4. Whether LLMs can plan and how to augment a model’s capability for planning, and 5. Agent’s failure modes
+
 * [Hugging Face x LangChain : A new partner package in LangChain](https://huggingface.co/blog/langchain): langchain_huggingface is a partner package in LangChain jointly maintained by Hugging Face and LangChain. This new Python package is designed to bring the power of the latest development of Hugging Face into LangChain and keep it up to date.
 
 * [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/): In this post, we'll implement a GPT from scratch in just 60 lines of numpy. We'll then load the trained GPT-2 model weights released by OpenAI into our implementation and generate some text.
