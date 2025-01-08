@@ -10,6 +10,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [Microsoft MarkItDown](https://github.com/microsoft/markitdown): a 100% open-source, one-stop solution for effortlessly converting any file to Markdown—perfect for text analysis, indexing, and more!
+
 * [LLM Compressor](https://github.com/vllm-project/llm-compressor): an easy-to-use library for optimizing models for deployment. LLM Compressor is open-source, integrates with HugginFace model repositories, and is compatible with the most popular open-source inferencing systems, such as VLLM Project and Hugging Face.
 
 * [How to use ngrok and colab to run large models for free? [Arabic]](https://lnkd.in/dsgbEGza): A trick to avoid costs of running GPUs while developing LLM applications.
