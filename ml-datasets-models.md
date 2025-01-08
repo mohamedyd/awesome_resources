@@ -10,6 +10,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [End-to-End Gen AI App Starter Pack](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack): Google's E2E GenAI App Starter Pack delivers production-ready GenAI tools on Google Cloud Platform. This includes: A LangGraph agent implementation, Built-in testing and monitoring, Seamless deployment with CI/CD and Terraform, and a user-friendly UI for experimentation. Fork, customize and use this resource to build and deploy GenAI apps faster.
+
 * [Docling](https://ds4sd.github.io/docling/): 𝑫𝒐𝒄𝒍𝒊𝒏𝒈: by IBM, supports different formats like PDF, DOCX, PPTX, XLSX, Images, HTML, AsciiDoc & Markdown, and exports to HTML, Markdown and JSON
 
 * [Nougat: Neural Optical Understanding for Academic Documents](https://facebookresearch.github.io/nougat/): this is a tool developed by Meta to extract knowledge stored in books and scientific journals. This OCR system converts documents into a markup language.
