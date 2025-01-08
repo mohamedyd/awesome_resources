@@ -75,6 +75,8 @@ This page comprises plenty of books in various topics, including:
 
 ## Large Language Models
 
+* [LLM Resources - Part 2: The Community's Must-Reads](https://www.linkedin.com/pulse/llm-resources-part-2-communitys-must-reads-lukas-tencer-8pync/): An updated list of LLM books covering different topics.
+
 * [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch): In this book, Sebastian Raschka guides you step by step through creating your own LLM, explaining each stage with clear text, diagrams, and examples. You’ll go from the initial design and creation to pretraining on a general corpus, all the way to finetuning for specific tasks.
 
 * [Applied Generative AI for Beginners: Practical Knowledge on Diffusion Models, ChatGPT, and Other LLMs](https://www.amazon.com/Applied-Generative-Beginners-Practical-Knowledge/dp/1484299930): This book provides a deep dive into the world of generative AI, covering everything from the basics of neural networks to the intricacies of large language models like ChatGPT and Google Bard. Applied Generative AI for Beginners is structured around detailed chapters that will guide you from foundational knowledge to practical implementation.
