@@ -10,6 +10,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your computer.
+
 * [End-to-End Gen AI App Starter Pack](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack): Google's E2E GenAI App Starter Pack delivers production-ready GenAI tools on Google Cloud Platform. This includes: A LangGraph agent implementation, Built-in testing and monitoring, Seamless deployment with CI/CD and Terraform, and a user-friendly UI for experimentation. Fork, customize and use this resource to build and deploy GenAI apps faster.
 
 * [Docling](https://ds4sd.github.io/docling/): 𝑫𝒐𝒄𝒍𝒊𝒏𝒈: by IBM, supports different formats like PDF, DOCX, PPTX, XLSX, Images, HTML, AsciiDoc & Markdown, and exports to HTML, Markdown and JSON
