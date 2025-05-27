@@ -10,6 +10,8 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [FastAPI-Ignite Boilerplate](https://github.com/bakrianoo/fastapi-ignite): production-ready FastAPI boilerplate application with a comprehensive set of features for modern web backend development. It can be used while building API-based LLM applications. 
+
 * [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models): In this repository, you will find the code for all examples throughout the book Hands-On Large Language Models written by Jay Alammar and Maarten Grootendorst.
 
 * [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your computer.
