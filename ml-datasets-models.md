@@ -10,13 +10,15 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 ## Large Language Models
 
+* [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models): In this repository, you will find the code for all examples throughout the book Hands-On Large Language Models written by Jay Alammar and Maarten Grootendorst.
+
 * [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your computer.
 
 * [End-to-End Gen AI App Starter Pack](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack): Google's E2E GenAI App Starter Pack delivers production-ready GenAI tools on Google Cloud Platform. This includes: A LangGraph agent implementation, Built-in testing and monitoring, Seamless deployment with CI/CD and Terraform, and a user-friendly UI for experimentation. Fork, customize and use this resource to build and deploy GenAI apps faster.
 
 * [Docling](https://ds4sd.github.io/docling/): 𝑫𝒐𝒄𝒍𝒊𝒏𝒈: by IBM, supports different formats like PDF, DOCX, PPTX, XLSX, Images, HTML, AsciiDoc & Markdown, and exports to HTML, Markdown and JSON
 
-* [Nougat: Neural Optical Understanding for Academic Documents](https://facebookresearch.github.io/nougat/): this is a tool developed by Meta to extract knowledge stored in books and scientific journals. This OCR system converts documents into a markup language.
+* [Nougat: Neural Optical Understanding for Academic Documents](https://facebookresearch.github.io/nougat/): This is a tool developed by Meta to extract knowledge stored in books and scientific journals. This OCR system converts documents into a markup language.
 
 * [Microsoft MarkItDown](https://github.com/microsoft/markitdown): a 100% open-source, one-stop solution for effortlessly converting any file to Markdown—perfect for text analysis, indexing, and more!
 
@@ -28,7 +30,7 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 * [Generative AI projects for your resume](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/gen_ai_projects.md): Boost your resume with these amazing Generative AI project ideas, each designed to provide practical experience and highlight your skills with the latest technologies.
 
-* [LLM Explorer: A curated list of open-source LLM models](https://llm.extractum.io/): LLM EXPLORER catalogs about 35,000 open-source LLMs and features really cool LLM categories like: Code Generating Models, Instruction-Based LLMs, Uncensored LLMs, LLMs Fit in 4GB RAM, Trending LLMs & Hot Picks and many more!
+* [LLM Explorer: A curated list of open-source LLM models](https://llm.extractum.io/): LLM EXPLORER catalogs about 35,000 open-source LLMs and features cool LLM categories like: Code Generating Models, Instruction-Based LLMs, Uncensored LLMs, LLMs Fit in 4GB RAM, Trending LLMs & Hot Picks and many more!
 
 * [LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning): This project focuses on efficiently fine-tuning large language models using LoRA and Hugging Face's transformers library.
 
@@ -54,21 +56,21 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 * [AutoTrain Advanced](https://github.com/huggingface/autotrain-advanced): With AutoTrain Advanced, anyone can use colab to finetune LLMs just by uploading data and tuning parameters! All you need to do is create a folder called data and put your train.csv in it! Make sure it has text column, adjust params, model, etc, and boom your model will start training.
 
-* [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/): Connecting your own data with LLMs is a superpower to make these models really performant and really useful, this is exactly where the LlamaIndex framework shines. 
+* [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/): Connecting your own data with LLMs is a superpower to make these models really performant and useful, this is exactly where the LlamaIndex framework shines. 
 
-* [H2O LLM studio by H2O.ai](https://github.com/h2oai/h2o-llmstudio): no-code toolkit to finetune large language models for multiple downstream applications. It's equipped with multiple finetuning techniques, such as Low-Rank Adaptation (LoRA) and Reinforecement Learning (RL). It also allows to track and evaluate finetuning experiments using Neptune toolkit and import/export models with Hugging Face
+* [H2O LLM studio by H2O.ai](https://github.com/h2oai/h2o-llmstudio): no-code toolkit to finetune large language models for multiple downstream applications. It's equipped with multiple finetuning techniques, such as Low-Rank Adaptation (LoRA) and Reinforcement Learning (RL). It also allows to track and evaluate finetuning experiments using Neptune toolkit and import/export models with Hugging Face
 
 * [OpenLLM](https://github.com/bentoml/OpenLLM): An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
 
 * [Prompt2Model - Generate Deployable Models from Instructions](https://github.com/neulab/prompt2model): Prompt2Model is a system that takes a natural language task description (like the prompts used for LLMs such as ChatGPT) to train a small special-purpose model that is conducive for deployment. 
 
-* [Open LLMs](https://github.com/eugeneyan/open-llms): a list of LLMs (Large Language Models) are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-M).
+* [Open LLMs](https://github.com/eugeneyan/open-llms): a list of LLMs (Large Language Models) that are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-M).
 
 * [List of Open Sourced Fine-Tuned Large Language Models (LLM)](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76): An incomplete list of open-sourced fine-tuned Large Language Models (LLM) you can run locally on your computer. You can have most up and running for less than $100, including training dataset and GPU costs. 
 
 * [Scikit-LLM: Sklearn Meets Large Language Models](https://github.com/iryna-kondr/scikit-llm): Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.
 
-* [StarCoder](https://huggingface.co/bigcode/starcoder): StarCoder is the first large model (15B) which is both high performance (beating the like of PaLM, LLaMa, CodeGen or OpenAI code-crushman-001 on code generation) and also trained only on carefully vetted data.
+* [StarCoder](https://huggingface.co/bigcode/starcoder): StarCoder is the first large model (15B) which is both high performance (beating the likes of PaLM, LLaMa, CodeGen or OpenAI code-crushman-001 on code generation) and also trained only on carefully vetted data.
 
 * [Practical Guides for Large Language Models ](https://github.com/Mooler0410/LLMsPracticalGuide): A curated (still actively updated) list of practical guide resources of LLMs
 
@@ -103,11 +105,11 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 * [Ludwig](https://github.com/ludwig-ai/ludwig): Ludwig is a declarative machine learning framework that makes it easy to define machine learning pipelines using a simple and flexible data-driven configuration system. Ludwig will build an end-to-end machine learning pipeline automatically, using whatever is explicitly specified in the configuration, while falling back to smart defaults for any parameters that are not.
 
-* [Sktime](https://github.com/sktime/sktime): it is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks. Currently, this includes time series classification, regression, clustering, annotation and forecasting. It comes with time series algorithms and scikit-learn compatible tools to build, tune and validate time series models.
+* [Sktime](https://github.com/sktime/sktime): it is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks. Currently, this includes time series classification, regression, clustering, annotation and forecasting. It comes with time series algorithms and scikit-learn compatible tools to build, tune, and validate time series models.
 
 * [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor): Tensor2Tensor is a library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 
-* [Keras Code Example](https://keras.io/examples/): A list of hosted Jupyter notebooks which provide focused demonstrations of vertical deep learning workflows.
+* [Keras Code Example](https://keras.io/examples/): A list of hosted Jupyter notebooks that provide focused demonstrations of vertical deep learning workflows.
 
 * [285+ Machine Learning Projects with Python](https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265): This article will introduce you to over 290 ML projects solved and explained using Python.
 
