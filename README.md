@@ -19,13 +19,15 @@ Whether you're a beginner looking to get started in the field or an experienced 
 
 | | | | | |
 |-|-|-|-|-|
+| GenAI for Coding   | [Articles on LLMs Coding](genai-coding-articles.md) |  |  |  |
+| Generative AI      | [GenAI Books](genai-books.md) | [GenAI Articles](genai-articles.md) | [GenAI Courses](genai-courses.md)  | [GenAI Repositories](genai-repos.md)  |
 | Machine Learning      | [ML Books](ml-books.md) | [ML Articles](ml-blogs-articles.md) | [ML Courses](ml-courses.md)   | [ML Repositories](ml-datasets-models.md) |
 | MLOps     		| [MLOps Books](mlops-books.md) | [MLOps Blogs & Articles](mlops-blogs-articles.md) | [Courses](mlops-courses.md)      | |
 | Python		| [Books & Articles](python-books.md) | [Language-related Repos](python-repos.md) | | | 
 | Explainable AI | [XAI Books](xai-books.md) | [XAI Repos & Tools](xai-repos-tools.md) | | |
 | Reinforcement Learning | [RL Books](rl-books-articles.md) | [RL Courses](rl-courses.md) | [RL Articles](rl-books-articles.md) | |
 | Miscellaneous Resources | [Learning Platforms](general-learning-resources.md) | [Courses](general-courses.md) | [Books](general-books.md) | [Useful Repos & Tools](general-repos-tools.md) |
-
+| | | | | |
 
 ## Continuous Awesome Resources
 

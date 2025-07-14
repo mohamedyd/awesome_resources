@@ -1,0 +1,20 @@
+# Generative AI Books
+
+This page contains a list of books related to Generative AI, Large Language Models (LLMs), and Natural Language Processing (NLP). The books cover a range of topics from practical applications to theoretical foundations. 
+
+
+* [Taming LLMs A Practical Guide to LLM Pitfalls with Open Source Software (FREE)](https://www.tamingllms.com/markdown/toc.html#taming-llms): this book takes a critical look at the key limitations and implementation pitfalls that engineers and technical leaders encounter when building LLM-powered applications. Through practical Python examples and proven open-source solutions, it provides an introductory yet comprehensive guide for navigating these challenges. 
+
+* [LLM Resources - Part 2: The Community's Must-Reads](https://www.linkedin.com/pulse/llm-resources-part-2-communitys-must-reads-lukas-tencer-8pync/): An updated list of LLM books covering different topics.
+
+* [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch): In this book, Sebastian Raschka guides you step by step through creating your own LLM, explaining each stage with clear text, diagrams, and examples. You’ll go from the initial design and creation to pretraining on a general corpus, all the way to finetuning for specific tasks.
+
+* [Applied Generative AI for Beginners: Practical Knowledge on Diffusion Models, ChatGPT, and Other LLMs](https://www.amazon.com/Applied-Generative-Beginners-Practical-Knowledge/dp/1484299930): This book provides a deep dive into the world of generative AI, covering everything from the basics of neural networks to the intricacies of large language models like ChatGPT and Google Bard. Applied Generative AI for Beginners is structured around detailed chapters that will guide you from foundational knowledge to practical implementation.
+
+* [Practical Natural Language Processing](https://www.practicalnlp.ai/): Through the course of the book, we will guide you through the process of building real-world NLP solutions embedded in larger product setups via a compendium of over 450 references. ([GitHub](https://github.com/practical-nlp/practical-nlp-code))
+
+* [Natural Language Processing with Transformers](https://transformersbook.com/): In this guide, authors use a hands-on approach to teach you how transformers work and how to integrate them in your applications. ([GitHub](https://github.com/nlp-with-transformers))
+
+* [Transformers for Natural Language Processing](https://www.packtpub.com/product/transformers-for-natural-language-processing/9781800565791): The book trains you in three stages. The first stage introduces you to transformer architectures, starting with the original transformer, before moving on to RoBERTa, BERT, and DistilBERT models. You will discover training methods for smaller transformers that can outperform GPT-3 in some cases. In the second stage, you will apply transformers for Natural Language Understanding (NLU) and Natural Language Generation (NLG). Finally, the third stage will help you grasp advanced language understanding techniques such as optimizing social network datasets and fake news identification. ([GitHub](https://github.com/Denis2054/Transformers-for-NLP-2nd-Edition))
+
+* [GPT-3: Building Innovative NLP Products Using Large Language Models](https://books.google.de/books/about/Gpt_3.html?id=QFi0zgEACAAJ&redir_esc=y): This book is for anyone who wants to understand the scope and nature of GPT-3. The book will evaluate the GPT-3 API from multiple perspectives and discuss the various components of the new, burgeoning economy enabled by GPT-3. This book will look at the influence of GPT-3 on important AI trends like creator economy, no-code, and Artificial General Intelligence and will equip the readers to structure their imaginative ideas and convert them from mere concepts to reality.
