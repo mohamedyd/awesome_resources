@@ -7,7 +7,13 @@
 
 * [On the Effectiveness of Large Language Models in Domain-Specific Code Generation](https://arxiv.org/pdf/2312.01639): The study demonstrates that LLMs exhibit sub-optimal performance in generating domain-specific code, due to their limited proficiency in utilizing domain-specific libraries. We further observe that incorporating API knowledge as prompts can empower LLMs to generate more professional code.
 
+* [The potential of LLMs for coding with low-resource and domain-specific programming languages](https://arxiv.org/pdf/2307.13018): The study suggests that LLMs can be a useful tool for writing, understanding, improving, and documenting gretl code, which includes generating descriptive docstrings for functions and providing precise explanations for abstract and poorly documented econometric code.
+
 * [Grammar Prompting for Domain-Specific Language Generation with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/cd40d0d65bfebb894ccc9ea822b47fa8-Paper-Conference.pdf): The article proposes grammar prompting, a simple approach to enable LLMs to use external knowledge and domain-specific constraints, expressed through a grammar in Backus–Naur Form (BNF), during in-context learning.
+
+* [DSL-Xpert: LLM-driven Generic DSL Code Generation](https://dl.acm.org/doi/pdf/10.1145/3652620.3687782?casa_token=xpbmFqLswCQAAAAA:_T8rVHsUmA85RDbiM-hInnzCEOGMv6yLbefI-huaGNt0rg5kLI9V5eV3Gans183kCZezot0g7dBc): This paper presents a tool in which developers can perform what is known as semantic parsing. In other words, the developer can ask a pre-trained LLM to translate a natural language instruction into the vocabulary of the established DSL. Thus, by setting the DSL grammar as context (grammar prompting) and providing usage examples (few-shot learning), the LLM can quickly generate reliable domain-specific code
+
+* [MONOCODER: Domain-Specific Code Language Model for HPC Codes and Tasks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10938441&casa_token=jN11230yH9YAAAAA:v02BO2mwyVtzYWlsCzuB1MiqNbxwpgKKwXxyfbZW3y_Q8DSbP0QaGzDviwZa3bf3eZAIChWu8g&tag=1): The study questions choices made by existing LLMs by developing smaller language models (LMs) for specific domains -- the authors call them domain-specific LMs. Specifically, The study starts with High-Performance Computing (HPC) as a domain and builds an HPC-specific LM, named MONOCODER, which is orders of magnitude smaller than existing LMs but delivers better performance on non-HPC and HPC codes.
 
 ## General Coding with LLMs 
 
@@ -19,3 +25,5 @@
 questions: (1) What LLMs are specifically designed for software engineering tasks, and their relationship? (2) Do Code LLMs outperform general LLMs in software engineering tasks? (3) Which LLMs are more proficient in different software engineering tasks? 
 
 * [Code LLMs: A Taxonomy-based Survey](https://arxiv.org/pdf/2412.08291): this survey, published in 2024, offers insights into the current state and future directions of LLMs in coding tasks, including their applications and limitations.
+
+* [Using an LLM to Help With Code Understanding](https://dl.acm.org/doi/pdf/10.1145/3597503.3639187): the study investigates the effectiveness of generation-based information support using LLMs to aid developers in code understanding.
