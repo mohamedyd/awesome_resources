@@ -7,6 +7,8 @@
 
 * [On the Effectiveness of Large Language Models in Domain-Specific Code Generation](https://arxiv.org/pdf/2312.01639): The study demonstrates that LLMs exhibit sub-optimal performance in generating domain-specific code, due to their limited proficiency in utilizing domain-specific libraries. We further observe that incorporating API knowledge as prompts can empower LLMs to generate more professional code.
 
+* [Grammar Prompting for Domain-Specific Language Generation with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/cd40d0d65bfebb894ccc9ea822b47fa8-Paper-Conference.pdf): The article proposes grammar prompting, a simple approach to enable LLMs to use external knowledge and domain-specific constraints, expressed through a grammar in Backus–Naur Form (BNF), during in-context learning.
+
 ## General Coding with LLMs 
 
 * [Paradigm shift on Coding Productivity Using GenAI (2025)](https://arxiv.org/pdf/2504.18404?): Through surveys and interviews with industrial domain-experts, the authors identify primary productivity-influencing factors, including task complexity, coding skills, domain knowledge, and GenAI integration. The findings indicate that GenAI tools enhance productivity in routine coding tasks (e.g., refactoring and Javadoc generation) but face challenges in complex, domain-specific activities due to limited context-awareness of codebases and insufficient support for customized design rules.
