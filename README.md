@@ -19,7 +19,7 @@ Whether you're a beginner looking to get started in the field or an experienced 
 
 | | | | | |
 |-|-|-|-|-|
-| Machine Learning      | [ML Books](ml-books.md) | [ML Articles](ml-blogs-articles.md) | [ML Courses](ml-courses.md)   | [Datasets & ML Models](ml-datasets-models.md) |
+| Machine Learning      | [ML Books](ml-books.md) | [ML Articles](ml-blogs-articles.md) | [ML Courses](ml-courses.md)   | [ML Repositories](ml-datasets-models.md) |
 | MLOps     		| [MLOps Books](mlops-books.md) | [MLOps Blogs & Articles](mlops-blogs-articles.md) | [Courses](mlops-courses.md)      | |
 | Python		| [Books & Articles](python-books.md) | [Language-related Repos](python-repos.md) | | | 
 | Explainable AI | [XAI Books](xai-books.md) | [XAI Repos & Tools](xai-repos-tools.md) | | |
