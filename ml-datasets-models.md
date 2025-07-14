@@ -1,4 +1,4 @@
-# Datasets, Pretrained Models, and ML Problems
+# ML Repos
 
 This page contains plenty of resources, including pretrained models, datasets, and ML problems for learning purposes. 
 
@@ -9,6 +9,9 @@ This page contains plenty of resources, including pretrained models, datasets, a
 
 
 ## Large Language Models
+
+* [Agents Towards Production](https://github.com/NirDiamant/agents-towards-production): Agents Towards Production is your go-to resource for building GenAI agents that scale - from zero to production.
+Whether you're just starting or refining your deployment stack, this repo gives you the tools, patterns, and code examples to do it right.
 
 * [FastAPI-Ignite Boilerplate](https://github.com/bakrianoo/fastapi-ignite): production-ready FastAPI boilerplate application with a comprehensive set of features for modern web backend development. It can be used while building API-based LLM applications. 
 
