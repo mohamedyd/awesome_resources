@@ -20,6 +20,7 @@ Whether you're a beginner looking to get started in the field or an experienced 
 
 
 | Category | | | | |
+|----------|-|-|-|-|
 | GenAI for Coding   | [Articles on LLMs Coding](genai-coding-articles.md) | [Tools for Coding with LLMs](genai-coding-tools.md) | [Code Assistants](genai-code-assistants.md)  |  |
 | Generative AI      | [GenAI Books](genai-books.md) | [GenAI Articles](genai-articles.md) | [GenAI Courses](genai-courses.md)  | [GenAI Repositories](genai-repos.md)  |
 | Machine Learning      | [ML Books](ml-books.md) | [ML Articles](ml-blogs-articles.md) | [ML Courses](ml-courses.md)   | [ML Repositories](ml-datasets-models.md) |
