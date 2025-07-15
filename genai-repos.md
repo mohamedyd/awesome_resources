@@ -2,6 +2,8 @@
 
 This page contains a list of repositories related to Generative AI, Large Language Models (LLMs), and Natural Language Processing (NLP). 
 
+* [GenAI Agents: Comprehensive Repository for Development and Implementation](https://github.com/NirDiamant/GenAI_Agents): This repository serves as a comprehensive resource for learning, building, and sharing GenAI agents, ranging from simple conversational bots to complex, multi-agent systems.
+
 * [Agents Towards Production](https://github.com/NirDiamant/agents-towards-production): Agents Towards Production is your go-to resource for building GenAI agents that scale - from zero to production.
 Whether you're just starting or refining your deployment stack, this repo gives you the tools, patterns, and code examples to do it right.
 

@@ -27,3 +27,13 @@ questions: (1) What LLMs are specifically designed for software engineering task
 * [Code LLMs: A Taxonomy-based Survey](https://arxiv.org/pdf/2412.08291): this survey, published in 2024, offers insights into the current state and future directions of LLMs in coding tasks, including their applications and limitations.
 
 * [Using an LLM to Help With Code Understanding](https://dl.acm.org/doi/pdf/10.1145/3597503.3639187): the study investigates the effectiveness of generation-based information support using LLMs to aid developers in code understanding.
+
+
+
+## Blog Posts
+
+* [7 Ways GenAI Can Help Improve Software Development](https://www.oracle.com/de/artificial-intelligence/generative-ai/generative-ai-software-development/): The blog post discusses seven ways in which Generative AI can help improve software development, including code generation, code review, and code documentation.
+
+* [Generative AI in Software Engineering: Scenarios and Challenges Ahead](https://www.iese.fraunhofer.de/blog/generative-ai-in-software-engineering-scenarios-and-challenges/): This post discusses the future scenarios for the adoption of GenAI in Software Development. 
+
+* [Security risks of AI-generated code and how to manage them](https://www.techtarget.com/searchsecurity/tip/Security-risks-of-AI-generated-code-and-how-to-manage-them): The article discusses the security risks of AI-generated code and provides strategies for managing them. 
