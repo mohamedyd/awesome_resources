@@ -2,6 +2,10 @@
 
 This page contains a list of repositories related to Generative AI, Large Language Models (LLMs), and Natural Language Processing (NLP). 
 
+* [Microsoft: AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners): 11 Lessons teaching everything you need to know to start building AI Agents.
+
+* [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file): This repository serves as a comprehensive hub for updates on generative AI research, interview materials, notebooks, and more!
+
 * [GenAI Agents: Comprehensive Repository for Development and Implementation](https://github.com/NirDiamant/GenAI_Agents): This repository serves as a comprehensive resource for learning, building, and sharing GenAI agents, ranging from simple conversational bots to complex, multi-agent systems.
 
 * [Agents Towards Production](https://github.com/NirDiamant/agents-towards-production): Agents Towards Production is your go-to resource for building GenAI agents that scale - from zero to production.
