@@ -1,6 +1,13 @@
-# Tools for Coding with LLMs
+# Models/Tools for Coding with LLMs
 
-This page contains resources and information related to AI coding tools.
+This page contains resources and information related to AI coding models and tools.
+
+## Powerful models for coding Tasks
+
+* [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/?utm_source=alphasignal&utm_campaign=2025-07-15&asuniq=98a017d3): Kimi K2 is a Mixture-of-Experts model with 32 billion activated parameters and 1 trillion total parameters. It achieves state-of-the-art performance in frontier knowledge, math, and coding among non-thinking models.
+* [DeepSeek V3 0324](https://api-docs.deepseek.com/news/news250325): a 685B-parameter, mixture-of-experts model, is the latest iteration of the flagship chat model family from the DeepSeek team.
+
+## Tools
 
 * [How to Protect AI-Generated Code Quality Using SonarQube AI Code Assurance](https://www.sonarsource.com/resources/how-to-protect-ai-generated-code-quality/?utm_medium=paid&utm_source=google&utm_campaign=ss-protect-ai-code&utm_content=21774971465&utm_term=ai%20assisted%20coding&s_category=Paid&s_source=Paid%20Search&s_origin=google&s_campaign=SQ-EMEA-East-DACH-Generic&s_content=AI&s_term=ai%20assisted%20coding&s_category=Paid&s_source=Paid%20Search&s_origin=Google&cq_src=google_ads&cq_cmp=21774971465&cq_con=166756621845&cq_term=ai%20assisted%20coding&cq_med=&cq_plac=&cq_net=g&cq_pos=&cq_plt=gp&gad_source=1&gad_campaignid=21774971465&gclid=CjwKCAjw1dLDBhBoEiwAQNRiQcSqQ9l1smH55RXn9RBcNTXeV5FSHth-yFcJWJcowpQ4_YcFP460HRoCXU8QAvD_BwE): It's imperative to ensure that AI-generated code meets the same high standards as code written manually by developers. This is where Sonar's AI Code Assurance comes into play. We provide comprehensive solutions spanning SonarQube for IDE, SonarQube Server, and SonarQube Cloud, designed to integrate seamlessly into your development workflow. These tools automatically analyze code for issues, enforce coding standards, and guide developers in remediating problems effectively.
 
