@@ -6,6 +6,8 @@ This page contains resources and information related to AI coding models and too
 
 * [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/?utm_source=alphasignal&utm_campaign=2025-07-15&asuniq=98a017d3): Kimi K2 is a Mixture-of-Experts model with 32 billion activated parameters and 1 trillion total parameters. It achieves state-of-the-art performance in frontier knowledge, math, and coding among non-thinking models.
 * [DeepSeek V3 0324](https://api-docs.deepseek.com/news/news250325): a 685B-parameter, mixture-of-experts model, is the latest iteration of the flagship chat model family from the DeepSeek team.
+* [Devstral](https://mistral.ai/news/devstral-2507?utm_source=alphasignal&utm_campaign=2025-07-15&asuniq=e221967b): Devstral Medium is available through our API, and sets a new point on the cost/performance pareto frontier, surpassing Gemini 2.5 Pro and GPT 4.1 for a quarter of the price. For those who prefer on-premise solutions, Devstral Medium can be directly deployed on private infrastructure, offering enhanced data privacy and control. We also support custom fine-tuning for Devstral Medium, allowing enterprises to customize the model for specific use cases and achieve optimal performance tailored to their specific requirements. 
+
 
 ## Tools
 
