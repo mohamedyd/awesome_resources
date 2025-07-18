@@ -2,6 +2,7 @@
 
 This page contains a list of articles related to Generative AI, Large Language Models (LLMs), and Natural Language Processing (NLP). 
 
+* [Best Open Source LLMs of 2025](https://klu.ai/blog/open-source-llm-models): The article discusses the most recent open source LLMs, how to fine-tune them, and how to deploy them in production.
 
 * [Agents by Chip Huyen](https://huyenchip.com//2025/01/07/agents.html): A 8000-word note on agents, covering: 1. An overview of agents, 2. How the capability of an AI-powered agent is determined by the set of tools it has access to and its capability for planning, 3. How to select the best set of tools for your agent, 4. Whether LLMs can plan and how to augment a model’s capability for planning, and 5. Agent’s failure modes 
 
