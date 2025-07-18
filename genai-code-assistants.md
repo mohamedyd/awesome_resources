@@ -21,3 +21,7 @@ This page provides an overview of GenAI-based code assistants, including their b
 * [The best AI for coding in 2025 (including a new winner - and what not to use)](https://www.zdnet.com/article/the-best-ai-for-coding-in-2025-including-a-new-winner-and-what-not-to-use/): The article lists multiple AI models that can be used for coding, together with their features and benefits.
 
 * [Beyond one-size-fits-all: Why Grab embraces multiple AI coding assistants](https://www.grab.com/sg/inside-grab/stories/beyond-one-size-fits-all-why-grab-embraces-multiple-ai-coding-assistants/): The article discusses how Grab, a technology company, is using multiple AI coding assistants to enhance its software development process. It highlights the benefits of using different tools for different tasks and how this approach can lead to better code quality and productivity.
+
+## open-Source Projects
+
+*[Build YOUR Local AI Coding Agent (No Cloud Needed)](https://pub.towardsai.net/build-a-local-ai-coding-agent-no-cloud-needed-77f9c5aa4cff): This post discusses building a local Cursor — a terminal-based AI coding agent that runs entirely offline using open-source models.
